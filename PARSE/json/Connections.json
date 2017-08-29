@@ -1,0 +1,416 @@
+{
+    "__v": 0,
+    "_id": "57eaa89889ed4ed46600019e",
+    "author": "Jane Skellet",
+    "description": "<p>A collection of eight Flash-Fiction 'shorts' that seek out our connections with the spirit of each spot:</p><p>&nbsp;</p><p>'Under Your Shoe' - Walk with the Undercliff runners of the past &amp; present.</p><p>&nbsp;</p><p>'Monarch of the Cliff' - Float up the Zig Zag path with a transformational song.</p><p>&nbsp;</p><p>'Comin' Through the Trees' - Meet the sky spirits &amp; a local hero.</p><p>&nbsp;</p><p>'How Many?' - Rest under the Holm Oaks &amp; show respect for the tree spirits.</p><p>&nbsp;</p><p>'Railing Runner' - Keep young and playful, whatever your age.</p><p>&nbsp;</p><p>'Bench Life' - Embraced in a hidden garden grotto, the Lady of the house is watching us.</p><p>&nbsp;</p><p>'Up on the Overcliff' - Visions of creatures in the form of human seaside society.</p><p>&nbsp;</p><p>'Rolling With It!' - Glide with&nbsp;the Princess through The Gardens to the sea.</p><p>Story &copy; 2016 Jane Skellet, All Rights Reserved.<br/><br/>Editors Charlie Hargood and Verity Hunt<br/><br/> All Images and Audio &copy; of either the author or freely availabe for reuse under creative commons.</p>",
+    "name": "Connections",
+    "publishState": "published",
+    "tags": ["Bournemouth"],
+    "cachedMediaIds": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25"],
+    "functions": [{
+        "type": "set",
+        "conditions": [],
+        "variable": "seen1",
+        "value": "true",
+        "id": "seen1"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen2",
+        "value": "true",
+        "id": "seen2"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3",
+        "value": "true",
+        "id": "seen3"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen4",
+        "value": "true",
+        "id": "seen4"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen5",
+        "value": "true",
+        "id": "seen5"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen6",
+        "value": "true",
+        "id": "seen6"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen7",
+        "value": "true",
+        "id": "seen7"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen8",
+        "value": "true",
+        "id": "seen8"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen9",
+        "value": "true",
+        "id": "seen9"
+    }],
+    "conditions": [{
+        "bool": "true",
+        "type": "location",
+        "location": "d6949a99a9b219148199a673",
+        "id": "undercliff"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "db8b064a49e872d2721cd6ac",
+        "id": "zigzag"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "aab458ac363b6626c497ed62",
+        "id": "memorial"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "2c3c2f9a8389bdd882d399bc",
+        "id": "holmoaks"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "386365c7948a1ea73721c9ae",
+        "id": "railings"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "ca13333cf61e565dfb94e88c",
+        "id": "garden"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "27e719e23c0509a4dae3eeca",
+        "id": "eastoc"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "cdb41c23312b840f1114451c",
+        "id": "lg"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen1",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen1"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen1",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen1"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen2",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen2"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen2",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen2"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen4",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen4"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen4",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen4"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen5",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen5"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen5",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen5"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen6",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen6"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen6",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen6"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen7",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen7"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen7",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen7"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen8",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen8"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen8",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen8"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen9",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen9"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen9",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen9"
+    }],
+    "id": "57eaa89889ed4ed46600019e",
+    "pages": [{
+        "content": "<p>Look down!&nbsp; Look right down!&nbsp; Lower ... under ...<br /> Down to the sole place of the squashed and the trampled.<br /> <br /> Hello, up there! You seem &lsquo;elevated&rsquo; - somehow ...<br /> Let me be your sole-mate &ndash;&nbsp; bring you down to the ground ... walk in me ... <br /> Let&rsquo;s foot it together &ndash; <br /> for I feel every inch&rsquo;s breath of stones and sand and carpets of concrete and grass.<br /> Variety is the spice in the spit and the chewed gum of life &ndash; it sticks &ndash; and each step grinds it in &ndash; deeper in ... into our soles ...</p> <p>Thrum &ndash; thrumm &ndash; thrummm! ... Here they come &ndash; the runners &ndash; pounding and stomping the ground in the thumping of heartbeats &ndash; drumming the creatures from their earth-beds and plumbing the roots. <br /> Eyes are bulging. Lungs are bellowing &ndash; pumping iron in the muscle-machines.</p> <p><img data-media-id='1'/></p><p>These are the tub men &ndash; but you haven&rsquo;t seen them &ndash; have you?<br /> Shhh! Don&rsquo;t tell ... Eyes down ... Chew the scrub ...</p><p><img data-media-id='2'/></p> <p>In the silence of the heath and the secret of the chine shadows &ndash; &lsquo;brandy for the parson, baccy for the clerk&rsquo; - all stashed in the wooden tubs strapped on fronts and backs, as they wend across tracks that vanish in the light behind them ... the smugglers are gone ... the local heroes ... and we didn&rsquo;t see them ...</p><p><img data-media-id='3'/></p><p>And the prints they&rsquo;ve left &ndash; like the dinosaurs before them &ndash; are buried deep beneath the burrows and lairs and cocoons of the living ...</p> <p>Thrum &ndash; thrum &ndash; thrummm! ... Here they come &ndash; the runners &ndash; pounding and stomping the ground in the thumping of heartbeats - drumming the creatures from their earth-beds and plumbing the roots. <br /> Eyes are bulging. Lungs are bellowing &ndash; pumping iron in the muscle-machines.</p><p><img data-media-id='4'/></p> <p>These are the charity fun-runners ... out to raise money for the troubled and needy ... out in the sun ... the local heroes ... for all to see ...<br /> Come! Let&rsquo;s join them ... our tongues are smoothed and laces are tied ...<br /> We can join the beat of the tramping feet ...<br /> We&rsquo;re on track &ndash; on course ... out from under your shoe.</p>",
+        "_id": "57f680bdc7dde22210000659",
+        "hint": {
+            "direction": "To Undercliff Drive",
+            "locations": ["d6949a99a9b219148199a673"]
+        },
+        "functions": ["seen1"],
+        "conditions": ["notSeen1", "undercliff"],
+        "id": "57f680bdc7dde22210000659",
+        "name": "UNDER YOUR SHOE",
+        "pageTransition": "next"
+    }, {
+        "content": "<p><audio data-media-id='26'></audio></p><p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>Watch through the netting</p> <p>Between you and me</p> <p>Butterfly spirits</p> <p>On a hedgerow sea.</p> <p>&nbsp;</p> <p>Climb up the cliff</p> <p>With a zig-zag-zug</p> <p>Hunting the flyers</p> <p>The beetle and the bug.</p> <p>&nbsp;</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>We are the wild ones</p> <p>Who want to be</p> <p>Free in our heathland</p> <p>Society.</p> <p>&nbsp;</p> <p>Climbing and crawling</p> <p>On every lead</p> <p>Over and under</p> <p>To shelter beneath.</p> <p>&nbsp;</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>Have you time</p> <p>To take a break?</p> <p>Catch your breath -</p> <p>Enjoy the view.</p> <p>&nbsp;</p> <p>Hear the silence</p> <p>Of my wings</p> <p>Skittering in</p> <p>That bush near you.</p> <p>&nbsp;</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>Make yourself</p><p><img data-media-id='5'/><img data-media-id='6'/></p> <p>A habitat hat</p> <p>Grab some stems</p> <p>And twist them round.</p> <p>&nbsp;</p> <p>Wind and tie and</p> <p>Bind a wreath</p> <p>With leaves and feathers</p> <p>You have found.</p> <p>&nbsp;</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>Here I lie</p><p><img data-media-id='7'/></p> <p>In a glass-top box</p> <p>At &lsquo;The Natural Science</p> <p>Society&rsquo;.</p> <p>&nbsp;</p> <p>The Monarch Blue butterfly</p> <p>Calls to you</p> <p>To dance in my spirit</p> <p>And set me free.</p> <p>&nbsp;</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>We are the wild ones</p> <p>Who want to be</p> <p>Free in our heathland</p> <p>Society.</p> <p>&nbsp;</p> <p>Climbing and crawling</p> <p>On every lead</p> <p>Over and under</p> <p>To shelter beneath.</p> <p>&nbsp;</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>Have you time</p> <p>To take a break?</p> <p>Catch your breath -</p> <p>Enjoy the view.</p> <p>&nbsp;</p> <p>Hear the silence</p> <p>Of my wings</p> <p>Skittering in</p> <p>That bush near you.</p> <p>&nbsp;</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>Nearly there now</p> <p>Please don&rsquo;t stop</p> <p>One more corner -</p> <p>One more climb.</p> <p>&nbsp;</p> <p>There&rsquo;s a reward</p> <p>When you get to the top</p> <p>So follow me one more</p> <p>Time...</p> <p>&nbsp;</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>Float like a butterfly</p> <p>Buzz like a bee</p> <p>Zig up the Zag</p> <p>And come and find me!</p> <p>&nbsp;</p> <p>You&rsquo;re at the top</p> <p>The &lsquo;Monarch&rsquo; now</p> <p>With your azure shimmer</p> <p>Of living wing.</p> <p>&nbsp;</p> <p>The queen of the butterflies</p> <p>Shining bright</p> <p>Or the glorious butterfly</p> <p>King.</p> <p>&nbsp;</p> <p>So now put on your hedgerow crown</p> <p>And watch your wonderful kingdom thrive</p> <p>&lsquo;EXTINCTION IS FOREVER&rsquo; you know</p> <p>So- ENJOY EACH DAY ALIVE!</p>",
+        "_id": "57f680bdc7dde22210000658",
+        "hint": {
+            "direction": "To the east cliff zig zag",
+            "locations": ["db8b064a49e872d2721cd6ac"]
+        },
+        "functions": ["seen2"],
+        "conditions": ["notSeen2", "zigzag"],
+        "id": "57f680bdc7dde22210000658",
+        "name": "MONARCH OF THE CLIFF",
+        "pageTransition": "next"
+    }, {
+        "content": "<p><img data-media-id='8'/></p><p>Look up!&nbsp; Look up high!&nbsp; Higher ...&nbsp; Is it me up there in full flight?<br /> Hello, down there!&nbsp; You seem &lsquo;grounded&rsquo;- somehow ...</p> <p>Let me be your eyes &ndash; your lens ... Rise up with me to these heights ...<br /> Come among my clouds and wash your wings in the azure sky-spirit of limitless blue -<br /> the &ldquo;Curacao&rdquo; for the soul-cocktail &ndash; What&rsquo;s your mix?</p><p><img data-media-id='9'/></p> <p>There may come the &ldquo;White-backs&rdquo; winging it &ndash; hovering and drifting the currents &ndash; windsurfing the sky ... Then a scream of wheeling &ndash; and a diving for a dinner ... Aaaak!&nbsp; Aaaak! ... Chips at &lsquo;3 o&rsquo;clock&rsquo; lads! &ndash; Beaks at the snap!<br /> OR &ndash; there may come the gaudy wind-bags of baby rainbows &ndash; stringing the wind &ndash; some with a dangle-of-man tucked in his bucket-of-seat beneath &ndash; hanging in the freedom.</p> <p>BUT &ndash; one summer day, this curtain of blue will be split by the speed of a shriek &ndash; arrowing &ndash; a smoking trail-of-tail ...<br /> Here he comes! ... He&rsquo;s behind you! ...in his sky pantomime ... Circling in round the Eye-Balloon ... Herding the birds &ndash; &ldquo;Cum-bye!&rdquo; &ndash;&nbsp; sheepdog of the sky ...<br /> A FLASH ! &ndash; And he&rsquo;s gone!<br /> Red-ruby flash of a sun-jewel ... He is forever &ldquo;Red 4&rdquo; &ndash; dancing with his mates in sky-formations &ndash; &ldquo;The Twister&rdquo; &ndash; &ldquo;The Corkscrew&rdquo; &ndash; &ldquo;The Shuttle Roll&rdquo; ...</p><p><img data-media-id='10'/></p> <p>From his heroic riverside crash &ndash; he is RISEN ... John Egging - sky-hero... Never to be grounded more &ndash; he spins for us ... dances with clouds &ndash; for the crowds ...</p> <p>And NOW ... Watch out! ... He&rsquo;s comin&rsquo; through the trees! .....</p>",
+        "_id": "57f680bdc7dde22210000657",
+        "hint": {
+            "direction": "The Jon Egging Memorial",
+            "locations": ["aab458ac363b6626c497ed62"]
+        },
+        "functions": ["seen3"],
+        "conditions": ["notSeen3", "memorial"],
+        "id": "57f680bdc7dde22210000657",
+        "name": "COMIN’ THROUGH THE TREES",
+        "pageTransition": "next"
+    }, {
+        "content": "<p><img data-media-id='11'/></p><p>We will shade you, we will shelter you - Don't cut the tree - Don't cut me -</p> <p>from the hottest sun; from the&nbsp; wettest rain - we will stand tall for you&nbsp;and arch our branches</p> <p><img data-media-id='12'/></p><p>&nbsp;</p> <p>How many have passed? How many have rested here with us across the years?</p> <p>From the parasols and the crinolines - to the poor wayfarer and humble homeless.</p> <p>&nbsp;</p> <p>There may come a wind, or a storm on your horizon, but we are the windbreakers -</p> <p>the Dryad spirits of the Holm Oaks here - and these are our homes - we never leave.</p><p><img data-media-id='13'/></p> <p>&nbsp;</p> <p>Within the leaves, our eyes are ever watchful; our firm bodies cliff-rooted</p> <p>and our loving arms reaching - reaching - to protect you.</p> <p>&nbsp;</p> <p>So - be sure to do us no harm -</p> <p>for when you kill a living tree, you kill its Dryad too -</p> <p>and no&nbsp;earthling can survive the wrath of tree-spirit revenge</p> <p>&nbsp;</p> <p>For, when the roots awaken, and the earth shakes beneath us -</p> <p>and we walk ... at the very edge - we walk the cliff-slide</p> <p>and glide down the cat-walk of sand-soil, in this season's shivering leaf fashion -</p> <p>to the bottom ... and to the welcoming sea</p> <p>where they wait for us - our ancestors - the ancient ones ...</p> <p><img data-media-id='14'/></p><p>&nbsp;</p> <p>How many of them&nbsp;- In the sunken forest taken by the seas?</p> <p>&nbsp;</p> <p>How many years of time and tide have&nbsp;washed their spirits free?</p> <p>&nbsp;</p> <p>And how many tides more before the farewell falling of the trees?</p>",
+        "_id": "57f680bdc7dde22210000656",
+        "hint": {
+            "direction": "Holm Oaks, East Overcliff Drive",
+            "locations": ["2c3c2f9a8389bdd882d399bc"]
+        },
+        "functions": ["seen4"],
+        "conditions": ["notSeen4", "holmoaks"],
+        "id": "57f680bdc7dde22210000656",
+        "name": "HOW MANY?",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Madge always wears purple - and she's practising for when she will be old... which will be ... NEVER!</p> <p>&nbsp;</p> <p>Oh dear - she needs help - she needs a stick - quick - find something - ANYthing to rattle on the railings ...&nbsp;Are you ready? ... Here we go ...</p> <p>&nbsp;</p><p><img data-media-id='15'/></p> <p>First stop - Number 10 - Waggle in the welcoming window ... tap-tap-tap ... Careful! Don't knock the surfer off his board! ... tap-tap-tap ... Strike up a kite-tune and tap down the tail - Bing on the bows as you go ... bing-bing-bing ... Spiral round the sweetie-sticks ... and O-V-E-R the sandcastle ... and funky on the flying-fish fins ... skim under the little ship ... and chinkle on the chain ... then take aim from the anchor ... to boogie on&nbsp; binoculars ... boogie-woogie-boogie ... Dance on the detector ... step-hop-step-hop ... Bounce off the beach ball and O-V-E-R the ammonite ... Crack on the crab ... crack-crack-crack ... and tickle that jellyfish ... will-he-wobble? ... Then stroke down the seahorse ... neigh-neigh-neigh ... and land on the Mermaid's Purse drum ... Boom!</p> <p>&nbsp;</p> <p>You're back on the Mermaid's drum ... Boom! ... Then flap at the flip-flop ... flap-flap-flap ... Stir&nbsp;round the bucket and slap on the spade ... slap-slap-slap ... In-and-out the seaweed scraps ... and O-V-E-R the hooked fish ... Stroke the spotty starfish ... Leap on the lizard ... O-V-E-R the Oyster shell ... and whip round the 'Whippy' ... Brush the seaweed's hair ... and tickle those tentacles ... O-V-E-R the Ray fish ... and tap the Mermaid's tail ... tap-tap-tap ... O-V-E-R the Cockle shell ... and sound the silvery spoon ... sping-spang-sping ... serenade the sunglasses ... razama-tazama-razz ... and bling on the bikini ... itsy-bitsy-teeny-weeny - bling-blong-bling!</p> <p>&nbsp;</p> <p>And you're the winner! The cliffs are alive with the sounds of the railings!<br /> So, head off down the young-at-heart hill now ... and next time - be sure to wear purple</p> <p>&ndash; like Madge.</p>",
+        "_id": "57f680bdc7dde22210000655",
+        "hint": {
+            "direction": "The railings outside the Russell-Cotes Museum",
+            "locations": ["386365c7948a1ea73721c9ae"]
+        },
+        "functions": ["seen5"],
+        "conditions": ["notSeen5", "railings"],
+        "id": "57f680bdc7dde22210000655",
+        "name": "RAILING RUNNER",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Come and sit!&nbsp; Sit yourself down!&nbsp; Give in to the bend and sigh and ... trust me!<br /> Hello there, you seem &lsquo;weary&rsquo; &ndash; somehow ...<br /> Just put your trust in me ... for we are being watched ... There is a watcher at the window above ...</p> <p>In this Lady&rsquo;s house of arcs and curves, rooms circle and turn &ndash; with the glass-dance a-spin in sunwaves of orbs, scorching the dusk glow on flock and gloss; carved arms and edged legs curl and flow from her tapestry-ed seat in the rich red rotunda.</p><p><img data-media-id='16'/></p><p>The Lady Annie is in her birthday house- &lsquo;a house after my own heart&rsquo; - where her eye arcs a glance ... three-hundred-and-sixty round &ndash; rotating to the blood-burst bay of windowed dusk light &ndash; the sun setting on her far-memoried lands beyond...</p><p><img data-media-id='17'/></p> <p>And she conjures a passenger pigeon - to the Land of the Rising Sun &ndash; with the warrior masks and kimonos &ndash; paper screens&nbsp; and tea ceremonies... <br /> on ... to the Land of the Pyramids &ndash; with the secret-keeping mummies, like Taheema who lies waiting in Egyptian tombs ....<br /> and on ... to The Land of Spices &ndash; with its saris and verandas &ndash; tabla, sitar and jacarandas ...<br /> Her passenger pigeon travels on &ndash; and on ...</p> <p>&nbsp;&lsquo;Til her ship comes home ... <br /> Home ... where the roofs swoop down, and scoop the view with the palm-curved sky, and the bird-wing arches of parabola flight are soaring and arc-gliding through the tree-space &ndash; <br /> sea-facing over the ripple-wash waves &ndash; <br /> arching as the sand-bow sweeps a ribbon-way off to the curling bay ...</p> <p>And she will sleep well tonight in her satins and silks &ndash; And she will welcome you into her dreams -wrapped around in the curves of urns &ndash; as the day turns her back <br /> around in the house of arcs and curves.<br /> And she will welcome us all into her house of love and dreams and reveries of memories.</p>",
+        "_id": "57f680bdc7dde22210000654",
+        "hint": {
+            "direction": "The Russell-Cotes Garden",
+            "locations": ["ca13333cf61e565dfb94e88c"]
+        },
+        "functions": ["seen6"],
+        "conditions": ["seen5", "notSeen6", "garden"],
+        "id": "57f680bdc7dde22210000654",
+        "name": "BENCH LIFE",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Beach to the left of us - Car parks to the right -</p> <p>Here we are - up on the Overcliff with you.</p> <p><img data-media-id='18'/></p> <p>Well, I wonder who that is in the waves -</p> <p>Is it surfers or swimmers today?</p> <p>No! They're sleek wet-suited grey-skinned seals</p> <p>bobbing, and hunting for meals</p> <p>&nbsp;</p> <p>Beach to the left of us - Car parks to the right -</p> <p>Here we are - up on the Overcliff with you.</p> <p><img data-media-id='19'/></p> <p>Will the Pond-skaters paddle their boards -</p> <p>dipping and plopping their oars?</p> <p>While beach-lovers like birds-of-a-feather</p> <p>nod in pondering conference together</p> <p>&nbsp;</p> <p>Beach to the left of us - Car parks to the right -</p> <p>Here we are - up on the Overcliff with you.</p> <p><img data-media-id='20'/></p> <p>Wow! Is that a bird or a plane?</p> <p>Or Baz Man driving the train?</p> <p>Do the cars have eyes that see in the dark?</p> <p>Hooting like owls in the park?</p> <p>&nbsp;</p> <p>Beach to the left of us - Car parks to the right -</p> <p>Here we are - up on the Overcliff with you.</p>",
+        "_id": "57f680bdc7dde22210000653",
+        "hint": {
+            "direction": "Head to the middle of East Overcliff Drive",
+            "locations": ["27e719e23c0509a4dae3eeca"]
+        },
+        "functions": ["seen7"],
+        "conditions": ["notSeen7", "eastoc"],
+        "id": "57f680bdc7dde22210000653",
+        "name": "UP ON THE OVERCLIFF",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Look around!&nbsp; Look all around!&nbsp; Watch out! I might whizz past faster than a skater boy</p> <p>Or I might be gently rolling with a stroller &ndash; a buggy</p> <p>Hello, over there! You seem &lsquo;stilled&rsquo;,&nbsp; somehow ...</p> <p>Let me move you&nbsp; &ndash; transport you ... Get up some easy speed&nbsp; - feel the breeze in your eye</p> <p>Yes, we&rsquo;re going forward to the past - in reverse gear - You&rsquo;ll have to back up</p><p><img data-media-id='21'/></p> <p>Ah &ndash; but here she comes now - The Empress Eugenie....</p> <p>Hush &ndash; she&rsquo;s here to feel the candles glow her on her way - all down and through the green and among the freshness</p><p><img data-media-id='22'/></p> <p>And she is glad to be out of her Victorian carriage - those wheels of iron and wood smacking over cobbles and cracking at her sad flesh and silent skin of ivory</p> <p>But see how she glides now - a silken bell of crinoline skirt with a laced and bonneted handle &ndash; unholdable in her bubble - as a choir of evensong birds spills from the trees along her pathway.</p> <p>But, roll those wheels with me now &ndash; Come on! Keep up!</p> <p>She is making her way to the sea ... to the sea ... to the sea ...<br /> where she can drown her tears of sorrow<br /> for the loves she has lost ... has lost ... lost ...</p> <p>Aye &ndash; the cruelty amidst such beauty -<br /> And, ah &ndash; the music in the waves of salt tears<br /> rolling through all our years </p><p><img data-media-id='23'/></p><p> Churning with the swell of shells and <br /> tumbling her yearnings with the sealife creatures </p><p><img data-media-id='24'/></p><p> Spinning the starfish and cockles in the troughs.</p><p><img data-media-id='25'/></p> <p>Well now &ndash; perhaps we should leave her here &ndash; in her past?<br /> For we are, for her, an unknown future looking back &ndash; looking on ...<br /> looking out ... to sea ... and hoping, at least, that we too can learn to <br /> roll with it ...</p> <p>&nbsp;</p>",
+        "_id": "57f680bdc7dde22210000652",
+        "hint": {
+            "direction": "The center of the lower gardens",
+            "locations": ["cdb41c23312b840f1114451c"]
+        },
+        "functions": ["seen8"],
+        "conditions": ["notSeen8", "lg"],
+        "id": "57f680bdc7dde22210000652",
+        "name": "ROLLING WITH IT",
+        "pageTransition": "next"
+    }, {
+        "content": "<h3>Thank you for reading one of our stories ...</h3>\r\n<p>We hope you enjoyed this StoryPlaces story. We would greatly appreciate your opinions on this new approach to story telling. if you have time, filling out the short survey linked below will help us to understand how to improve our application and design new location-aware story experiences. If you would like to do another of our stories please click the StoryPlaces logo in the top left corner and select another story.</p>\r\n<p><strong><a href=\"https://www.isurvey.soton.ac.uk/20629\">Click Here to take our reader experience survey</a></strong></p>\r\n<p><br />The Bournemouth Natural Science Society is not far from the locations featured in this story!</p>\r\n<p>For more information on local natural science events and to visit the collection your self please go to <p><strong><a href=\"http://www.bnss.org.uk\">http://www.bnss.org.uk/</a></strong></p></p>",
+        "_id": "57f680bdc7dde22210000651",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": [],
+        "conditions": ["seen1", "seen2", "seen3", "seen4", "seen5", "seen6", "seen7", "seen8"],
+        "id": "57f680bdc7dde22210000651",
+        "name": "Finish Story",
+        "pageTransition": "end"
+    }],
+    "pagesMapViewSettings": {
+        "map": true,
+        "pageArrows": true,
+        "pageDistance": true
+    },
+    "locations": [{
+        "id": "d6949a99a9b219148199a673",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8719459,
+        "lat": 50.716705
+    }, {
+        "id": "db8b064a49e872d2721cd6ac",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8673539,
+        "lat": 50.717806
+    }, {
+        "id": "aab458ac363b6626c497ed62",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8653691,
+        "lat": 50.718172
+    }, {
+        "id": "2c3c2f9a8389bdd882d399bc",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8694246,
+        "lat": 50.717643
+    }, {
+        "id": "386365c7948a1ea73721c9ae",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.870428,
+        "lat": 50.717365
+    }, {
+        "id": "ca13333cf61e565dfb94e88c",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8710178,
+        "lat": 50.717415
+    }, {
+        "id": "27e719e23c0509a4dae3eeca",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8678474,
+        "lat": 50.718057
+    }, {
+        "id": "cdb41c23312b840f1114451c",
+        "type": "circle",
+        "radius": 70,
+        "lon": -1.8780184,
+        "lat": 50.719015
+    }],
+    "audience": "general",
+    "schemaVersion": "https://storyplaces.soton.ac.uk/schema/02"
+}

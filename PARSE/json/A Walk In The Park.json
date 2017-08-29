@@ -1,0 +1,196 @@
+{
+    "__v": 0,
+    "_id": "576a822a7d7a141c6e00003c",
+    "author": "Tilly Edgar Thompson",
+    "description": "<p>Take a fascinating journey through time in this three-part story which explores the many people who passed through Queen’s Park in Southampton from different walks of life. Delve into the mystery behind room 667 at Great Western House in 1867, experience the moments leading up to the Titanic’s departure in 1912, or hear a child’s screams as his mother wanders through streets ravaged by the plague in 1674. A Walk in the Park is as easy as it sounds; all you have to do is head to Queen’s Park in Southampton, find the correct position and face the right direction. Choose between ‘The Haunting’, ‘The Premonition’ and ‘The Dissenter’ as you travel through time learning about each person who walked past with their own tale to tell.</p><p>Story &copy; 2016 Tilly Edgar Thompson, All Rights Reserved.<br/><br/>Editors Charlie Hargood and Verity Hunt<br/><br/>Images of Southwestern House, God's House Tower, and French Street courtesy of Southampton City Council Arts and Heritage</p>",
+    "name": "A Walk In The Park",
+    "tags": ["Southampton"],
+    "publishState": "published",
+    "cachedMediaIds": ["2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+    "functions": [{
+        "conditions": [],
+        "type": "increment",
+        "variable": "storyCount",
+        "value": "1",
+        "id": "StoryCount"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenIntro",
+        "value": "true",
+        "id": "SeenIntro"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenHaunting",
+        "value": "true",
+        "id": "SeenHaunting"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenPremonitions",
+        "value": "true",
+        "id": "SeenPremonitions"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenDissenter",
+        "value": "true",
+        "id": "SeenDissenter"
+    }],
+    "conditions": [{
+        "bool": "true",
+        "type": "location",
+        "location": "6e7dcc8882788f0787f82aaa",
+        "id": "queens_park"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "59de6261ed7bc3ee9d685933",
+        "id": "queens_park_southwestern"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "c20514bbd22b2d80cbb3f0be",
+        "id": "queens_park_admiralty"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "038e623d0841c04e8745be52",
+        "id": "queens_park_godshouse"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenIntro",
+        "operand": "==",
+        "type": "comparison",
+        "id": "SeenIntro"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenHaunting",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "NotSeenHaunting"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenPremonitions",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "NotSeenPremonitions"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenDissenter",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "NotSeenDissenter"
+    }, {
+        "bType": "String",
+        "b": "3",
+        "aType": "Variable",
+        "a": "storyCount",
+        "operand": "==",
+        "type": "comparison",
+        "id": "AllStories"
+    }],
+    "id": "576a822a7d7a141c6e00003c",
+    "pages": [{
+        "content": "<h3>Position yourself here</h3> <br/><br/> <img data-media-id='2'/><br/><br/> You will now be able to choose one of three stories; each story will ask you to walk to a different corner of the park and face outwards in a particular direction. ",
+        "_id": "576a822a7d7a141c6e000041",
+        "hint": {
+            "direction": "Queens Park",
+            "locations": ["6e7dcc8882788f0787f82aaa"]
+        },
+        "functions": ["SeenIntro"],
+        "conditions": ["queens_park"],
+        "id": "576a822a7d7a141c6e000041",
+        "name": "Queens Park Introduction",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='16'/><br/><br/><p>Please face east towards South Western House while reading.</p> <p>South Western House was built in 1867 and today it remains one of Southampton’s grand historical buildings. Over the years, people have reported feeling a chill, sensing an eerie echo, or feeling the hairs rise on their arms when walking through the corridors. Some say it’s because they can feel the presence of all those who stayed at the hotel before their last voyage upon the Titanic. Others claim that when the wind blows in a certain direction, they can hear the screams of a young girl who died mysteriously behind the hotel on the tracks of Terminus Terrace Train Station. But the most frightening occurrence is the uncanny number of people that profess to seeing the apparition of a man pacing back and forth near room 667.</p> <p>It was November 17th 1931 when Mrs. Dawson awoke in South Hants hospital. She opened her eyes but failed to recognise the unusual setting. Feeling a sharp pain in her chest she cried out for help. The policeman waiting at the door called for a doctor who came swiftly. “Mrs. Dawson”, the doctor said as he took her hand. “Please do not panic, you have received a gun shot just under your heart. You were fortunate that it was not fatal but it has left you with some paralysis of your lower body.” As soon as the doctor had stopped speaking, the policeman approached and stood by the side of Mrs. Dawson’s bed. “Madam, I am detective Chatfield, I understand this is not an ideal time,” he said apologetically. “I’m sorry that we need to ask you some questions, it is procedure, especially where a possible murder is concerned.”</p> <p>The next day the nurse brought in a tray of food for Mrs. Dawson along with the morning newspaper. Ignoring her food, Mrs. Dawson picked up the newspaper and immediately saw the headline that had made the front page: <br/><br/><img data-media-id='3'/><br/><br/>She read on,<br/><br/><img data-media-id='4'/><br/><br/></p> <p>They know almost nothing! All they know is I’m not Mrs. Dawson from Birmingham, she marvelled. As she closed her eyes she saw the series of events unravel in her mind like a black and white film. It didn’t seem real. She saw herself standing with a man besides Queen’s Park moments before they checked into South Western House. The building towered over them. They were nervous.<br/><br/><img data-media-id='5'/><br/><br/>“Let me just make myself presentable before we go in.” She saw herself reach into her bag and pull out her hair-brush.<br/><br/> “What is that!” the man next to her said. “You haven’t removed the monogram. They’ll know you’re not Mrs. Dawson the moment they see the initials GT. For god’s sake Gladys!”<br/><br/> “Shhh, don’t use my name in public! I’ll scratch it off when we get into the hotel room, ok?”</p> <p>She saw them being handed the key to room 667. She saw them walk up the stairs like a perfectly normal married couple. She saw her reflection in the bathroom mirror, she was a walking ghost, hours before death. “Gladys” The man whispered to her through the bathroom door. “Are you sure you are ready my love? Have all the papers been destroyed, and your clothes, are all the labels taken out?”<br/><br/>“Yes my love. Everything is ready.” <br/><br/>She saw them undress and fold the clothes they would never wear again. The man took his coat and wrapped it around the handle of his gun to muffle the sound. “We will be together soon.” He kissed her passionately, pointed the gun at her chest and pressed the trigger. He turned the gun to his forehead and fell back as their blood stained the white sheets.</p> <p><img data-media-id='6'/><br/><br/> As we know, Mrs. Dawson, or should we say Gladys Tressider, survived the suicide pact. Her lover, a married man called Mr. Roland Herbert Draper, did not survive, but if you ever visit the corridors of South Western House you may see him still searching for his beloved near room 667. </p>",
+        "_id": "576a822a7d7a141c6e000040",
+        "hint": {
+            "direction": "Walk to the eastern corner of the park",
+            "locations": ["59de6261ed7bc3ee9d685933"]
+        },
+        "functions": ["SeenHaunting", "StoryCount"],
+        "conditions": ["NotSeenHaunting", "SeenIntro", "queens_park_southwestern"],
+        "id": "576a822a7d7a141c6e000040",
+        "name": "The Haunting",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='15'/><br/><br/><p>Please face South towards Birth 44 while reading.</p> <p>Beyond Admiralty house is berth 44 where the Titanic departed from Southampton just before noon on the 10th April 1912. Many of the wealthy first class passengers stayed in South Western House before the Titanic’s departure. Miss Helen Monypeny Newsom was one of the passengers that stayed in the hotel. She was 19 years old when her step-father and mother had brought her on a tour of Europe hoping to prevent a relationship flowering with a gentleman called Mr. Behr. The Titanic was the ship they would board for their voyage home to Ohio. </p> <p>It was a week before the Titanic’s departure when Helen started feeling peculiar. She sobbed into her mother’s dress holding a photograph that was taken of her and Ethel Montgomery in Queen’s Park. Ethel was a daughter of a wealthy businessman she had met and befriended in Southampton. “I’ll never see her again.” She cried as she held up the photograph. <br/><br/><img data-media-id='7'/><br/><br/> Her mother tried to calm her by suggesting they could write and maybe arrange a future visit to England. But Helen felt that they would never return to England, or even reach America.  She felt an ominous foreboding when their boarding passes arrived. She met Ethel and took a walk in Queen’s Park to relieve her panic.</p> <p><img data-media-id='8'/><br/><br/>“Our tickets arrived yesterday, I have mine here.” Helen looked glum as she handed over the folded ticket to Ethel.<br/><br/>“The Titanic! How exciting!”<br/><br/>Helen took the ticket back and folded it gravely. <br/><br/>“What’s wrong Helen? Aren’t you excited?”<br/><br/>“Ethel, I think something bad is going to happen. Last night I woke with an icy shiver from a haunting dream.” <br/><br/>“I’m sorry, I don’t normally make a habit of interrupting ladies while they enjoy the afternoon.” A man who had been sitting on a nearby bench approached them. “I couldn’t help but hear your conversation.” He carried on.<br/><br/>“Well, what is the meaning of this interruption sir? Ethel asked. <br/><br/>“I’m Thomas Whiteley, I’m a steward, or at least I will be when the Titanic leaves. I just want to say I have had similar feelings myself. I’ve written to my friends and family telling them I won’t see them again.” <br/><br/>“Why are you still going if you are so certain of disaster?” Ethel asked. <br/><br/>“It’s my job miss, but you,” he turned to Helen, “you can choose not to go.”</p> <p>Disaster struck on the 14th April. Ethel had been searching for news of the Titanic for four days after saying an emotional goodbye to her American friend. Helen had tried to persuade her parents they shouldn’t go, but the tickets had been bought at an extravagant cost. On the 15th of April Ethel woke to every newspaper describing the tragic event but there were no precise details. A week later she received a letter from Helen telling her she was safe and that she had been proposed to in the life-boat by Mr. Behr who had followed her to Europe and also boarded the Titanic. But Ethel couldn’t stop thinking about the Steward, Thomas Whiteley, who like many others in Southampton, had been working on-board the ship as stewards, personal maids, cabin boys, postal clerks and so on. Ethel visited the poorer families to help them through the tragic time. She bought food for children who had lost their fathers, or comforted mothers who had lost their daughters, but she never found the Whiteley family.</p> <p>Months later she opened the newspaper over breakfast and was surprised to see the face of Thomas Whiteley and an article about her dear American friend side by side. Despite their premonitions, both had survived to tell their tale. <br/><br/><img data-media-id='9'/></p>",
+        "_id": "576a822a7d7a141c6e00003f",
+        "hint": {
+            "direction": "Walk to the southern middle edge of the park",
+            "locations": ["c20514bbd22b2d80cbb3f0be"]
+        },
+        "functions": ["SeenPremonitions", "StoryCount"],
+        "conditions": ["NotSeenPremonitions", "SeenIntro", "queens_park_admiralty"],
+        "id": "576a822a7d7a141c6e00003f",
+        "name": "The Premonitions",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='14'/><br/><br/><img data-media-id='17'/><br/><br/><p>Please face West towards God's House Tower while reading.</p> <p>The park you are standing in was not always called Queen’s park. It was known as Porter’s Mead until it was opened as a public park on the eve of her Majesty’s birthday in 1885. But before it was known as Porter’s Mead it also went by the name of God’s House Meadow, perhaps because of its proximity to God’s House Tower. This 13th century building, which can be seen from Queen’s Park, has a long history. Through the years it has housed gunpowder, cannons, been a town goal, a debtor’s prison, a storage house and a museum. But the story we will focus on begins with a woman holding her newly born infant beneath its stone walls. <br/><br/><img data-media-id='10'/></p> <p>Sarah Watts rocked her son back and forth as she walked along the deserted street. All the shops were shut and there was no sound apart from her own footsteps and the cries of her son. It was impossible to distinguish God’s House Meadow from the streets which were becoming overgrown with grass. It was July 17th 1674 and Southampton had been ravaged by the plague. The towns inhabitants had plummeted in number with all the wealthy fleeing to safety leaving the poor to die in their homes. The last death was in November 1666 but it had left the town empty and feeling rather sinister. Sarah felt she could be the only woman alive as she walked towards God’s House Tower holding new life in her arms. The cries of the infant aroused a prisoner inside. He was a convicted felon of the worst kind; he was a dissenter.</p> <p>From inside the dark cell the prisoner heard the wind carry his son’s cries through the tiny open window above his head. He was not the only one who registered the child’s cry, it had also caught the prison guard’s attention.<br/><br/>“What dost thou say madam?” He heard the guard approach his wife and his suckling babe. <br/><br/>“By heaven I suffer thee church’s cunning cruelty. Methinks it most heathenish what hath befallen mine husband. Tell me sirrah, that there be men do abuse their religion in such gross kind?” <br/><br/>“There be some such, thou husband is but one, God’s foe.”<br/><br/>“Fie upon thee! Nay, hold thy peace, heaven truly knows that thou art false. O brave husband, honest and just that hast noble sense and patience.” She shouted to the prison walls. <br/><br/>“Marry, away madam away!” The guard commanded.<br/><br/>Isaac Watts, for that was the prisoner’s name, heard his wife leave with his new born son, but she returned day after day and month after month.<br/><br/><img data-media-id='11'/><br/><br/>Isaac Watts wept sorrowfully while sketching out verses in the back of his holy book.<br/><br/><i>Here’s nothing to invite my longer stay,<br/><br/> Among the darksome melancholy cells; <br/><br/>When shall I leave this tenement of clap? <br/><br/>Fain would I be where my Redeemer dwells. <br/><br/>Oh! had I but some generous seraph’s wing, <br/><br/>There’s nothing should prevail to keep me here;<br/><br/>But with the morning lark I’d mount and sing, <br/><br/>Till I had left earth’s gloomy atmosphere.  </i> </p> <p>Sarah trusted no one. As time went on, the reign of King Charles II had spurred deep paranoia regarding the country’s religious beliefs. Sarah faced unpayable fines of up to £20 a month for absence from church on Sundays and immediate imprisonment if she spoke against the Anglican Church. She submitted to the rule of the land, but in private, when there was no ear at her door, she would share with her son the tale of her husband and how he rebelled against the established order. Her husband was moved from God’s House Tower to London where he lived in exile for two years. He was in and out of confinement for most of his son’s life, but Sarah persevered and never scorned her husband for leaving them. From a young age their son, Isaac Watt’s junior, became an avid writer. He followed in his father’s footsteps and constantly questioned man’s ability to be God’s mouthpiece.</p> <p>Sarah’s husband finally returned from exile and in later years he opened a successful boarding-school in Southampton on 41 French Street. <br/><br/><img data-media-id='12'/><br/><br/>His teachings influenced many boys, and most especially his son who felt that God’s teachings should be heard through music. Sarah and her husband went on to have many more children but their first son is still remembered today as the the father of English hymnology.<br/><br/><img data-media-id='13'/></p>",
+        "_id": "576a822a7d7a141c6e00003e",
+        "hint": {
+            "direction": "Walk to the western corner of the park",
+            "locations": ["038e623d0841c04e8745be52"]
+        },
+        "functions": ["SeenDissenter", "StoryCount"],
+        "conditions": ["NotSeenDissenter", "SeenIntro", "queens_park_godshouse"],
+        "id": "576a822a7d7a141c6e00003e",
+        "name": "The Dissenter",
+        "pageTransition": "next"
+    }, {
+        "content": "<h3>Thank you for reading one of our stories ...</h3><p>We hope you enjoyed this StoryPlaces story. We would greatly appreciate your opinions on this new approach to story telling. if you have time, filling out the short survey linked below will help us to understand how to improve our application and design new location-aware story experiences. If you would like to do another of our stories please click the StoryPlaces logo in the top left corner and select another story.</p><p><b><a href='https://www.isurvey.soton.ac.uk/20629'>Click Here to take our reader experience survey</a></b></p>",
+        "_id": "576a822a7d7a141c6e00003d",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": [],
+        "conditions": ["AllStories"],
+        "id": "576a822a7d7a141c6e00003d",
+        "name": "Finish",
+        "pageTransition": "end"
+    }],
+    "pagesMapViewSettings": {
+        "map": true,
+        "pageArrows": true,
+        "pageDistance": true
+    },
+    "locations": [{
+        "id": "6e7dcc8882788f0787f82aaa",
+        "type": "circle",
+        "radius": 60,
+        "lon": -1.400381,
+        "lat": 50.897302
+    }, {
+        "id": "59de6261ed7bc3ee9d685933",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.397619,
+        "lat": 50.897285
+    }, {
+        "id": "c20514bbd22b2d80cbb3f0be",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.399024,
+        "lat": 50.897004
+    }, {
+        "id": "038e623d0841c04e8745be52",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.401492,
+        "lat": 50.896757
+    }],
+    "audience": "general",
+    "schemaVersion": "https://storyplaces.soton.ac.uk/schema/02"
+}

@@ -1,0 +1,484 @@
+{
+    "__v": 0,
+    "_id": "57ec0de1c7dde222100000b3",
+    "author": "Damian O'Vitch",
+    "description": "<p>The Pharoah's attendant has just woken from a 3000 year-old sleep but his Queen is missing. Explore the City through the eyes of Naseem, use your imagination and help him look for his Queen, the Lady Taheema.</p><p>Story &copy; 2016 Damian O'Vitch, All Rights Reserved.<br/><br/>Editors Charlie Hargood and Verity Hunt<br/><br/> Image 'Feluca' &copy; Naamsvermelding Vereist, image 'Sekhmet' &copy; Gerard Ducher, image 'Bennu' &copy; Jeff Dahl. All other images Copyright of either the author or freely availabe for reuse under creative commons.</p>",
+    "name": "Naseem - The Pharaoh’s Attendant",
+    "publishState": "published",
+    "tags": ["Bournemouth"],
+    "cachedMediaIds": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22"],
+    "functions": [{
+        "type": "set",
+        "conditions": [],
+        "variable": "seen1",
+        "value": "true",
+        "id": "seen1"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen2",
+        "value": "true",
+        "id": "seen2"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3",
+        "value": "true",
+        "id": "seen3"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen4",
+        "value": "true",
+        "id": "seen4"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen5",
+        "value": "true",
+        "id": "seen5"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen6",
+        "value": "true",
+        "id": "seen6"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen7",
+        "value": "true",
+        "id": "seen7"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen8",
+        "value": "true",
+        "id": "seen8"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen9",
+        "value": "true",
+        "id": "seen9"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen10",
+        "value": "true",
+        "id": "seen10"
+    }],
+    "conditions": [{
+        "type": "location",
+        "bool": "true",
+        "location": "bd92228d34d34c2faaf3a43a",
+        "id": "pier"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "3412c6b20dab8c589eacc87c",
+        "id": "path"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "9b5237e35675c1b8953e7d8d",
+        "id": "3bridge"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "324c6d22d791b5422b84a174",
+        "id": "aviary"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "36d41ef82fdcff999626eca8",
+        "id": "tomb"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "2a51ed06e8191c5391b47519",
+        "id": "4bridge"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "c7ce1459a013d47b6f441a90",
+        "id": "square"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "8211c4ee837530fc32aed2f7",
+        "id": "gardens"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "1c7ab617a45aee1ab4995240",
+        "id": "golf"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "07c6b8a3fcf16d38ca8a87b3",
+        "id": "beach"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen1",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen1"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen1",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen1"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen2",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen2"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen2",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen2"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen4",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen4"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen4",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen4"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen5",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen5"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen5",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen5"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen6",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen6"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen6",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen6"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen7",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen7"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen7",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen7"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen8",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen8"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen8",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen8"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen9",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen9"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen9",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen9"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen10",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen10"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen10",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen10"
+    }],
+    "id": "57ec0de1c7dde222100000b3",
+    "pages": [{
+        "content": "<img data-media-id='15'/><p>Naseem wakes up next to the Sarcophagus of his Queen, Lady Taheema. But she&rsquo;s gone and he must find her. He leaves the house and walks along the beach. Everything has changed but after 3000 years what can he expect?</p> <p><em>[Imagine how would you feel if you woke up 3000 years in the future? What would you expect to still be there?] </em></p> <p>But where and what is this place? Where&rsquo;s Lady Taheema? Is this the Afterlife, his reward for years of service? And then Naseem sees&hellip;</p> <p>&nbsp;</p><p>The quay. &ldquo;Ah, yes, this looks like Market Day in Thebes&rdquo; he thinks. &ldquo;People are buying and selling. The fishermen are on the pier&rdquo;. On the sand, he sees architects teaching children construction techniques by building houses and pyramids from the sand.</p> <p><img data-media-id='16'/></p><p>Offshore, he sees the sails of the <em>feluccas</em> ferrying people and goods. Perhaps the children on the painted wooden horses are imagining themselves as Queens and Pharoahs!. One day, these horses will be buried with whoever this Pharoah is, to serve <em>him</em> in the afterlife. Naseem glimpses the city&rsquo;s buildings through the trees. He walks under the bridge and arrives in a garden by a river.</p><img data-media-id='1'/> <p>&nbsp;</p>",
+        "_id": "57f6924cc7dde2221000074d",
+        "hint": {
+            "direction": "To start this story head to the pier",
+            "locations": ["bd92228d34d34c2faaf3a43a"]
+        },
+        "functions": ["seen1"],
+        "conditions": ["notSeen1", "pier"],
+        "id": "57f6924cc7dde2221000074d",
+        "name": "Introduction",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='2'/><p>Naseem starts to relax a bit &ldquo;This city feels more and more like Thebes and Giza. Look at all these people from different cultures and countries coming to trade and study&rdquo;. He hears the babbling of different languages and regional accents all around him: some are familiar to him like Egyptian, Arabic, others are strange and musical; from Gaul, Iberia, Nubia and Far Eastern lands. Here, some of the tribes have painted skins, and piercings; others are wearing traditional robes and ceremonial emblems. Some people even ride on &lsquo;wheeled chairs&rsquo; - like chariots without horses!&nbsp;</p><p><img data-media-id='17'/></p> <p><em>&nbsp;</em></p> <ul> <li><strong><em>Activity: Ancient Egyptian cities were the London and New York of their time. Listen to all the different languages and regional accents of those around you. Remember, we all have &lsquo;a language&rsquo; and a regional accent!</em></strong></li> </ul> <p>&nbsp;</p>",
+        "_id": "57f6924cc7dde2221000074c",
+        "hint": {
+            "direction": "Head into the lower gardens and up the path near the stream",
+            "locations": ["3412c6b20dab8c589eacc87c"]
+        },
+        "functions": ["seen2"],
+        "conditions": ["notSeen2", "seen1", "path"],
+        "id": "57f6924cc7dde2221000074c",
+        "name": "The Lower Gardens",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>&ldquo;This valley must be a tributary of the sacred River&rdquo; Naseem thinks &ldquo;Perhaps this is the Court&rsquo;s medicinal garden?&rdquo;. He doesn&rsquo;t recognise all the plant displays but when he passes rose bushes or walks through the shade and scent of pine trees he remembers how he used them to embalm Lady Taheema&rsquo;s pets so they could join her in the Afterlife. But how can he understand this city? &nbsp;Where are the hieroglyphs to give this place meaning?</p><p><img data-media-id='18'/></p><p><em>&nbsp;</em></p> <ul> <li><strong><em>Activity: Imagine you don&rsquo;t have your phone and you&rsquo;re in a place where all the writing and signs are not in your language. How would you know where to go? How would understand what the different buildings really were?</em></strong></li> </ul> <p>&nbsp;</p><img data-media-id='3'/><img data-media-id='19'/><p>Then Naseem sees the carvings on the grey columns. At last! The city is beginning to speak to him! This is a fishing port, as well as a centre for trading in birds and animals. Perhaps the lions are being sold as royal pets, or shipped off for the Roman amphitheatres? Maybe this path leads to a temple of Sehkmet?</p><p><img data-media-id='20'/></p> <p>He continues to look for more clues about the City.</p>",
+        "_id": "57f6924cc7dde2221000074b",
+        "hint": {
+            "direction": "Go to the 3rd bridge to cross the stream",
+            "locations": ["9b5237e35675c1b8953e7d8d"]
+        },
+        "functions": ["seen3"],
+        "conditions": ["notSeen3", "seen2", "3bridge"],
+        "id": "57f6924cc7dde2221000074b",
+        "name": "Towards the Bandstand and Square",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='4'/><p>As he walks he can hear the call of lovebirds and parakeets in the trees beyond. Soon, he&rsquo;s at The Place of The Caged Birds. &ldquo;This is obviously a market for trading birds&rdquo; Naseem thinks. &ldquo;But it must also be a sacred place dedicated to Bennu- the Bird Godwhere people make offerings to hear its wisdom. Naseem makes an offering but it speaks in the strange, mystical language of the Gods!</p><p><img data-media-id='21'/></p> <p>&nbsp;</p> <ul> <li><strong><em>Activity: Pop a donation in the parrot&rsquo;s mouth and hear what it has to say.</em></strong></li> </ul>",
+        "_id": "57f6924cc7dde2221000074a",
+        "hint": {
+            "direction": "Head up the path towards the aviary",
+            "locations": ["324c6d22d791b5422b84a174"]
+        },
+        "functions": ["seen4"],
+        "conditions": ["notSeen4", "seen3", "aviary"],
+        "id": "57f6924cc7dde2221000074a",
+        "name": "The Aviary",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='5'/><p>To the left of the Place of The Caged Birds Naseem sees The Street of the Tomb Decorators. Here is yet another community, hidden in the life (well, afterlife) of the city. In the summer months, people come to view the artists&rsquo; work and choose who will decorate their family tomb. Naseem recognises familiar scenes of farming, nature or landscapes, just like the tombs back home in his own village in Egypt. He can&rsquo;t stop for long because he has to find his Lady, so he continues to explore.</p> <p>&nbsp;</p><img data-media-id='6'/>",
+        "_id": "57f6924cc7dde22210000749",
+        "hint": {
+            "direction": "Head along the path near the stream",
+            "locations": ["36d41ef82fdcff999626eca8"]
+        },
+        "functions": ["seen5"],
+        "conditions": ["notSeen5", "seen4", "tomb"],
+        "id": "57f6924cc7dde22210000749",
+        "name": "The Street of Tomb Decorators",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='8'/><p>As Naseem passes the bridge, he thinks he can see the ghostly figure of a princess. Is this the re-incarnated Lady Taheema?</p><p><img data-media-id='22'/></p>",
+        "_id": "57f6924cc7dde22210000748",
+        "hint": {
+            "direction": "Head down the steps towards the 4th bridge",
+            "locations": ["2a51ed06e8191c5391b47519"]
+        },
+        "functions": ["seen6"],
+        "conditions": ["notSeen6", "seen5", "4bridge"],
+        "id": "57f6924cc7dde22210000748",
+        "name": "The Bridge",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='9'/><p>Naseem now stands in the Market of The Yellow Elephants. He&rsquo;d heard stories of these huge beasts but never knew they were yellow!</p> <p><em>(Listen! Can you hear them grumbling as they shuffle for position?)</em>.&nbsp;</p><img data-media-id='11'/> <p>On the roof of the round building and on the floor he sees The Sign of The Fish. &ldquo;This must be the Official Fish Market where boats are registered and where catches are brought to be weighed (and taxed!)&rdquo;.</p> <p>Looking around he sees the city skyline stretching back; so many buildings; so, much to understand; so little time&hellip;</p> <p>&nbsp;</p> <ul> <li><strong><em>Activity: From The Square you can leave the story and walk around the city centre looking above the line of the shops to see the different symbols on the buildings.</em></strong><strong><em>&nbsp;How many different symbols can you find? Just for fun, can you guess from the symbol what the building might have been used for?</em></strong></li> <li><strong><em>After return to The Square to resume Naseem&rsquo;s story.</em></strong></li> </ul>",
+        "_id": "57f6924cc7dde22210000747",
+        "hint": {
+            "direction": "Make your way through the gardens to the square",
+            "locations": ["c7ce1459a013d47b6f441a90"]
+        },
+        "functions": ["seen7"],
+        "conditions": ["notSeen7", "seen6", "square"],
+        "id": "57f6924cc7dde22210000747",
+        "name": "The Square",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='14'/><p>Naseem now turns back towards the river. Walking through the gardens, he can see and hear different birds, insects and animals: the earthly representatives of the Gods.</p> <ul> <li><strong><em>Activity: Some Egyptian Gods were represented by birds and animals.</em></strong><strong><em>&nbsp;How many different birds, animals and insects can you spot?</em></strong></li> </ul> <p>He continues along the ceremonial path towards the sea stilling looking for Lady Taheema <em>(photo of view of Lower Gardens towards the Pavillion with river on left)</em>.</p>",
+        "_id": "57f6924cc7dde22210000746",
+        "hint": {
+            "direction": "Head back towards the lower gardens",
+            "locations": ["8211c4ee837530fc32aed2f7"]
+        },
+        "functions": ["seen8"],
+        "conditions": ["notSeen8", "seen7", "gardens"],
+        "id": "57f6924cc7dde22210000746",
+        "name": "Back down the Lower Gardens",
+        "pageTransition": "next"
+    }, {
+        "content": "<p><img data-media-id='10'/><img data-media-id='22'/></p><p>Passing by the bridge again, Naseem sees the same ghostly figure of The Princess She waves him over&hellip;Maybe this really is his Lady Taheema reborn? He takes her hand and walks with her down to the sea&hellip;</p>",
+        "_id": "57f6924cc7dde22210000745",
+        "hint": {
+            "direction": "Continue through the gardens",
+            "locations": ["1c7ab617a45aee1ab4995240"]
+        },
+        "functions": ["seen9"],
+        "conditions": ["notSeen9", "seen8", "golf"],
+        "id": "57f6924cc7dde22210000745",
+        "name": "Princess Eugenie",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Naseem was able to piece together a story of Bournemouth from the symbols he found. Obviously, it was very different from our own reality. But, how would you describe yourself if all you had were symbols? Would your friends recognise you?</p> <p>&nbsp;</p> <p><strong><em>Activity: Take a look what&rsquo;s in your pockets or your bag. Make up a symbol for each item (phone? keys? money? debit card?) Write those symbols in the sand.</em></strong></p>",
+        "_id": "57f6924cc7dde22210000744",
+        "hint": {
+            "direction": "Head down to the beach",
+            "locations": ["07c6b8a3fcf16d38ca8a87b3"]
+        },
+        "functions": ["seen10"],
+        "conditions": ["notSeen10", "seen9", "beach"],
+        "id": "57f6924cc7dde22210000744",
+        "name": "The Beach",
+        "pageTransition": "next"
+    }, {
+        "content": "<h3>Thank you for reading one of our stories ...</h3>\r\n<p>We hope you enjoyed this StoryPlaces story. We would greatly appreciate your opinions on this new approach to story telling. if you have time, filling out the short survey linked below will help us to understand how to improve our application and design new location-aware story experiences. If you would like to do another of our stories please click the StoryPlaces logo in the top left corner and select another story.</p>\r\n<p><strong><a href=\"https://www.isurvey.soton.ac.uk/20629\">Click Here to take our reader experience survey</a></strong></p>\r\n<p><br />The Bournemouth Natural Science Society is not far from the locations featured in this story!</p>\r\n<p>For more information on local natural science events and to visit the collection your self please go to <p><strong><a href=\"http://www.bnss.org.uk\">http://www.bnss.org.uk/</a></strong></p></p>",
+        "_id": "57f6924cc7dde22210000743",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": [],
+        "conditions": ["seen10"],
+        "id": "57f6924cc7dde22210000743",
+        "name": "Finish Story",
+        "pageTransition": "end"
+    }],
+    "pagesMapViewSettings": {
+        "map": true,
+        "pageArrows": true,
+        "pageDistance": true
+    },
+    "locations": [{
+        "id": "bd92228d34d34c2faaf3a43a",
+        "type": "circle",
+        "lat": 50.716304,
+        "lon": -1.8756473,
+        "radius": 30
+    }, {
+        "id": "3412c6b20dab8c589eacc87c",
+        "type": "circle",
+        "lat": 50.717347,
+        "lon": -1.8759531,
+        "radius": 30
+    }, {
+        "id": "9b5237e35675c1b8953e7d8d",
+        "type": "circle",
+        "lat": 50.717763,
+        "lon": -1.8757962,
+        "radius": 20
+    }, {
+        "id": "324c6d22d791b5422b84a174",
+        "type": "circle",
+        "lat": 50.718614,
+        "lon": -1.8759879,
+        "radius": 30
+    }, {
+        "id": "36d41ef82fdcff999626eca8",
+        "type": "circle",
+        "lat": 50.719056,
+        "lon": -1.8763956,
+        "radius": 30
+    }, {
+        "id": "2a51ed06e8191c5391b47519",
+        "type": "circle",
+        "lat": 50.718984,
+        "lon": -1.8768382,
+        "radius": 20
+    }, {
+        "id": "c7ce1459a013d47b6f441a90",
+        "type": "circle",
+        "lat": 50.72018,
+        "lon": -1.8802017,
+        "radius": 50
+    }, {
+        "id": "8211c4ee837530fc32aed2f7",
+        "type": "circle",
+        "lat": 50.719979,
+        "lon": -1.8797672,
+        "radius": 30
+    }, {
+        "id": "1c7ab617a45aee1ab4995240",
+        "type": "circle",
+        "lat": 50.718696,
+        "lon": -1.8771118,
+        "radius": 30
+    }, {
+        "id": "07c6b8a3fcf16d38ca8a87b3",
+        "type": "circle",
+        "lat": 50.716236,
+        "lon": -1.8744028,
+        "radius": 60
+    }],
+    "audience": "general",
+    "schemaVersion": "https://storyplaces.soton.ac.uk/schema/02"
+}

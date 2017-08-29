@@ -1,0 +1,2105 @@
+{
+    "__v": 0,
+    "_id": "57ec0110c7dde22210000076",
+    "author": "C.J. Carter-Stephenson",
+    "description": "<p>A time slip tale of love and disharmony&hellip;</p> <p>Harriet is trapped in a loveless marriage in 1920s Bournemouth. Andrew is a mild-mannered academic from the British Museum who is determined to rescue her. Does he succeed? Find out as they draw you back in time to witness their story.</p> <p>It starts with a woman's ghost. Then one ghost becomes two ghosts, and two ghosts become the ghost of an entire town. They have something to say to you; are you ready to listen?<br /> <br /> </p><p>Story &copy; 2016 C.J. Carter-Stephenson, All Rights Reserved.<br/><br/>Editors Charlie Hargood and Verity Hunt<br/><br/> Image 'A Thousand Miles' &copy; The University of Adelaide, image 'British Museum Model' &copy; Trustees of the British Museum, and audio 'Russian Lords Prayers' &copy; Prime Language Services. All other images and audio &copy; of the author or freely available under creative commons.</p>",
+    "name": "The Bournemouth Triangle",
+    "publishState": "published",
+    "tags": ["Bournemouth"],
+    "cachedMediaIds": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19"],
+    "functions": [{
+        "type": "set",
+        "conditions": [],
+        "variable": "seen1",
+        "value": "true",
+        "id": "seen1"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen2",
+        "value": "true",
+        "id": "seen2"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3",
+        "value": "true",
+        "id": "seen3"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3a",
+        "value": "true",
+        "id": "seen3a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3b",
+        "value": "true",
+        "id": "seen3b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3c",
+        "value": "true",
+        "id": "seen3c"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3d",
+        "value": "true",
+        "id": "seen3d"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3e",
+        "value": "true",
+        "id": "seen3e"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3f",
+        "value": "true",
+        "id": "seen3f"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3g",
+        "value": "true",
+        "id": "seen3g"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen4a",
+        "value": "true",
+        "id": "seen4a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen4b",
+        "value": "true",
+        "id": "seen4b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen5a",
+        "value": "true",
+        "id": "seen5a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen5b",
+        "value": "true",
+        "id": "seen5b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen5c",
+        "value": "true",
+        "id": "seen5c"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen6a",
+        "value": "true",
+        "id": "seen6a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen6b",
+        "value": "true",
+        "id": "seen6b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen7",
+        "value": "true",
+        "id": "seen7"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen8a",
+        "value": "true",
+        "id": "seen8a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen8b",
+        "value": "true",
+        "id": "seen8b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen9a",
+        "value": "true",
+        "id": "seen9a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen9b",
+        "value": "true",
+        "id": "seen9b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen9c",
+        "value": "true",
+        "id": "seen9c"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen9d",
+        "value": "true",
+        "id": "seen9d"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen10",
+        "value": "true",
+        "id": "seen10"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen11a",
+        "value": "true",
+        "id": "seen11a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen11b",
+        "value": "true",
+        "id": "seen11b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen11c",
+        "value": "true",
+        "id": "seen11c"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen11d",
+        "value": "true",
+        "id": "seen11d"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen12a",
+        "value": "true",
+        "id": "seen12a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen12b",
+        "value": "true",
+        "id": "seen12b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen12c",
+        "value": "true",
+        "id": "seen12c"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen12d",
+        "value": "true",
+        "id": "seen12d"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen12e",
+        "value": "true",
+        "id": "seen12e"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen12f",
+        "value": "true",
+        "id": "seen12f"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen12g",
+        "value": "true",
+        "id": "seen12g"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen13a",
+        "value": "true",
+        "id": "seen13a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen13b",
+        "value": "true",
+        "id": "seen13b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen13c",
+        "value": "true",
+        "id": "seen13c"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen13d",
+        "value": "true",
+        "id": "seen13d"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen13e",
+        "value": "true",
+        "id": "seen13e"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen14a",
+        "value": "true",
+        "id": "seen14a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen14b",
+        "value": "true",
+        "id": "seen14b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen15",
+        "value": "true",
+        "id": "seen15"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen16",
+        "value": "true",
+        "id": "seen16"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen17a",
+        "value": "true",
+        "id": "seen17a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen17b",
+        "value": "true",
+        "id": "seen17b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen18a",
+        "value": "true",
+        "id": "seen18a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen18b",
+        "value": "true",
+        "id": "seen18b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen19a",
+        "value": "true",
+        "id": "seen19a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen19b",
+        "value": "true",
+        "id": "seen19b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen20",
+        "value": "true",
+        "id": "seen20"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen21",
+        "value": "true",
+        "id": "seen21"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen22a",
+        "value": "true",
+        "id": "seen22a"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen22b",
+        "value": "true",
+        "id": "seen22b"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen22c",
+        "value": "true",
+        "id": "seen22c"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen22d",
+        "value": "true",
+        "id": "seen22d"
+    }],
+    "conditions": [{
+        "type": "location",
+        "bool": "true",
+        "location": "7e47823a18eb9c77e14ca44f",
+        "id": "undercliff"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "dcc294404624b758d2273f80",
+        "id": "harry"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "636bf6da1a3635926b32ee4d",
+        "id": "huts"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "79edd9c3a1cc99b309a3ede9",
+        "id": "sacredheart"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "ba37a1808c7e51263ec2cb0c",
+        "id": "beales"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "a4224bb87792d52c5f55dba6",
+        "id": "pavillion"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "572a555e4191c1be3ba0cd2e",
+        "id": "verulam"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "4769a5e10c7856be96aa391b",
+        "id": "memorial"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "727865677a2e5d31da0650e3",
+        "id": "flyover"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "5131ac65ea4b48c91b869173",
+        "id": "watertower"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "8dc0e8aaab83fd75a86e47a7",
+        "id": "croft"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "289a6294230109f59583eea6",
+        "id": "carpark"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "ee382cb46bafabae4eb37199",
+        "id": "bath"
+    }, {
+        "type": "location",
+        "bool": "true",
+        "location": "c2954b3292baadd2aae4a35b",
+        "id": "bnss"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen1",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen1"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen1",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen1"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen2",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen2"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen2",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen2"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3c"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3c"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3d"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3d"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3e",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3e"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3e",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3e"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3f",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3f"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3f",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3f"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen3g",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen3g"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen3g",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen3g"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen4a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen4a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen4a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen4a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen4b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen4b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen4b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen4b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen5a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen5a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen5a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen5a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen5b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen5b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen5b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen5b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen5c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen5c"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen5c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen5c"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen6a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen6a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen6a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen6a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen6b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen6b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen6b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen6b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen7",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen7"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen7",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen7"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen8a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen8a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen8a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen8a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen8b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen8b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen8b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen8b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen9a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen9a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen9a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen9a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen9b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen9b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen9b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen9b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen9c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen9c"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen9c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen9c"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen9d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen9d"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen9d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen9d"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen10",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen10"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen10",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen10"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen11a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen11a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen11a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen11a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen11b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen11b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen11b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen11b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen11c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen11c"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen11c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen11c"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen11d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen11d"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen11d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen11d"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen12a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen12a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen12a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen12a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen12b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen12b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen12b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen12b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen12c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen12c"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen12c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen12c"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen12d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen12d"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen12d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen12d"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen12e",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen12e"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen12e",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen12e"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen12f",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen12f"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen12f",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen12f"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen12g",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen12g"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen12g",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen12g"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen13a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen13a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen13a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen13a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen13b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen13b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen13b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen13b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen13c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen13c"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen13c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen13c"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen13d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen13d"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen13d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen13d"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen13e",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen13e"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen13e",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen13e"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen14a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen14a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen14a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen14a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen14b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen14b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen14b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen14b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen15",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen15"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen15",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen15"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen16",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen16"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen16",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen16"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen17a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen17a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen17a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen17a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen17b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen17b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen17b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen17b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen18a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen18a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen18a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen18a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen18b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen18b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen18b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen18b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen19a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen19a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen19a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen19a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen19b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen19b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen19b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen19b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen20",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen20"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen20",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen20"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen21",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen21"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen21",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen21"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen22a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen22a"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen22a",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen22a"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen22b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen22b"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen22b",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen22b"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen22c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen22c"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen22c",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen22c"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen22d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen22d"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen22d",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen22d"
+    }, {
+        "conditions": ["seen5c", "seen7"],
+        "operand": "OR",
+        "type": "logical",
+        "id": "unlock8"
+    }, {
+        "conditions": ["seen6b", "seen8b"],
+        "operand": "OR",
+        "type": "logical",
+        "id": "unlock9"
+    }, {
+        "conditions": ["seen13e", "seen12g"],
+        "operand": "OR",
+        "type": "logical",
+        "id": "unlock14"
+    }],
+    "id": "57ec0110c7dde22210000076",
+    "pages": [{
+        "content": "You stand at the edge of the path, hugging your arms against the cold, watching the tumultuous motion of the sea, the clouds scudding across the sky. Where on earth is the sun? This is supposed to be a holiday resort for heaven’s sake. You sit down on a bench, continuing to stare across the beach. It might not be the scene you were hoping for, but it’s certainly dramatic",
+        "_id": "57f68063c7dde222100005f3",
+        "hint": {
+            "direction": "To start this story go to Undercliff Drive",
+            "locations": ["7e47823a18eb9c77e14ca44f"]
+        },
+        "functions": ["seen2"],
+        "conditions": ["notSeen2", "undercliff"],
+        "id": "57f68063c7dde222100005f3",
+        "name": "Chapter 1",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>After a moment, you notice an old man tottering towards you, leaning heavily on two walking sticks.&nbsp; His wrinkled skin puts you in mind of a prune, while his hair is fine and neatly parted. He&rsquo;s dressed in baggy grey trousers, a checked shirt and red braces, and has a pair of thick spectacles perched on his nose.</p> <p>&nbsp;</p> <p>He pauses by the bench, wheezing heavily. &ldquo;Do you mind if I sit down?&rdquo; he asks, in a thick London accent.</p> <p>&nbsp;</p> <p>&ldquo;Go ahead,&rdquo; you say.</p> <p>&nbsp;</p> <p>The man lowers himself onto the bench, supporting himself on the backrest. &ldquo;Thank you.&rdquo; He shifts his glasses up his nose, squinting at the pier. &ldquo;Lovely spot, isn&rsquo;t it? I often come here to watch the world go by.&rdquo; He holds his hand out. &ldquo;My name&rsquo;s Harold. This is my wife, Harriet.&rdquo;</p> <p>&nbsp;</p> <p>Your eyes widen. There is a woman in a paisley tunic dress and cloche hat sitting on the bench beside him. Where did she come from? You could have sworn he was alone when he arrived.</p>",
+        "_id": "57f68063c7dde222100005f2",
+        "hint": {
+            "direction": "Go to Undercliff Drive",
+            "locations": ["7e47823a18eb9c77e14ca44f"]
+        },
+        "functions": ["seen3a"],
+        "conditions": ["notSeen3a", "seen2", "undercliff"],
+        "id": "57f68063c7dde222100005f2",
+        "name": "Chapter 2 - 1/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Is she really his wife? It seems unlikely. She must be at least seventy years younger than he is; skin smooth, chestnut hair thick, albeit cut into a short bob. She&rsquo;s small and slender with high cheekbones dappled with freckles and a long, narrow nose. Perhaps she married him for his money. Or perhaps, she&rsquo;s someone else entirely and he&rsquo;s just confused.</p> <p>You shake his hand. &ldquo;Pleased to meet you, Harold.&rdquo; You smile at his companion. &ldquo;And you, Harriet.&rdquo; Harriet doesn&rsquo;t reply. She is staring straight ahead and seems oblivious to you. You turn back to Harold. &ldquo;You&rsquo;re married you say?&rdquo;&nbsp;</p> <p>Harold nods and takes a wedding ring inset with two emeralds and a cluster of diamonds from his pocket. &ldquo;Yes. I&rsquo;ve got her wedding ring right here.&rdquo;</p> <p>&ldquo;Shouldn&rsquo;t she be wearing that?&rdquo; you ask.</p> <p>Harold holds the ring in front of him, watching the light play across the stones.&nbsp; &ldquo;When we were young, she never took it off, but things are different now.&rdquo;</p> <p>It&rsquo;s a strange comment, but before you can ask him to elaborate, two women in green tunics approach the bench.</p>",
+        "_id": "57f68063c7dde222100005f1",
+        "hint": {
+            "direction": "Go to Undercliff Drive",
+            "locations": ["7e47823a18eb9c77e14ca44f"]
+        },
+        "functions": ["seen3b"],
+        "conditions": ["notSeen3b", "seen3a", "undercliff"],
+        "id": "57f68063c7dde222100005f1",
+        "name": "Chapter 2 - 2/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Are they nurses? No, they&rsquo;re care workers; they have the words &lsquo;Littledown Residential Home&rsquo; embroidered on their tunics. One is tall and thin with an unruly mop of ash blonde hair and a crucifix necklace; the other is shorter, but at least four times as wide, her greying hair caught in a tight bun.</p> <p>&ldquo;There you are, Harry,&rdquo; says the thin one, who sounds Eastern European. &ldquo;We&rsquo;ve been looking everywhere for you.&rdquo; She takes Harold by the arm and raises him to his feet. &ldquo;It&rsquo;s time to go back to the van.&rdquo;</p> <p>Harold looks regretfully at the bench.&nbsp; &ldquo;Shame. Is my wife coming?&rdquo;</p> <p>&ldquo;Your wife&rsquo;s dead,&rdquo; replies the larger woman. &ldquo;You know that.&rdquo;</p> <p>&ldquo;He means this lady here,&rdquo; you say. You start to point at Harriet and then lower your arm in surprise, realising she&rsquo;s no longer there. How odd.</p> <p>&ldquo;Come on, Harry,&rdquo; says the thin woman. &ldquo;We&rsquo;re going to watch a film later. You&rsquo;ll like that.&rdquo;</p> <p>Harold glances back at you as they lead him away. &ldquo;Goodbye. It was nice talking to you.&rdquo;</p>",
+        "_id": "57f68063c7dde222100005f0",
+        "hint": {
+            "direction": "Go to Undercliff Drive",
+            "locations": ["7e47823a18eb9c77e14ca44f"]
+        },
+        "functions": ["seen3c"],
+        "conditions": ["notSeen3c", "seen3b", "undercliff"],
+        "id": "57f68063c7dde222100005f0",
+        "name": "Chapter 2 - 3/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You are about to leave yourself, when you notice the wedding ring lying on the bench. The old man must have dropped it as he was standing up. You open your mouth to call out to him, but he&rsquo;s already disappeared from sight. It shouldn&rsquo;t be too hard to find him, though. All you need to do is Google the address of Littledown Residential Home.</p> <p>You reach for the ring, but as your hand closes around it, you start to feel dizzy. The gold of the beach bleeds into the blue of the sky above and the people around you dissolve into blobs of colour.</p> <p>You rub your eyes and slowly your vision clears. Except that now, you seem to be in two places at once. The promenade is the same, but over the top of it, you can see another scene like a holographic projection &ndash; the interior of an old-fashioned tram filled with men in woollen suits and women in smocks or pleated skirts&hellip;</p> <p><audio data-media-id='22'></audio></p> <p><img data-media-id='18'/></p> <p>You tell yourself this second place can&rsquo;t be real, but instead of going away, it becomes more substantial, until the beach is barely visible.</p>",
+        "_id": "57f68063c7dde222100005ef",
+        "hint": {
+            "direction": "Go to Undercliff Drive",
+            "locations": ["7e47823a18eb9c77e14ca44f"]
+        },
+        "functions": ["seen3d"],
+        "conditions": ["notSeen3d", "seen3c", "undercliff"],
+        "id": "57f68063c7dde222100005ef",
+        "name": "Chapter 2 - 4/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You glance around, trying not to panic; and that&rsquo;s when you notice her sitting on the bench beside you &ndash; Harold&rsquo;s alleged wife, Harriet, looking exactly as she did before. She has a leather clutch bag on her knee and is reading a book called <em>A Thousand Miles up the Nile</em>&hellip;</p> <p><img data-media-id='2'/></p> <p>You turn to speak to her, &ldquo;What the hell&rsquo;s going on?&rdquo;</p> <p>No response. Before you can try again, the tram comes to a stop and several of the passengers disembark, leaving a vacant seat on Harriet&rsquo;s far side.</p> <p><img data-media-id='6'/></p> <p>More passengers come aboard and a man in a grey suit and fedora approaches the bench. He is about thirty years old with black hair and a pair of steel rimmed glasses. In his hand there is a battered suitcase covered in travel stickers&hellip;</p> <p><img data-media-id='15'/></p> <p>Placing the case on the luggage rack above, he sits down.&nbsp;</p> <p>He takes a notebook out of his pocket and is about to start writing in it, when he notices Harriet&rsquo;s book. Suddenly, he becomes very interested in her. He opens his mouth to speak, closes it again, takes off his hat and fiddles with the rim. &ldquo;Excuse me miss?&rdquo; he says finally.</p>",
+        "_id": "57f68063c7dde222100005ee",
+        "hint": {
+            "direction": "Go to Undercliff Drive",
+            "locations": ["7e47823a18eb9c77e14ca44f"]
+        },
+        "functions": ["seen3e"],
+        "conditions": ["notSeen3e", "seen3d", "undercliff"],
+        "id": "57f68063c7dde222100005ee",
+        "name": "Chapter 2 - 5/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Could it be you&rsquo;re witnessing Harold&rsquo;s first meeting with his wife? No, of course not. It&rsquo;s a dream. You&rsquo;ve fallen asleep by the sea and are going to wake up any minute. You just hope someone doesn&rsquo;t take advantage of the situation and steal your phone in the meantime.</p> <p>Harriet turns to look at the man, clutching her handbag against her stomach. &ldquo;Yes?&rdquo;</p> <p>&ldquo;I couldn&rsquo;t help but notice you&rsquo;re reading <em>A Thousand Miles up the Nile</em>.&rdquo;</p> <p>She continues to eye him suspiciously. &ldquo;What of it?&rdquo;</p> <p>&ldquo;Egypt&rsquo;s something an obsession of mine,&rdquo; he replies. &ldquo;It&rsquo;s what brings me to Bournemouth actually. I work for the British Museum and I&rsquo;ve been sent to study a rare bakery model in the Natural Science Society&rsquo;s Egyptian collection.&rdquo;&nbsp;&nbsp;&nbsp;</p> <p>Now it&rsquo;s Harriet&rsquo;s turn to look interested. You don&rsquo;t hear her response, though, because at this point, you feel a violent rocking motion. At first, you think it&rsquo;s the tram; then you realise it&rsquo;s someone shaking your arms. A shadowy figure appears in front of you, slowly taking on definition...</p>",
+        "_id": "57f68063c7dde222100005ed",
+        "hint": {
+            "direction": "Go to Undercliff Drive",
+            "locations": ["7e47823a18eb9c77e14ca44f"]
+        },
+        "functions": ["seen3f"],
+        "conditions": ["notSeen3f", "seen3e", "undercliff"],
+        "id": "57f68063c7dde222100005ed",
+        "name": "Chapter 2 - 6/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>As the shaking continues, the tram interior dissolves into a grey haze, which fades into the familiar sight of the promenade and the sea. You blink a few times as your eyes adjust to the change and find yourself looking at the care worker with the ash blonde hair. &ldquo;Are you all right?&rdquo; she asks. She looks concerned and appears to be in the process of checking your pulse, two fingers pressed to your wrist.</p> <p>You nod, wondering why she&rsquo;s making such a fuss. You just fell asleep. People do it all the time.</p> <p>&ldquo;Are you sure?&rdquo; she presses. &ldquo;You looked out of it. I thought you were having a stroke or something.&rdquo; She points at a Harry Ramsden&rsquo;s restaurant. &ldquo;I think we should go in there and get you a drink of water.&rdquo;</p>",
+        "_id": "57f68063c7dde222100005ec",
+        "hint": {
+            "direction": "Go to Undercliff Drive",
+            "locations": ["7e47823a18eb9c77e14ca44f"]
+        },
+        "functions": ["seen3g"],
+        "conditions": ["notSeen3g", "seen3f", "undercliff"],
+        "id": "57f68063c7dde222100005ec",
+        "name": "Chapter 2 - 7/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>&ldquo;Okay,&rdquo; you say. You still don&rsquo;t think there&rsquo;s anything to be concerned about, but it&rsquo;s best to be on the safe side.</p> <p>The care worker, who introduces herself as Anna, leads you into the restaurant and you sit down. A waitress with tanned skin and glossy hair comes to take your order, notepad in hand. Anna tells her what&rsquo;s happened and she goes to get you some water.</p> <p>While you wait for her to return, you find yourself thinking about your dream. You&rsquo;ve never had another one like it &ndash; so vivid and full of detail. It makes you wonder if there might be more to it than just your imagination. &ldquo;I don&rsquo;t suppose you know if the old man I was talking to met his wife on a tram, do you?&rdquo; you ask abruptly.</p> <p>Anna cocks her head to the side, eying you quizzically. &ldquo;What a strange question. Why do you ask?&rdquo;</p> <p>&ldquo;No real reason,&rdquo; you say, not wanting to get into a discussion about the intricacies of dreams. &ldquo;Just something he said.&rdquo;</p> <p>She shrugs. &ldquo;I&rsquo;ve no idea. He doesn&rsquo;t talk about her much. I suppose he finds it too painful. It&rsquo;s difficult when a loved one dies before you.&rdquo;</p> <p>The waitress returns with your water and you take a long drink.</p>",
+        "_id": "57f68063c7dde222100005eb",
+        "hint": {
+            "direction": "Go to Harry Ramsden's near the beach",
+            "locations": ["dcc294404624b758d2273f80"]
+        },
+        "functions": ["seen4a"],
+        "conditions": ["notSeen4a", "seen3g", "notSeen5a", "harry"],
+        "id": "57f68063c7dde222100005eb",
+        "name": "Go to Harry Ramsden’s with Anna the care worker - Chapter 3 - 1/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>By the time you lower your glass, Anna has risen to go. &ldquo;I take it this is goodbye,&rdquo; you say.</p> <p>She nods her head. &ldquo;I have to get back to work.&rdquo;</p> <p>&nbsp;&ldquo;Of course,&rdquo; you say. &ldquo;Thanks for your kindness.&rdquo;</p> <p>&ldquo;No problem,&rdquo; she says. She takes a few steps towards the door and then turns around. &ldquo;By the way, you haven&rsquo;t seen a wedding ring, have you? It&rsquo;s just Harry&rsquo;s lost one.&rdquo;</p> <p>Ring? Oh yes, you&rsquo;d forgotten that. You look down, realising that you&rsquo;re still holding it. You start to hand it to her, but before she can take it, a gnarled arm clothed in black taffeta bursts up out of the table and snatches it from you.</p> <p>&ldquo;My son&rsquo;s life is nobody&rsquo;s business, but his own; stay out of it,&rdquo; says a rasping voice, which seems to come from all around you. &nbsp;</p> <p>The hand disappears back into the table as suddenly as it arrived. You lean forward, examining the table-top, but there&rsquo;s no sign of it. If it wasn&rsquo;t for the fact that Anna is crying hysterically, you&rsquo;d assume you imagined it. You open your mouth to ask her about it, but before you can speak, she rushes out.</p>",
+        "_id": "57f68063c7dde222100005ea",
+        "hint": {
+            "direction": "Go to Harry Ramsden's near the beach",
+            "locations": ["dcc294404624b758d2273f80"]
+        },
+        "functions": ["seen4b"],
+        "conditions": ["notSeen4b", "seen4a", "harry"],
+        "id": "57f68063c7dde222100005ea",
+        "name": "Chapter 3 - 2/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>&ldquo;No thanks,&rdquo; you say. It&rsquo;s nice of her to take an interest in your health, but what you need right now is solitude. The dream you were having has made a strong impression on you and you want to go over the details while they&rsquo;re fresh in your mind. You decide to go for a walk to help you concentrate and set off along the promenade at a brisk pace.</p> <p>&nbsp;</p> <p>As you walk, you cast your mind back to the tram. It&rsquo;s hard to believe what an immersive environment it was &ndash; every detail perfectly realised, from the smudged fingerprints on the windows to the hum of conversation. It makes you wonder if there was more to it than just your own imagination. Certainly, it was influenced by the things you have been seeing &ndash; Harold&rsquo;s supposed wife, the wedding ring&hellip;</p> <p>&nbsp;</p> <p>You pause mid-step opposite a row of beach huts. You&rsquo;d forgotten all about the ring, which is odd, because it&rsquo;s still in your hand. You should have given it to the care worker when you had the chance.</p> ",
+        "_id": "57f68063c7dde222100005e9",
+        "hint": {
+            "direction": "Head to the undercliff beach huts",
+            "locations": ["636bf6da1a3635926b32ee4d"]
+        },
+        "functions": ["seen5a"],
+        "conditions": ["notSeen5a", "seen3g", "notSeen4a", "huts"],
+        "id": "57f68063c7dde222100005e9",
+        "name": "Go for a walk along the beach - Chapter 4 - 1/3",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You start to return to the bench, hoping she&rsquo;ll still be there. Then, you happen to glance at the sea and notice something rising out of it and coming towards you at a rapid pace &ndash; a lithe figure perpetually wrapped in shadow. You quicken your pace, trying to get away from it, but it&rsquo;s too fast. Sweeping across the beach, it steps onto the path in front of you.</p> <p>&nbsp;</p> <p>Although the light still seems to shy away from it, you can see what it is now &ndash; a woman in a Victorian dress of black taffeta, dripping wet from the sea, strands of seaweed clinging to her head and body. Her face is hidden by a thick veil, but you can make out wrinkles and silver hair, so she&rsquo;s obviously old. What is she, though? A ghost? A figment of your imagination. Either way, she&rsquo;s giving you serious goosebumps.</p> <p>&nbsp; &nbsp;</p> <p>She walks towards you, stretching out her hand. &ldquo;My son&rsquo;s life is his own business. Stay out of it.&rdquo;</p> <p>&nbsp;</p> <p>You flinch as the woman&rsquo;s hand touches your own, prising open your fingers and snatching Harriet&rsquo;s wedding ring.</p> <p>&nbsp;</p> <p>Before you can react, she hurls the ring into the sea. Then she disappears.</p>",
+        "_id": "57f68063c7dde222100005e8",
+        "hint": {
+            "direction": "Head to the undercliff beach huts",
+            "locations": ["636bf6da1a3635926b32ee4d"]
+        },
+        "functions": ["seen5b"],
+        "conditions": ["notSeen5b", "seen5a", "huts"],
+        "id": "57f68063c7dde222100005e8",
+        "name": "Chapter 4 - 2/3",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You are still trying to decide if she was ever really there, when you see Harriet standing by one of the beach huts. She&rsquo;s wearing the same paisley tunic dress and cloche hat, but she looks different now, less substantial. Perhaps she&rsquo;s a ghost too. As crazy as it sounds, it would explain a lot. She starts to walk away from you towards the pier, beckoning for you to follow her. You feel deeply unsettled, but you&rsquo;re too intrigued not to obey.</p>",
+        "_id": "57f68063c7dde222100005e7",
+        "hint": {
+            "direction": "Head to the undercliff beach huts",
+            "locations": ["636bf6da1a3635926b32ee4d"]
+        },
+        "functions": ["seen5c"],
+        "conditions": ["notSeen5c", "seen5b", "huts"],
+        "id": "57f68063c7dde222100005e7",
+        "name": "Chapter 4 - 3/3",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You stand up and set off after her, knocking over your chair in your haste. You need to talk to her about what just happened. You're sure it involves Harold somehow, so maybe she can explain it.</p> <p>&nbsp;</p> <p>You look left, then right as you leave the restaurant, spot her running towards the pier and hurry after her. &ldquo;Anna, wait!!&rdquo;</p> <p>&nbsp;</p> <p>She pays no attention, veering off into the Lower Gardens, feet pounding on the path. She looks terrified, body shaking, hand gripping her crucifix. You start to gain on her, and as you do, you hear her muttering to herself in her own language. It sounds like some kind of prayer, probably meant to ward off evil spirits.</p> <p>&nbsp;</p> <p><audio data-media-id='23'/></p> <p>&nbsp;</p> <p>You follow her out of the park, along Old Christchurch Road and into Albert Street, calling out every so often, trying to get to stop, but she seems not to hear. Where is she going? At the top of the road, you find out - the Church of the Sacred Heart. She flings open the door and rushes inside.</p> ",
+        "_id": "57f68063c7dde222100005e6",
+        "hint": {
+            "direction": "Go to the Church of the Sacred Heart on Albert Road",
+            "locations": ["79edd9c3a1cc99b309a3ede9"]
+        },
+        "functions": ["seen6a"],
+        "conditions": ["notSeen6a", "seen4b", "notSeen7", "sacredheart"],
+        "id": "57f68063c7dde222100005e6",
+        "name": "Follow Anna to the Church of the Sacred Heart - Chapter 5 - 1/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You find her kneeling in the aisle in front of the altar, still praying, still clutching her crucifix. The way she&rsquo;s behaving, you&rsquo;d think she'd seen the devil himself. You approach slowly, so as not to startle her, touching her on the arm. &ldquo;Are you all right?&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;What was that thing?&rdquo; she asks, peering past you along the aisle as if she thinks you might have brought it with you.</p> <p>&nbsp;</p> <p>You shrug. &ldquo;I was hoping you could tell me.&rdquo;</p> <p>&nbsp;</p> <p>She continues to look around her nervously. &ldquo;I don't know. Something evil, something unholy.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;I think it had something to do with Harold,&rdquo; you tell her.</p> <p>&nbsp;</p> <p>&ldquo;Our Harold?&rdquo; she asks incredulously. &ldquo;Not possible. I've known him for five years; he's a good man.&rdquo; She stands up abruptly, backing away from you. &ldquo;It was you, wasn&rsquo;t it? You were with me at the time. You&rsquo;re responsible.&rdquo;</p> <p>&nbsp;</p> <p>You take a step towards her, holding out your hands reassuringly. &ldquo;That&rsquo;s not true.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;Stay away from me,&rdquo; she says, pushing past you and running to the door. She pulls it open quickly, waving her crucifix at you, and then rushes out.</p> <p>&nbsp;</p> <p>This time, you don't go after her. There's no point.</p>",
+        "_id": "57f68063c7dde222100005e5",
+        "hint": {
+            "direction": "Go to the Church of the Sacred Heart on Albert Road",
+            "locations": ["79edd9c3a1cc99b309a3ede9"]
+        },
+        "functions": ["seen6b"],
+        "conditions": ["notSeen6b", "seen6a", "sacredheart"],
+        "id": "57f68063c7dde222100005e5",
+        "name": "Chapter 5 - 2/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You move to the window, watching her disappear into the distance. She looks terrified, body shaking, hand gripping her crucifix. She probably knows nothing about what just happened, and even if she does, it would be a waste of time trying to talk to her in that state. You sit down. You&rsquo;re feeling pretty unsettled yourself, heart drumming, goosebumps on your arms.</p> <p>&nbsp;</p> <p>You take a deep breath, slowly going over the details of the ghost&rsquo;s appearance in your mind &ndash; assuming it was a ghost, of course. She mentioned a son &ndash; did she mean Harold? If so, why take his wedding ring? So many questions. You wonder if...</p> <p>&nbsp;</p> <p>The thought trails off as you notice Harriet standing outside the window, looking at you. She is dressed in the same dress and hat, but she looks different somehow - less substantial. Perhaps she's a ghost too. It would explain a lot. You decide to go and speak to her, find out if she can give you some answers, but by the time you get outside, she&rsquo;s already walking away. She pauses as she approaches the pier, beckoning for you to follow. You obey without hesitation. You&rsquo;re too intrigued not to.</p>",
+        "_id": "57f68063c7dde222100005e4",
+        "hint": {
+            "direction": "Go to Harry Ramsden's near the beach",
+            "locations": ["dcc294404624b758d2273f80"]
+        },
+        "functions": ["seen7"],
+        "conditions": ["notSeen7", "seen4b", "notSeen6a", "harry"],
+        "id": "57f68063c7dde222100005e4",
+        "name": "Remain in the restaurant - Chapter 6",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>She leads you through the Lower Gardens and onto Old Christchurch Road. At first, you try to talk to her, but she doesn't respond, so eventually you give up. You were feeling very self-conscious about it anyway, because passers-by kept giving you funny looks. It's as if nobody else can see her. You wonder again if she might be a ghost. There's certainly something otherworldly about the way she moves - effortless, her feet seeming to barely touch the ground.</p> <p>&nbsp;</p> <p>She turns into Albert Street and you lose sight of her for a moment. Then you turn the corner yourself and find to your surprise that she is already half way along. How did she move so far in such a short space of time? You speed up, trying to catch her, wondering where she&rsquo;s going.</p> <p>&nbsp;</p> <p>Then you get your answer &ndash; the Church of the Scared Heart. Stopping in front of it, she turns to wave to you, before walking up to the porch. The door is closed, but instead of stopping to open it, she passes straight through. You hurry after her, touch the wooden surface. It&rsquo;s completely solid. Now you&rsquo;re sure she&rsquo;s a ghost.&nbsp;</p>",
+        "_id": "57f68063c7dde222100005e3",
+        "hint": {
+            "direction": "Go to the Church of the Sacred Heart on Albert Road",
+            "locations": ["79edd9c3a1cc99b309a3ede9"]
+        },
+        "functions": ["seen8a"],
+        "conditions": ["notSeen8a", "unlock8", "sacredheart"],
+        "id": "57f68063c7dde222100005e3",
+        "name": "Chapter 7 - 1/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You open the door and step inside, eyes moving along the rows of seats. Where did she go? You shuffle your feet self-consciously, as your gaze falls on the statues behind the altar. There&rsquo;s something distinctly disapproving in their expressions. It&rsquo;s as if they know somehow that you haven&rsquo;t come here to pray.</p> <p>&nbsp;</p> <p>You walk along the central aisle, looking to either side of you, but Harriet is nowhere to be seen.</p>",
+        "_id": "57f68063c7dde222100005e2",
+        "hint": {
+            "direction": "Go to the Church of the Sacred Heart on Albert Road",
+            "locations": ["79edd9c3a1cc99b309a3ede9"]
+        },
+        "functions": ["seen8b"],
+        "conditions": ["notSeen8b", "seen8a", "sacredheart"],
+        "id": "57f68063c7dde222100005e2",
+        "name": "Chapter 7 - 2/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Suddenly, there is a loud bang from the back of the church.</p> <p>&nbsp;</p> <p><audio data-media-id='24'/></p> <p>&nbsp;</p> <p>You turn your head and see immediately what it was &ndash; a book falling from a table. Did somebody or something push it? It&rsquo;s possible, you suppose, though the table is covered with books in precarious piles, so it could easily have slipped off on its own. There is a metal honesty box amidst the books and a notice on the wall above... &nbsp;</p> <p>&nbsp;</p> <p><img data-media-id='5'/></p> <p>&nbsp;</p> <p>You go over to the table to investigate and that&rsquo;s when you see the title of the fallen book -<em> A Thousand Miles up the Nile</em>. Wasn&rsquo;t that what Harriet was reading on the tram? The cover looks familiar too. Maybe it&rsquo;s the same book.</p> <p>&nbsp;</p> <p>You pick it and give a little gasp as it falls open in your hand, revealing a handwritten note in the flyleaf&hellip;</p> <p>&nbsp;</p> <p><img data-media-id='11'/></p> <p>&nbsp;</p> <p>So it is Harriet&rsquo;s book. Who is this Andrew that she met on the tram, though? Someone she was seeing before she was married? A lover?</p> <p>&nbsp;</p> <p>You press your hand to your forehead. You&rsquo;re feeling dizzy again. The writing in the book dances before your eyes and the world seems to shift around you. &nbsp;&nbsp;</p>",
+        "_id": "57f68063c7dde222100005e1",
+        "hint": {
+            "direction": "Go to the Church of the Sacred Heart on Albert Road",
+            "locations": ["79edd9c3a1cc99b309a3ede9"]
+        },
+        "functions": ["seen9a"],
+        "conditions": ["notSeen9a", "unlock9", "sacredheart"],
+        "id": "57f68063c7dde222100005e1",
+        "name": "Chapter 8 - 1/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Your vision clears and you look around. You&rsquo;re still in the church, but the book stall is gone, and Andrew, the man from the tram, is sitting in one of the pews in a dinner suit, apparently praying, hands clasped, elbows resting on the back of the seat in front. &nbsp;He is speaking in a low undertone, but every so often, a word or phrase carries &ndash; Harriet&rsquo;s name, something about coveting another man&rsquo;s wife. An affair then.&nbsp; Poor Harold. What&rsquo;s the significance, though? Why are you here? Maybe you should speak to him to see if has any answers. &ldquo;Excuse me, sir.&rdquo;</p> <p>&nbsp;</p> <p>He seems not to hear, continuing with his prayers. You decide to approach, but before you can move, he stands up and leaves. You start to go after him, and then stop, remembering Harriet's book. You can't just walk off with it. You need to pay. Either that or leave it behind, which is out of the question, as it's your first real proof that the scenes you are witnessing are more than just dreams. You return to the table, drop the money into the honesty box, and hurry out of the door.</p>",
+        "_id": "57f68063c7dde222100005e0",
+        "hint": {
+            "direction": "Go to the Church of the Sacred Heart on Albert Road",
+            "locations": ["79edd9c3a1cc99b309a3ede9"]
+        },
+        "functions": ["seen9b"],
+        "conditions": ["notSeen9b", "seen9a", "sacredheart"],
+        "id": "57f68063c7dde222100005e0",
+        "name": "Chapter 8 - 2/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Then you see it - a dark shape swooping down at you from above. You jump backwards, flattening yourself against the wall. You don't know what it is, but you're sure it wants to hurt you.</p> <p>You dodge to the side, raising your arms defensively as it comes at you again. It looks vaguely human in shape, but is completely black and devoid of feature - a pulsing mass of impenetrable shadow.</p> <p>Breaking away, it rises upwards, hovering just out of reach. Although it has no eyes, you can feel it watching you, waiting for the right moment to attack. &ldquo;What do you want?&rdquo; you shout.</p> <p>&ldquo;I want you to stop prying into my son's past,&rdquo; comes the reply. You recognise the voice at once - the ghost from the seafront. &ldquo;Otherwise I'll have to take action. I was called Magdalene when I was alive, but I can be anything I want now, including death.&rdquo; She gathers herself into a ball, throbbing malevolently and then hurtles towards you once again.</p> <p>You raise your hands in front of your face, sure she is going to hit you, but at the last possible moment, she disappears. </p>",
+        "_id": "57f68063c7dde222100005df",
+        "hint": {
+            "direction": "Go to the Church of the Sacred Heart on Albert Road",
+            "locations": ["79edd9c3a1cc99b309a3ede9"]
+        },
+        "functions": ["seen9c"],
+        "conditions": ["notSeen9c", "seen9b", "sacredheart"],
+        "id": "57f68063c7dde222100005df",
+        "name": "Chapter 8 - 3/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You lower your hands, look around and then sigh in relief. It looks like she&rsquo;s really gone.</p> <p>&nbsp;</p> <p>The sensible thing to do now would be to try and extricate yourself from this adventure, but even as the idea occurs to you, you dismiss it. It&rsquo;s unlike anything you&rsquo;ve ever experienced before and you&rsquo;re determined to see it through to the end.&nbsp; As for this business of killing you, you doubt very much whether she has the power or surely she&rsquo;d have done it by now. She&rsquo;s just trying to scare you off.</p> <p>&nbsp;</p> <p>You lean back against the wall of the church, waiting for your heartbeat to return to normal and considering what to do. Judging by the garden which has replaced the Art Deco offices of the Daily Echo and the old-fashioned cars moving along the road, you&rsquo;re still in the past, which probably means there&rsquo;s something else you&rsquo;re supposed to see.</p> <p>&nbsp;</p> <p><img data-media-id='10'/></p> <p>&nbsp;</p> <p>You notice Andrew walking briskly along Albert Road and hurry after him. You could be wrong, but you have a feeling that what he&rsquo;s doing will turn out to be significant.</p>",
+        "_id": "57f68063c7dde222100005de",
+        "hint": {
+            "direction": "Go to the Church of the Sacred Heart on Albert Road",
+            "locations": ["79edd9c3a1cc99b309a3ede9"]
+        },
+        "functions": ["seen9d"],
+        "conditions": ["notSeen9d", "seen9c", "sacredheart"],
+        "id": "57f68063c7dde222100005de",
+        "name": "Chapter 8 - 4/4",
+        "pageTransition": "next"
+    }, {
+        "content": " <p>As you walk, your eyes wander over the buildings to either side of you. Every so often, you catch them flickering, their modern equivalents appearing on top. It&rsquo;s disorientating, but it&rsquo;s also fascinating, highlighting the changes which have taken place over the years. You pause in front of Beales. Who would have thought the quaint store of old would grow into such a giant?</p> <p>&nbsp;</p>  <p><img data-media-id='4'/></p>  <p>&nbsp;</p>  <p>You turn your attention back to Andrew, who has taken out his notebook and is jotting something down, occasionally bumping into people and muttering apologies. You move closer and peer at it over his shoulder. It looks like work &ndash; detailed notes about the bakery model he is studying with accompanying diagrams.</p>",
+        "_id": "57f68063c7dde222100005dd",
+        "hint": {
+            "direction": "Head to Beales on Old Christchurch Road",
+            "locations": ["ba37a1808c7e51263ec2cb0c"]
+        },
+        "functions": ["seen10"],
+        "conditions": ["notSeen10", "seen9d", "beales"],
+        "id": "57f68063c7dde222100005dd",
+        "name": "Chapter 9",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>He walks quickly onwards through the Lower Gardens, still scribbling furiously, and then climbs the steps to the Pavilion Theatre. Harriet is waiting for him by the door, glancing at her watch periodically. She has her hair pinned to one side like a 1920s film star and is wearing a glamourous flapper dress &ndash; black silk adorned with black and gold sequins in geometric patterns.</p> <p>&nbsp;</p> <p>There are people everywhere &ndash; a sea of silk and velvet - making it hard to see more than a few feet, but the eyes of the lovers meet at once.</p> <p>&nbsp;</p><p><img data-media-id='1'/></p><p>&nbsp;</p> <p>They move towards each other as if they are going to embrace, only to draw back, eying the crowd self-consciously. Andrew holds out his hand and Harriet shakes it. Then she smooths back her hair and looks pointedly at her watch. &ldquo;I thought you weren&rsquo;t coming.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;I almost didn&rsquo;t,&rdquo; Andrew tells her.</p> <p>&nbsp;</p> <p>&ldquo;What do you mean? Don&rsquo;t you like me anymore?&rdquo; Harriet asks.</p> <p>&nbsp;</p><p>Andrew puts away his notebook. &ldquo;It isn&rsquo;t that. It&rsquo;s just&hellip;&rdquo; He breaks off, fiddling unnecessarily with his bowtie, before finally carrying on, his voice lower, more guarded. &ldquo;You&rsquo;re married. When you&rsquo;re raised a Catholic as I was, that means something.&rdquo;</p>",
+        "_id": "57f68063c7dde222100005dc",
+        "hint": {
+            "direction": "Go to the front of the Pavillion Theater",
+            "locations": ["a4224bb87792d52c5f55dba6"]
+        },
+        "functions": ["seen11a"],
+        "conditions": ["notSeen11a", "seen10", "pavillion"],
+        "id": "57f68063c7dde222100005dc",
+        "name": "Chapter 10 - 1/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Harriet turns away, top lip quivering. &ldquo;It meant something to me too once, but life didn&rsquo;t live up to the fairy tale. My husband is horrible to me. He always fancied himself as an actor, but he never made any money at it, so he turned to drink and crime instead, and for someone reason, he blames me. You don&rsquo;t know what it&rsquo;s like living with someone like that.&rdquo; She raises a hand to her eye, wiping away a tear. &ldquo;Someone who lashes out at you at the slightest provocation. I live in constant fear.&rdquo;</p> <p>&nbsp;</p> <p>Andrew places his hand tentatively on her arm. &ldquo;I&rsquo;m sorry. I had no idea.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;I don&rsquo;t make a habit of talking about it,&rdquo; she sniffs. She pulls away from him. &ldquo;Look, if you want me to go, just say the word and I will.&rdquo;</p> <p>&nbsp;</p> <p>Andrew sighs. &ldquo;I don&rsquo;t want you to go. Married or not, I think I&rsquo;m falling in love with you.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;Really?&rdquo; Harriet asks.</p> <p>&nbsp;</p> <p>Andrew takes her hand and leads her down the steps into the shadows. Then he puts his arms around her and kisses her clumsily.</p>",
+        "_id": "57f68063c7dde222100005db",
+        "hint": {
+            "direction": "Go to the front of the Pavillion Theater",
+            "locations": ["a4224bb87792d52c5f55dba6"]
+        },
+        "functions": ["seen11b"],
+        "conditions": ["notSeen11b", "seen11a", "pavillion"],
+        "id": "57f68063c7dde222100005db",
+        "name": "Chapter 10 - 2/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You look away. You shouldn&rsquo;t be watching them like this; they obviously can&rsquo;t see you. You decide to wait for them on the terrace, but before you can move, you hear footsteps in the distance</p> <p>&nbsp;</p> <p><audio data-media-id='25'/></p> <p>&nbsp;</p> <p>Harriet and Andrew separate quickly, faces red. A moment later, a man and woman appear around a corner, talking and smiling. They pause to say good evening to Harriet and Andrew, before continuing up the steps.</p> <p>&nbsp;</p> <p>&ldquo;We should go inside,&rdquo; says Andrew, sounding flustered.</p> <p>&nbsp;</p> <p>Harriet straightens her dress. &ldquo;Absolutely. We don't want to miss the start.&rdquo;</p> <p>&nbsp;</p> <p>They begin to climb the steps. &ldquo;Thank you so much for bringing me here tonight,&rdquo; Harriet says after a moment. &ldquo;I've been dying to see this place.&rdquo;</p> <p>&nbsp;</p> <p>Andrew looks pleased. &ldquo;Don't mention it. I&rsquo;d heard from friends it was impressive and I was curious to see it myself. It's only been open for a year, hasn't it?&rdquo;</p> <p>&nbsp;</p>  <p>&ldquo;Yes,&rdquo; Harriet replies. &ldquo;The first concert was on the 19<sup>th</sup> of March 1929. I remember the date because it was just after my birthday and I asked Harry if we could buy tickets to celebrate. He said no, of course.&rdquo;</p>",
+        "_id": "57f68063c7dde222100005da",
+        "hint": {
+            "direction": "Go to the front of the Pavillion Theater",
+            "locations": ["a4224bb87792d52c5f55dba6"]
+        },
+        "functions": ["seen11c"],
+        "conditions": ["notSeen11c", "seen11b", "pavillion"],
+        "id": "57f68063c7dde222100005da",
+        "name": "Chapter 10 - 3/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Reaching the top of the steps, they move across the terrace into the theatre. Before you can follow, you start to feel dizzy. The lights in the Pavilion windows flare to an almost painful brightness and you close your eyes.</p> <p>&nbsp;</p>  <p>When you open them again, time has shifted forward and you see Harriet and Andrew re-emerge. They pause briefly, speaking to each other in low whispers. Then Harriet hurries off down the steps.</p>",
+        "_id": "57f68063c7dde222100005d9",
+        "hint": {
+            "direction": "Go to the front of the Pavillion Theater",
+            "locations": ["a4224bb87792d52c5f55dba6"]
+        },
+        "functions": ["seen11d"],
+        "conditions": ["notSeen11d", "seen11c", "pavillion"],
+        "id": "57f68063c7dde222100005d9",
+        "name": "Chapter 10 - 4/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You follow Harriet down the steps. She leads you to Old Christchurch Road, her heels clacking noisily on the ground, turns left into Yelverton Road and then pauses at the top of Verulam Place.</p> <p>&nbsp;</p> <p>You raise your eyebrows. She&rsquo;s removing her shoes. Perhaps she has a blister. Tucking them under her arm, she moves quickly onwards along Verulam Place, keeping to the shadows. She stops at one of the doors, takes out a set of keys and quietly lets herself in.</p> <p>&nbsp;</p> <p>You go in as well, just managing to duck past the door before she pushes it closed. The hall beyond is in darkness, but you can make out a few details - a walnut side table with a vase of wilted flowers on it, a bevelled mirror covered in grubby fingerprints. The walls are decorated in brown wallpaper with a recurring iris motif and there is a maroon rug on the floor.</p> <p>&nbsp;</p> <p>Ahead of you is a flight of stairs - open at one side with a strip of carpet. Without turning on the light, Harriet tiptoes up these stairs. She unlocks one of the doors on the landing above and cautiously pushes it open.</p>",
+        "_id": "57f68063c7dde222100005d8",
+        "hint": {
+            "direction": "Head to Verulam Place",
+            "locations": ["572a555e4191c1be3ba0cd2e"]
+        },
+        "functions": ["seen12a"],
+        "conditions": ["notSeen12a", "seen11d", "notSeen13a", "verulam"],
+        "id": "57f68063c7dde222100005d8",
+        "name": "Follow Harriet - Chapter 11 - 1/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>On the other side of the door there is a sitting room &ndash; again unlit, but clearly in need of decorating. The wallpaper is peeling at the edges and the ceiling and coving are nicotine yellow. The room appears to be empty, though someone has obviously been here recently, as there is a strong smell of cigarettes emanating from an ashtray on a table. Also on the table are some empty whisky bottles, a plate with a half-eaten sandwich on it and an abandoned game of Solitaire.</p> <p>&nbsp;</p> <p>Harriet moves forward into the room. She looks frightened, eyes scouring every corner. You find yourself holding your breath. Although you seem to be a ghost in this other time, it&rsquo;s hard not to be infected by her mood.</p> <p>&nbsp;</p>  <p>Suddenly, the door slams closed and you see a figure standing beside it.</p>",
+        "_id": "57f68063c7dde222100005d7",
+        "hint": {
+            "direction": "Head to Verulam Place",
+            "locations": ["572a555e4191c1be3ba0cd2e"]
+        },
+        "functions": ["seen12b"],
+        "conditions": ["notSeen12b", "seen12a", "verulam"],
+        "id": "57f68063c7dde222100005d7",
+        "name": "Chapter 11 - 2/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>&ldquo;Home at last. Where have you been?&rdquo; The man&rsquo;s voice is tight with anger, his words slurred. He reaches out his hand and turns on the light.</p> <p>&nbsp;</p> <p>You blink, momentarily dazzled. Then your eyes adjust and you see that it is Harold standing by the door. Although, he is years younger, you recognise him instantly. He is dressed in a pair of grey trousers and a grubby shirt, sleeves rolled up to his elbows, and clutching an open bottle of whiskey.</p> <p>&nbsp;</p> <p>Harriet swings around guiltily. &ldquo;Hello Harry. I thought you&rsquo;d be in bed by now.&rdquo;</p> <p>&nbsp;</p> <p>Harold takes a swig of his drink. &ldquo;You thought wrong. Now I&rsquo;m going to ask you again - where have you been?&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;Out with my friend &ndash; Edith,&rdquo; Harriet replies.</p> <p>&nbsp;</p> <p>Harold eyes her suspiciously. &ldquo;Again? You seem to be awfully close to her all of a sudden. And what&rsquo;s that dress you&rsquo;re wearing?&rdquo;</p> <p>&nbsp;</p> <p>Harriet edges away from him. &ldquo;It&rsquo;s new. I bought it from Beale&rsquo;s last week.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;You did, did you?&rdquo; Harold asks. &ldquo;Where did you get the money?&rdquo;</p> <p>Harriet moves towards a door in the far wall. &ldquo;No more questions, Harry. I&rsquo;m tired. I&rsquo;m going to bed.&rdquo;</p>",
+        "_id": "57f68063c7dde222100005d6",
+        "hint": {
+            "direction": "Head to Verulam Place",
+            "locations": ["572a555e4191c1be3ba0cd2e"]
+        },
+        "functions": ["seen12c"],
+        "conditions": ["notSeen12c", "seen12b", "verulam"],
+        "id": "57f68063c7dde222100005d6",
+        "name": "Chapter 11 - 3/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>She reaches for the door handle, only to freeze as Harold&rsquo;s bottle smashes into the wall beside her, showering her with whisky and shards of glass.</p> <p>&nbsp;</p> <p><audio data-media-id='26'/></p> <p>&nbsp;</p> <p>&ldquo;You&rsquo;ll go when I say you can go,&rdquo; Harold snarls. He grabs her by the wrist and pulls her towards him. &ldquo;Now about this dress&hellip;&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;My parents gave me the money when I last went to London,&rdquo; Harriet says, her voice trembling.</p> <p>&nbsp;</p> <p>You move forward quickly, attempting to break Harold&rsquo;s grip on her, but your hand passes straight through him.</p> <p>&nbsp;</p> <p>Harold frowns. &ldquo;How many times do I have to tell you &ndash; when they give you money, it comes to me. I need it for bills and stuff. I wish you wouldn&rsquo;t keep running off to see them anyway. They give you la-di-da ideas.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;I like seeing them,&rdquo; says Harriet, &ldquo;and you&rsquo;re more than welcome to come with me.</p> <p>&nbsp;</p> <p>Harold spits on the floor. &ldquo;No, I&rsquo;m not. They think you&rsquo;re too good for me, treat me like...&rdquo;</p> <p>&nbsp;</p> <p>He breaks off as Harriet slips away from him. He lurches towards her, but she is too fast for him, disappearing into the adjoining room and slamming the door. </p>",
+        "_id": "57f68063c7dde222100005d5",
+        "hint": {
+            "direction": "Head to Verulam Place",
+            "locations": ["572a555e4191c1be3ba0cd2e"]
+        },
+        "functions": ["seen12d"],
+        "conditions": ["notSeen12d", "seen12c", "verulam"],
+        "id": "57f68063c7dde222100005d5",
+        "name": "Chapter 11 - 4/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>&ldquo;Open this door!&rdquo; Harold yells, banging his fist on the wooden surface.</p> <p>&nbsp;</p> <p>&ldquo;Go away!&rdquo; Harriet shouts back. &ldquo;You&rsquo;re drunk.&rdquo;</p> <p>&nbsp;</p> <p>He hammers harder, eyes glazed, cheeks crimson. &ldquo;Open it!&rdquo;</p> <p>&nbsp;</p> <p>There is a scraping sound from the other side &ndash; some heavy item of furniture being dragged in front of it. Harold gives it one final punch, and then turns away. He takes a deep breath, his face becoming thoughtful. Then, he goes out of the door. A moment later, you hear his footsteps on the stairs outside and the front door opens and closes.</p> <p>&nbsp;</p> <p>He hasn&rsquo;t gone, though. Moving even more quietly than Harriet was before, he re-enters the room and climbs onto the windowsill, concealing himself behind the curtains.</p> ",
+        "_id": "57f68063c7dde222100005d4",
+        "hint": {
+            "direction": "Head to Verulam Place",
+            "locations": ["572a555e4191c1be3ba0cd2e"]
+        },
+        "functions": ["seen12e"],
+        "conditions": ["notSeen12e", "seen12d", "verulam"],
+        "id": "57f68063c7dde222100005d4",
+        "name": "Chapter 11 - 5/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>After a while, you hear Harriet unblocking the door. She opens it cautiously and pokes her head out. You try to warn her that Harold is still there, but she can&rsquo;t hear you.</p> <p>&nbsp;</p> <p>She picks up the receiver of a candlestick telephone on a table by the window and dials the operator.</p><p>&nbsp;</p> <p><img data-media-id='16'/></p><p>&nbsp;</p> <p>&ldquo;Operator, could you put me through to the Royal Bath Hotel in Bournemouth, please&hellip; Thank you&hellip; Hello, I&rsquo;d like to speak to one of your guests &ndash; Andrew Vane. He&rsquo;s staying in Room 17&hellip; Thank you&hellip; Andrew&hellip; It&rsquo;s Harriet. I need to see you&hellip; I can&rsquo;t explain right now, I need to be quick&hellip; Meet me by the water tower in the Upper Gardens.&rdquo;</p> <p>&nbsp;</p> <p>She hangs up the telephone, puts on her shoes and disappears down the stairs, not even stopping to close the door. The curtains part and Harold drops down from the windowsill, staring after her. The look on his face is terrifying &ndash; eyes narrow, teeth clenched. Whatever&rsquo;s going on inside his head, it isn&rsquo;t good.</p> <p>&nbsp;</p><p>You back away, following Harriet down the stairs and out the front door, wishing there was some way you could warn her.</p>",
+        "_id": "57f68063c7dde222100005d3",
+        "hint": {
+            "direction": "Head to Verulam Place",
+            "locations": ["572a555e4191c1be3ba0cd2e"]
+        },
+        "functions": ["seen12f"],
+        "conditions": ["notSeen12f", "seen12e", "verulam"],
+        "id": "57f68063c7dde222100005d3",
+        "name": "Chapter 11 - 6/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You pause on the steps outside, blinking in surprise. It&rsquo;s daylight and you can hear the roar of modern cars. You&rsquo;re back in the present.</p> <p>&nbsp;</p><p>You shrug your shoulders, setting off down the street at a brisk pace. Jumping around in time was disorientating at first, but you&rsquo;re getting used to it now. Perhaps later on, you&rsquo;ll try to figure out the science of it, but at the moment, all you want to do is find out what happens next in this little drama, which presumably means going to the water tower.</p>",
+        "_id": "57f68063c7dde222100005d2",
+        "hint": {
+            "direction": "Head to Verulam Place",
+            "locations": ["572a555e4191c1be3ba0cd2e"]
+        },
+        "functions": ["seen12g"],
+        "conditions": ["notSeen12g", "seen12f", "verulam"],
+        "id": "57f68063c7dde222100005d2",
+        "name": "Chapter 11 - 7/7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Andrew sighs, watching Harriet descend the steps. He really seems to care about her. How sad that she&rsquo;s been drawn into an unhappy marriage.</p> <p>&nbsp;</p> <p>Sighing again, Andrew sets off down the steps. As he walks, he takes out his notebook and starts writing again. This time it isn&rsquo;t work, though; it&rsquo;s some lines of poetry, presumably about Harriet&hellip;</p> <p>&nbsp;</p><p><img data-media-id='12'/></p> <p>&nbsp;</p> <p>When you look up from your book you find to your surprise that it&rsquo;s daylight again. Obviously, time has shifted. Instead of his dinner suit, Andrew is wearing the clothes he was dressed in on the tram, which suggests you might have move backwards, though it&rsquo;s equally possible that he just has a very limited wardrobe.</p>",
+        "_id": "57f68063c7dde222100005d1",
+        "hint": {
+            "direction": "Go to the War Memorial at central gardens",
+            "locations": ["4769a5e10c7856be96aa391b"]
+        },
+        "functions": ["seen13a"],
+        "conditions": ["notSeen13a", "seen11d", "notSeen12a", "memorial"],
+        "id": "57f68063c7dde222100005d1",
+        "name": "Follow Andrew - Chapter 12 - 1/5",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>He stops by the memorial, looking around him. A few minutes later, an elderly man in a World War One army uniform approaches along the path, walking with a pronounced limp. His eyebrows are bushy and grey, and he has an equally bushy moustache. As he comes nearer, you see three stars on his epaulettes.</p> <p>&nbsp;</p> <p>Andrew takes a step towards him. &ldquo;Captain Miller, I presume.&rdquo;</p> <p>&nbsp;</p> <p>The officer shakes his hand. &ldquo;Please call me Archibald; and you must be Andrew Vane.&rdquo;</p> <p>&nbsp;</p> <p>Andrew nods. &ldquo;Thank you for agreeing to see me. As I explained on the telephone, I&rsquo;m doing some research on one of the Bournemouth Natural Science Society&rsquo;s Egyptian artefacts and I understand you might have some information.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;Quite possibly,&rdquo; Captain Miller replies. &ldquo;Most of what they have in their possession came from Field Marshall the Lord Grenfell&rsquo;s excavations in Aswan, which I assisted with.&rdquo;</p> <p>&nbsp;</p> <p>Andrew takes out his notebook. &ldquo;Do you mind telling me about it?&rdquo;</p> <p>&ldquo;Not at all,&rdquo; the captain replies. &ldquo;Just let me take the weight off my leg. It&rsquo;s been playing me up a bit today.&rdquo; He sits down on the stone railing.</p> ",
+        "_id": "57f68063c7dde222100005d0",
+        "hint": {
+            "direction": "Go to the War Memorial at central gardens",
+            "locations": ["4769a5e10c7856be96aa391b"]
+        },
+        "functions": ["seen13b"],
+        "conditions": ["notSeen13b", "seen13a", "memorial"],
+        "id": "57f68063c7dde222100005d0",
+        "name": "Chapter 12 - 2/5",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>&ldquo;Old war wound?&rdquo; Andrew asks.</p> <p>&nbsp;</p> <p>Captain Miller shakes his head. &ldquo;Actually, no. I broke it falling down the stairs after I retired and it&rsquo;s never been the same since. Ironic, when I spent forty-five years fighting wars and barely got a scratch.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;You were in the army for forty-five years?&rdquo; Andrew asks.</p> <p>&nbsp;</p> <p>&ldquo;I was,&rdquo; the captain replies, &ldquo;and lived to tell the tale. Not like those poor blighters.&rdquo; He gestures at the memorial. &ldquo;I suppose you&rsquo;re too young to remember the Great War.&rdquo;</p> <p>&nbsp;</p> <p>Andrew studies the plaque at the memorial&rsquo;s base. &ldquo;Too young to have fought, but I certainly remember it.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;Count yourself lucky, lad. I&rsquo;ve never known anything like it - mortar bombs streaking across the sky like shooting stars, enemy machine guns cutting great holes in our ranks. Sometimes I'd look at the blood-soaked corpses and severed limbs piling up around me and wonder if there&rsquo;d be anyone left by the time it was over.&rdquo; He shudders and looks away across the park. &ldquo;I lost more friends than I care to remember, and every day, I come here to honour them&hellip; but you don&rsquo;t want to hear about that. Let&rsquo;s talk about Egypt &ndash; a much happier experience.&rdquo;</p>",
+        "_id": "57f68063c7dde222100005cf",
+        "hint": {
+            "direction": "Go to the War Memorial at central gardens",
+            "locations": ["4769a5e10c7856be96aa391b"]
+        },
+        "functions": ["seen13c"],
+        "conditions": ["notSeen13c", "seen13b", "memorial"],
+        "id": "57f68063c7dde222100005cf",
+        "name": "Chapter 12 - 3/5",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>&ldquo;What artefact in particular are you working on,&rdquo; the captain asks, massaging his leg.</p> <p>&nbsp;</p> <p>Andrew flicks through his notebook until he comes to a photograph of the bakery model and holds it up.</p> <p>&nbsp;</p>  <p><img data-media-id='3'/></p> <p>&nbsp;</p> <p>Captain Miller leans forward, squinting. &ldquo;Ah yes, I remember that one. It was one of the field marshal&rsquo;s favourites.&rdquo; He goes onto describe the Aswan expedition &ndash; talking in detail about the colleagues who were with him, the paid workers, the tools they used, even the exact position the model was found in. He explains how the tombs were built into the side of a hill on several levels and how they had to climb a stone staircase to reach the one in question, which belonged to one of the rulers of the Elephantine. Then he talks about the area in general &ndash; the quarries, the ancient Arabic cemeteries, the thundering catacombs to the south.</p> <p>&nbsp;</p> <p>Some of it seems inconsequential, but Andrew writes it all down, his spidery writing filling the pages of his book like a rapidly spreading fire.</p>",
+        "_id": "57f68063c7dde222100005ce",
+        "hint": {
+            "direction": "Go to the War Memorial at central gardens",
+            "locations": ["4769a5e10c7856be96aa391b"]
+        },
+        "functions": ["seen13d"],
+        "conditions": ["notSeen13d", "seen13c", "memorial"],
+        "id": "57f68063c7dde222100005ce",
+        "name": "Chapter 12 - 4/5",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>When the old man finishes speaking, Andrew closes the book and returns it to his pocket. &ldquo;I can&rsquo;t tell you how useful this has been. Thank you again.&rdquo;</p> <p>&nbsp;</p> <p>The captain waves his hand dismissively. &ldquo;Don&rsquo;t mention it. I love talking about Egypt. I wish I was back there in some ways.&rdquo;</p> <p>&nbsp;</p> <p>The two say their goodbyes and Andrew heads back towards the town. You start to follow, but suddenly Captain Miller is standing in front of you, pointing imperiously in the other direction. &ldquo;It&rsquo;s that way for you &ndash; to the water tower.&rdquo; His tone is so commanding you obey without thinking.</p><p>&nbsp;</p> <p>A moment later, you stop. How is it that Captain Miller was able to see you when nobody else can? There must be something special about him. You turn to speak to him, but he&rsquo;s already gone.</p> <p>&nbsp;</p><p>Taking a final look around, you continue along the path. You don&rsquo;t know what he wants you to see, but you have a feeling it&rsquo;s important. As you walk, the park blurs momentarily, shifting back to its twenty-first century form, but you barely notice. &nbsp;Jumping around in time was disorientating at first, but you&rsquo;re getting used to it.</p>",
+        "_id": "57f68063c7dde222100005cd",
+        "hint": {
+            "direction": "Go to the War Memorial at central gardens",
+            "locations": ["4769a5e10c7856be96aa391b"]
+        },
+        "functions": ["seen13e"],
+        "conditions": ["notSeen13e", "seen13d", "memorial"],
+        "id": "57f68063c7dde222100005cd",
+        "name": "Chapter 12 - 5/5",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>As you pass under Wessex Way, you stop abruptly. There&rsquo;s a voice echoing around you &ndash; Magdalene&rsquo;s voice &ndash; &ldquo;Stay out of my son&rsquo;s past! I&rsquo;m warning you.&rdquo;</p> <p>&nbsp;</p> <p>You look around, trying to work out where it&rsquo;s coming from, only to see something flying towards you. You step back, ready to defend yourself, but it&rsquo;s just a plastic bag blowing in the wind.</p> <p>&nbsp;</p> <p>You start to turn away, when suddenly the wind changes and the bag hits you, wrapping itself around you face. You raise your hands, trying to peel it away, but it won&rsquo;t move. Slowly, it starts to tighten, cutting off your air supply. You claw at the edges; they won&rsquo;t lift. You try to rip through the material, but it&rsquo;s too strong. The voice starts to laugh &ndash; a rasping cackle like the scuttle of a giant beetle.</p> <p>&nbsp;</p> <p>You drop to your knees, gasping for air. Your vision blurs, your struggles get weaker. You&rsquo;re falling to the floor now, blackness closing around you.</p>",
+        "_id": "57f68063c7dde222100005cc",
+        "hint": {
+            "direction": "Head to central gardens under the flyover",
+            "locations": ["727865677a2e5d31da0650e3"]
+        },
+        "functions": ["seen14a"],
+        "conditions": ["notSeen14a", "unlock14", "flyover"],
+        "id": "57f68063c7dde222100005cc",
+        "name": "Chapter 13 - 1/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>At the last possible moment, the bag is torn away. You roll onto your back, sucking air into your lungs convulsively. You never knew breathing could feel so good. The laughter around you turns into a howl of frustration, which swells to an almost painful volume, before falling silent.</p> <p>&nbsp;</p> <p>You sit up, your breathing returning to normal, your vision clearing, and see Harriet standing over you in her black flapper dress.</p> <p>&ldquo;Thank you,&rdquo; you say earnestly.</p> <p>&nbsp;</p> <p>She walks away without answering. You scramble to your feet, staring after her. Is it your imagination or is she getting fainter? Yes, with each step she takes, she becomes less substantial, until finally, she&rsquo;s gone completely.</p> <p>&nbsp;</p>  <p>Not that it matters. You already know where she&rsquo;s going. You continue along the path into the Upper Gardens. Magdalene&rsquo;s latest attack hasn&rsquo;t scared you off. In fact, it&rsquo;s made you more determined than ever to proceed.</p>",
+        "_id": "57f68063c7dde222100005cb",
+        "hint": {
+            "direction": "Head to central gardens under the flyover",
+            "locations": ["727865677a2e5d31da0650e3"]
+        },
+        "functions": ["seen14b"],
+        "conditions": ["notSeen14b", "seen14a", "flyover"],
+        "id": "57f68063c7dde222100005cb",
+        "name": "Chapter 13 - 2/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>As you near the water tower, you feel yourself slipping back into the past. The line of buildings beyond the trees reforms and a section of the stream beside you widens into a pool with a gushing fountain&hellip;</p> <p>&nbsp;</p>  <p><img data-media-id='19'/></p>  <p>&nbsp;</p> <p>It&rsquo;s night, but the moon is full, bathing the park in pallid light. Andrew is leaning against a tree. He has his notebook in hand and is annotating some work.</p> <p>&nbsp;</p> <p>After a while, you hear footsteps and Harriet appears on the path. She hurries up to him, her cheeks puffy as if she has been crying. He puts his book in his pocket and embraces her awkwardly. &ldquo;Are you all right, my dear?&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;No,&rdquo; she replies, resting her head against his chest. &ldquo;Harry was waiting up for me when I got home. I think he suspects.&rdquo;</p> <p>&nbsp;</p> <p>Andrew looks concerned. &ldquo;I see.&rdquo; He bites his lip. &ldquo;Do you want to break it off?&rdquo;</p> <p>&nbsp;</p>  <p>Harriet pulls him closer to her. &ldquo;Of course not. I want you to take me away from this place. I can&rsquo;t tell you how angry Harry was when he saw me. Luckily, I managed to shut myself away from him or I dread to think what he would have done.&rdquo;</p>",
+        "_id": "57f68063c7dde222100005ca",
+        "hint": {
+            "direction": "Go to the Water Tower in the Upper Gardens",
+            "locations": ["5131ac65ea4b48c91b869173"]
+        },
+        "functions": ["seen16"],
+        "conditions": ["notSeen16", "seen14b", "watertower"],
+        "id": "57f68063c7dde222100005ca",
+        "name": "Chapter 14",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>&ldquo;I&rsquo;ll show you what he would have done!&rdquo;</p> <p>&nbsp;</p> <p>The voice is unmistakable &ndash; Harold&rsquo;s voice &ndash; taut with rage. He emerges from the mass of foliage around the tower and comes towards them, holding a revolver&hellip;</p> <p>&nbsp;</p> <p><img data-media-id='13'/></p> <p>&nbsp;</p> <p>Harriet pulls away from Andrew and raises her hands in a placating gesture. &ldquo;Harry wait, it isn&rsquo;t what it looks like. Andrew and I are just&hellip;&rdquo;</p> <p>&nbsp;</p> <p>A gunshot rings out&hellip;</p> <p>&nbsp;</p> <p><audio data-media-id='27'/></p> <p>&nbsp;</p> <p>Then another and another.</p> <p>&nbsp;</p> <p>Harriet falls silent, hands dropping to her stomach, which is now oozing blood. She presses against it, desperately trying to stem the flow, but it seeps through her fingers forming streaks of crimson down the front of her dress. She collapses to the floor, moaning in pain, her entire body trembling.</p> <p>&nbsp;</p> <p>Harold points the gun at Andrew, the barrel still smoking. &ldquo;Useful thing this. I took it from some old soldier out for a walk. If I&rsquo;d know what my slut wife was going to end up doing, I&rsquo;d have bought one of my own years ago, put her out of her misery right then and there. Still, better late than never.&rdquo;</p> <p>&nbsp;</p><p>Harriet gives a low gurgle. Then her eyes slide shut and she stops moving.</p>",
+        "_id": "57f68063c7dde222100005c9",
+        "hint": {
+            "direction": "Go to the Water Tower in the Upper Gardens",
+            "locations": ["5131ac65ea4b48c91b869173"]
+        },
+        "functions": ["seen17a"],
+        "conditions": ["notSeen17a", "seen16", "watertower"],
+        "id": "57f68063c7dde222100005c9",
+        "name": "Chapter 15 - 1/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>&ldquo;One down, one to go,&rdquo; says Harold.</p> <p>&nbsp;</p> <p>Andrew seems not to hear. He is staring at Harriet, eyes wide. He looks to be in a state of shock. Suddenly, he makes a sound that is half roar, half anguished howl, and charges forward. He raises his hands as if he&rsquo;s going to fasten them around Harold&rsquo;s neck, but before he has taken three steps, Harold fires at him again and again, not stopping until the chamber of his gun is empty and the gunpowder explosions have given way to hollow clicks.</p> <p>&nbsp;</p> <p>Andrew crumples over with a grunt, eyes glazed, blood spurting from both head and body. He is dead before he hits the floor.</p> <p>&nbsp;</p> <p>This time it&rsquo;s you who throw yourself at the murderer, crying out in horror. You&rsquo;ve forgotten that you have no physical presence here; all you can think of is making him pay.</p> <p>&nbsp;</p> <p>Not seeing or hearing you, he turns away and you fall straight through him, landing flat on your face.</p>",
+        "_id": "57f68063c7dde222100005c8",
+        "hint": {
+            "direction": "Go to the Water Tower in the Upper Gardens",
+            "locations": ["5131ac65ea4b48c91b869173"]
+        },
+        "functions": ["seen17b"],
+        "conditions": ["notSeen17b", "seen17a", "watertower"],
+        "id": "57f68063c7dde222100005c8",
+        "name": "Chapter 15 - 2/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You stand up to see Harold running to the fence that separates the Upper Gardens from the houses on Branksome Wood Road. &ldquo;Murderer!&rdquo; you shriek, stumbling after him.</p> <p>&nbsp;</p> <p>Still oblivious to you, he climbs over a gate into one of the gardens and sprints up the steps on the other side. You spin around on the spot, mind reeling. &ldquo;Somebody help me!&rdquo; You shudder as your gaze falls once more on the two bodies. If only there was something you could have done to save them.</p> <p>&nbsp;</p> <p>Harold reappears with a shovel running back down the steps.</p> <p>&nbsp;</p> <p><audio data-media-id='20'/></p> <p>&nbsp;</p> <p>He flings the shovel over the top of the gate, clambers after it, picks it up again. You&rsquo;ve already guessed what he&rsquo;s going to do, but it&rsquo;s still horrible to see. Dragging the bodies into the undergrowth, he buries them in a deep hole, shovel a blur of movement. Then he carefully replants the displaced vegetation and flattens the earth.</p> <p>When he is satisfied there is no sign of disturbance, he cleans his shovel in the stream, puts it back where it came from and hurries away.</p>",
+        "_id": "57f68063c7dde222100005c7",
+        "hint": {
+            "direction": "Head to the steps at the rear of the croft at 24 Branksome Wood Road near the Upper Gardens",
+            "locations": ["8dc0e8aaab83fd75a86e47a7"]
+        },
+        "functions": ["seen18a"],
+        "conditions": ["notSeen18a", "seen17b", "croft"],
+        "id": "57f68063c7dde222100005c7",
+        "name": "Chapter 16 - 1/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>The time slip dizziness returns, and you find yourself back in the present. You stand rooted to the spot. Have you really just seen two people being killed? You decide to call the police, but just as you about to dial the number, your phone starts to ring.</p> <p>&nbsp;</p> <p><audio data-media-id='21'/></p> <p>&nbsp;</p> <p>You check the display, but the number is withheld. Something tells you should answer it, though, so you do. &ldquo;Hello?&rdquo;</p> <p>&nbsp;</p> <p>You hear Andrew&rsquo;s voice on the end of the line, &ldquo;Is that the Bournemouth Natural Science Society?&rdquo;</p> <p>&nbsp;</p> <p>You open your mouth to answer, but before you can do so, a man with a Yorkshire accent says gruffly, &ldquo;Yes. Can I help you?&rdquo;&nbsp;&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>&ldquo;It&rsquo;s Andrew Vane here from the British Museum,&rdquo; Andrew replies. &ldquo;I was wondering if it would be convenient for me to come over this morning and carry on my work with your bakery model.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;Right you are,&rdquo; says the man.</p> <p>&nbsp;</p>  <p>The phone goes dead and you start making your way back through the park. Clearly, there&rsquo;s something else you need to see at the Bournemouth Natural Science Society. The police have waited this long; they can wait another hour or so. </p>",
+        "_id": "57f68063c7dde222100005c6",
+        "hint": {
+            "direction": "Head to the steps at the rear of the croft at 24 Branksome Wood Road near the Upper Gardens",
+            "locations": ["8dc0e8aaab83fd75a86e47a7"]
+        },
+        "functions": ["seen18b"],
+        "conditions": ["notSeen18b", "seen18a", "croft"],
+        "id": "57f68063c7dde222100005c6",
+        "name": "Chapter 16 - 2/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>As you pass the Pavilion Theatre, you happen to notice a minibus marked &lsquo;Littledown Residential Home&rsquo; in the car-park. Isn&rsquo;t that the care home where Harold lives? Yes, there&rsquo;s the blonde care worker. She&rsquo;s with an old woman in an oversized purple duffle coat, helping her onto the bus. A moment later, Harold comes into view, hobbling up to the bus with his sticks, arms trembling with the strain. The care worker settles the woman in the duffle coat into a seat, and turns to help him.</p> <p>&nbsp;</p> <p>You clench your fists. The old man looks so different now, but he&rsquo;s still the same person inside &ndash; a vicious killer who should be locked up. Your fists tighten; tighten more. It&rsquo;s wrong that he&rsquo;s still alive, while Andrew and Harriet are rotting in the ground, wrong that he&rsquo;s never been brought to justice. Before you realise what you&rsquo;re doing, you&rsquo;re striding across the car-park to confront him.</p>",
+        "_id": "57f68063c7dde222100005c5",
+        "hint": {
+            "direction": "Go to the Pavillion Theater Car Park",
+            "locations": ["289a6294230109f59583eea6"]
+        },
+        "functions": ["seen19a"],
+        "conditions": ["notSeen19a", "seen18b", "carpark"],
+        "id": "57f68063c7dde222100005c5",
+        "name": "Chapter 17 - 1/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>As you approach the fountain, however, Magdalene materialises in front of you, blocking your path. She raises her hand imperiously, her black taffeta dress and veil billowing in the wind. &ldquo;Stop!&rdquo;</p> <p>&nbsp;</p> <p>You ought to be afraid of her, but you&rsquo;re too angry. &ldquo;Get out of my way.&rdquo;</p> <p>&nbsp;</p> <p>You try to move around her, but she steps back in front of you. &ldquo;What do you think you&rsquo;re doing?&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;I&rsquo;m going to give your son a piece of my mind,&rdquo; you tell her. &ldquo;Then I&rsquo;m going to make sure he pays for what he did.&rdquo;</p> <p>&nbsp;</p> <p>Magdalene points at Harold as the care worker helps him climb onto the bus. It&rsquo;s a visible struggle, his legs barely able to support him. &ldquo;Look at him,&rdquo; she says. &ldquo;He&rsquo;s an old man. If you send him to prison, he&rsquo;ll be dead in a week. Do you really want that on your conscience?&rdquo;</p> <p>&nbsp;</p>  <p>You lower your eyes, considering this. When you raise them again, Magdalene is gone, and so is the bus, turning out of the car-park and disappearing into the distance.</p>",
+        "_id": "57f68063c7dde222100005c4",
+        "hint": {
+            "direction": "Go to the Pavillion Theater Car Park",
+            "locations": ["289a6294230109f59583eea6"]
+        },
+        "functions": ["seen19b"],
+        "conditions": ["notSeen19b", "seen19a", "carpark"],
+        "id": "57f68063c7dde222100005c4",
+        "name": "Chapter 17 - 2/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You hurry onwards along the road, still thinking about Magdalene&rsquo;s words. You hate to admit it, but she&rsquo;s right - if you turn Harold in and he&rsquo;s convicted, you&rsquo;ll be killing him as he surely as he killed Andrew and Harriet. Yet how can you let him get away with it.</p> <p>&nbsp;</p> <p>You stop abruptly as the scene in front of you slips out of focus and then back in again. You&rsquo;re back in the past, old fashioned cars and carts replacing the modern traffic, familiar shops and blocks of flats gone from the skyline.</p> <p>&nbsp;</p> <p><img data-media-id='14'/></p> <p>&nbsp;</p> <p>Andrew and Harriet emerge from the Royal Bath Hotel and set off down the hill in the direction of the beach. They look happy, talking and laughing. It is a sunny day and Harriet is sheltering beneath a parasol. Andrew starts to link arms with her, only to stop himself, looking resentfully at the people around him.</p> <p>&nbsp;</p>  <p>You go towards them, trying to hear what they are saying, but the vision is already fading. A moment later you are back in the present. You turn back around and continue up the hill.</p>",
+        "_id": "57f68063c7dde222100005c3",
+        "hint": {
+            "direction": "Go to the Royal Bath Hotel on Bath Road",
+            "locations": ["ee382cb46bafabae4eb37199"]
+        },
+        "functions": ["seen20"],
+        "conditions": ["notSeen20", "seen19b", "bath"],
+        "id": "57f68063c7dde222100005c3",
+        "name": "Chapter 18",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>As you enter the Bournemouth Natural Science Society&rsquo;s villa on Christchurch Road, you feel yourself slipping back through time. You move onwards through the inner door and see Andrew talking to a short, rotund man by the staircase. The man has granite coloured hair which pokes out in all directions and is dressed in a suit and threadbare dressing gown. He is holding an ammonite fossil in one hand and a lit cigar in the other, which he raises to his mouth periodically.</p> <p>&nbsp;</p> <p>You move towards them and hear the man in the dressing gown asking Andrew how he&rsquo;s getting on with his studies. You recognise his accent at once &ndash; it&rsquo;s the same man Andrew was talking to on the phone.</p> <p>&nbsp;</p> <p>&ldquo;Very well,&rdquo; Andrew replies, stifling a cough. Obviously, the cigar smoke doesn&rsquo;t agree with him. &ldquo;I&rsquo;m still amazed how well-preserved your model is. It&rsquo;s hard to believe it&rsquo;s thousands of years old.&rdquo;</p> <p>&nbsp;</p>  <p>They turn away from you, walking up the stairs.</p>",
+        "_id": "57f68063c7dde222100005c2",
+        "hint": {
+            "direction": "Please go to the Bournemouth Natural Science Society at 39 Christchurch Road",
+            "locations": ["c2954b3292baadd2aae4a35b"]
+        },
+        "functions": ["seen21"],
+        "conditions": ["notSeen21", "seen20", "bnss"],
+        "id": "57f68063c7dde222100005c2",
+        "name": "Chapter 19",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>You follow them to the Grenfell Room, where the Egyptian collection is stored. Andrew sits down at a table in the corner, while the man with the cigar removes the bakery model from its case. He places it in front of Andrew, who leans forward to examine it.</p> <p>&nbsp;</p> <p>The man watches him for a moment, puffing on his cigar. &ldquo;I was thinking, if you want to find out a bit more about this little piece, you should talk to Captain Miller. He was at Aswan with Field Marshall the Lord Grenfell when it was excavated. I can get you his telephone number if you&rsquo;d like.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;That would be very helpful,&rdquo; says Andrew, holding back another cough. He reaches into his pocket, taking out some cotton gloves, his notebook and a tattered photograph of a second Egyptian model.</p> <p>&nbsp;</p> <p><img data-media-id='9'/></p> <p>&nbsp;</p> <p>The man with the cigar leans over Andrew&rsquo;s shoulder as he places the photograph on the table. &ldquo;What&rsquo;s that?&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;It&rsquo;s a picture of one of our British Museum models,&rdquo; Andrew replies, wafting at the cigar smoke with his hand. &ldquo;I want to compare the two.&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;Sensible enough; I&rsquo;ll go and find that telephone number,&rdquo; says the man, leaving the room.</p>",
+        "_id": "57f68063c7dde222100005c1",
+        "hint": {
+            "direction": "Please go to the Bournemouth Natural Science Society at 39 Christchurch Road",
+            "locations": ["c2954b3292baadd2aae4a35b"]
+        },
+        "functions": ["seen22a"],
+        "conditions": ["notSeen22a", "seen21", "bnss"],
+        "id": "57f68063c7dde222100005c1",
+        "name": "Chapter 20 - 1/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Andrew leans forward, becoming so engrossed in his work that he doesn&rsquo;t notice Harriet come through the door. Only when she has placed herself directly behind him and given a delicate cough does he look up and see her. His lips curl upwards in a wide smile. &ldquo;Harriet, what are you doing here?&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;I wanted to see what you do all day,&rdquo; she says. She glances behind her to check there is nobody else in the room and then leans forward, kissing him on the cheek. &ldquo;Not to mention spend some more time with you.&rdquo; She bends over the table, looking at the model. &ldquo;So this is the famous model.&rdquo;</p> <p>&nbsp;</p> <p>Andrew nods. &ldquo;Isn&rsquo;t it a wonderful specimen? Those delicate arms and legs often get broken, but on this one, they&rsquo;re fully intact. It&rsquo;s like a window to the past. I could spend hours looking at it.&rdquo;</p> <p>&nbsp;</p> <p>Harriet smiles. &ldquo;What about the future? Do you ever think about that?&rdquo;</p> ",
+        "_id": "57f68063c7dde222100005c0",
+        "hint": {
+            "direction": "Please go to the Bournemouth Natural Science Society at 39 Christchurch Road",
+            "locations": ["c2954b3292baadd2aae4a35b"]
+        },
+        "functions": ["seen22b"],
+        "conditions": ["notSeen22b", "seen22a", "bnss"],
+        "id": "57f68063c7dde222100005c0",
+        "name": "Chapter 20 - 2/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Andrew looks up at her. &ldquo;Our future, you mean?&rdquo;</p> <p>&nbsp;</p> <p>Harriet nods.</p> <p>&nbsp;</p> <p>&ldquo;I think about that all the time,&rdquo; he says. &ldquo;I&rsquo;m hoping my next assignment will be abroad somewhere &ndash; Egypt or Greece perhaps &ndash; and I would like it very much if you&rsquo;d come with me.&rdquo;</p> <p>&nbsp;</p> <p>Harriet drapes her arm across his shoulders, snuggling up to him. &ldquo;Do you really mean that?&rdquo;</p> <p>&nbsp;</p> <p>&ldquo;Absolutely,&rdquo; Andrew says without hesitation.</p> <p>&nbsp;</p> <p>Harriet walks to the window, staring out. &ldquo;How unfair life is. Why couldn&rsquo;t I have met you before I got married?&rdquo;&nbsp;</p> <p>&nbsp;</p> <p>Andrew goes over to her, hesitates and then rests his hand on her shoulder. &ldquo;It would have been easier, I&rsquo;ll admit, but from what you&rsquo;ve told me, you should have no difficulty getting a divorce. This is the twentieth Century after all.&rdquo;</p> <p>&nbsp;</p> <p>Harriet sighs. &ldquo;I suppose your right. Harry will do everything he can to stop me, though. He&rsquo;s very possessive.&rdquo;</p> <p>&nbsp;</p> <p>Andrew pulls her around to face him. &ldquo;Listen to me, Harriet. Sooner or later, you and I are going to live together and have a wonderful life. I promise you.&rdquo;</p> <p>&nbsp;</p>  <p>Their eyes meet, and a moment later their lips follow. </p>",
+        "_id": "57f68063c7dde222100005bf",
+        "hint": {
+            "direction": "Please go to the Bournemouth Natural Science Society at 39 Christchurch Road",
+            "locations": ["c2954b3292baadd2aae4a35b"]
+        },
+        "functions": ["seen22c"],
+        "conditions": ["notSeen22c", "seen22b", "bnss"],
+        "id": "57f68063c7dde222100005bf",
+        "name": "Chapter 20 - 3/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Quietly, you leave the room and sit down at the top of the stairs. Any minute now, you&rsquo;ll be propelled back to your own time and have to make a decision. Do you let Harold get away with stealing the future of the two lovers or do you try and get him arrested? You raise your phone, forefinger poised over the keypad&hellip;</p>",
+        "_id": "57f68063c7dde222100005be",
+        "hint": {
+            "direction": "Please go to the Bournemouth Natural Science Society at 39 Christchurch Road",
+            "locations": ["c2954b3292baadd2aae4a35b"]
+        },
+        "functions": ["seen22d"],
+        "conditions": ["notSeen22d", "seen22c", "bnss"],
+        "id": "57f68063c7dde222100005be",
+        "name": "Chapter 20 - 4/4",
+        "pageTransition": "next"
+    }, {
+        "content": "<h3>Thank you for reading one of our stories ...</h3>\r\n<p>We hope you enjoyed this StoryPlaces story. We would greatly appreciate your opinions on this new approach to story telling. if you have time, filling out the short survey linked below will help us to understand how to improve our application and design new location-aware story experiences. If you would like to do another of our stories please click the StoryPlaces logo in the top left corner and select another story.</p>\r\n<p><strong><a href=\"https://www.isurvey.soton.ac.uk/20629\">Click Here to take our reader experience survey</a></strong></p>\r\n<p><br />The Bournemouth Natural Science Society is not far from the locations featured in this story!</p>\r\n<p>For more information on local natural science events and to visit the collection your self please go to <p><strong><a href=\"http://www.bnss.org.uk\">http://www.bnss.org.uk/</a></strong></p></p>",
+        "_id": "57f68063c7dde222100005bd",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": [],
+        "conditions": ["seen22d"],
+        "id": "57f68063c7dde222100005bd",
+        "name": "Finish Story",
+        "pageTransition": "end"
+    }],
+    "pagesMapViewSettings": {
+        "map": true,
+        "pageArrows": true,
+        "pageDistance": true
+    },
+    "locations": [{
+        "id": "7e47823a18eb9c77e14ca44f",
+        "type": "circle",
+        "lat": 50.716505,
+        "lon": -1.8729021,
+        "radius": 30
+    }, {
+        "id": "dcc294404624b758d2273f80",
+        "type": "circle",
+        "lat": 50.716355,
+        "lon": -1.8736866,
+        "radius": 30
+    }, {
+        "id": "636bf6da1a3635926b32ee4d",
+        "type": "circle",
+        "lat": 50.716651,
+        "lon": -1.8722141,
+        "radius": 30
+    }, {
+        "id": "79edd9c3a1cc99b309a3ede9",
+        "type": "circle",
+        "lat": 50.721212,
+        "lon": -1.8784583,
+        "radius": 30
+    }, {
+        "id": "ba37a1808c7e51263ec2cb0c",
+        "type": "circle",
+        "lat": 50.720754,
+        "lon": -1.8768543,
+        "radius": 30
+    }, {
+        "id": "a4224bb87792d52c5f55dba6",
+        "type": "circle",
+        "lat": 50.717028,
+        "lon": -1.8754113,
+        "radius": 60
+    }, {
+        "id": "572a555e4191c1be3ba0cd2e",
+        "type": "circle",
+        "lat": 50.721535,
+        "lon": -1.8769938,
+        "radius": 40
+    }, {
+        "id": "4769a5e10c7856be96aa391b",
+        "type": "circle",
+        "lat": 50.721742,
+        "lon": -1.8816823,
+        "radius": 30
+    }, {
+        "id": "727865677a2e5d31da0650e3",
+        "type": "circle",
+        "lat": 50.723301,
+        "lon": -1.886462,
+        "radius": 50
+    }, {
+        "id": "5131ac65ea4b48c91b869173",
+        "type": "circle",
+        "lat": 50.725454,
+        "lon": -1.8969655,
+        "radius": 30
+    }, {
+        "id": "8dc0e8aaab83fd75a86e47a7",
+        "type": "circle",
+        "lat": 50.725922,
+        "lon": -1.8959463,
+        "radius": 30
+    }, {
+        "id": "289a6294230109f59583eea6",
+        "type": "circle",
+        "lat": 50.718319,
+        "lon": -1.8745583,
+        "radius": 30
+    }, {
+        "id": "ee382cb46bafabae4eb37199",
+        "type": "circle",
+        "lat": 50.717928,
+        "lon": -1.8726218,
+        "radius": 50
+    }, {
+        "id": "c2954b3292baadd2aae4a35b",
+        "type": "circle",
+        "lat": 50.722555,
+        "lon": -1.8563381,
+        "radius": 50
+    }],
+    "audience": "advisory",
+    "schemaVersion": "https://storyplaces.soton.ac.uk/schema/02"
+}

@@ -1,0 +1,429 @@
+{
+    "__v": 0,
+    "_id": "576a82ce7d7a141c6e000063",
+    "author": "Eloise Phillips",
+    "description": "<p>Forget your Occulus Rift headset. All you need is a smartphone and an open mind to share in Southampton's virtual reality. Start at the beginning of the end, and let yourself be taken from the Western Esplanade retail development, back through Simnel Street's sordid past, all the way to the humble origins of a 12th-century marble font. What would happen if a silent object could speak? Now you can find out. Take a stroll past Bargate in two different time periods, witness an underground evolution, and pay your respects to a Norse twin-tailed mermaid at the centre of the edge. In 'Notes on an Illegible City' the past, present and future of Southampton is woven together in an eclectic tapestry. You get to decide how threadbare it has become. </p><p>Story &copy; 2016 Eloise Phillips, All Rights Reserved.<br/><br/>Editors Charlie Hargood and Verity Hunt<br/><br/>Images of Power Station, Bargate, Undercroft, High Street, and High Street Cellar courtesy of Southampton City Council Arts and Heritage. Image of Watergate Center design credit Hammersons PLC<br/><br/>Voice Actors: Mike Rogers, Adam Taussik, and Bridget Wilkinson<br/><br/>Sound Editing by Stephan Caspar</p>",
+    "name": "Notes on an Illegible City",
+    "tags": ["Southampton"],
+    "publishState": "published",
+    "cachedMediaIds": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+    "functions": [{
+        "conditions": [],
+        "type": "increment",
+        "variable": "seen",
+        "value": "1",
+        "id": "seencount"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenWestern",
+        "value": "true",
+        "id": "seenWestern"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenMichael",
+        "value": "true",
+        "id": "seenMichael"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenSimnel1",
+        "value": "true",
+        "id": "seenSimnel1"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenSimnel2",
+        "value": "true",
+        "id": "seenSimnel2"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenSimnel3",
+        "value": "true",
+        "id": "seenSimnel3"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenBargate",
+        "value": "true",
+        "id": "seenBargate"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenUndercroft",
+        "value": "true",
+        "id": "seenUndercroft"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenHighStreet",
+        "value": "true",
+        "id": "seenHighStreet"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenPier1",
+        "value": "true",
+        "id": "seenPier1"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenPier2",
+        "value": "true",
+        "id": "seenPier2"
+    }],
+    "conditions": [{
+        "bool": "true",
+        "type": "location",
+        "location": "718b1b9d32c27851a6092ad9",
+        "id": "western"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "b42565d676c6d63b32af045b",
+        "id": "michael"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "edd7bb1dc5b212c6da58876a",
+        "id": "simnel"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "d6eca4bad56c4283a95202c6",
+        "id": "holyrood"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "aabdc78b3d9d12ceb863642b",
+        "id": "the_undercroft"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "2a5ca8a9955a326554c3ddc8",
+        "id": "highstreet"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "c5c53c9cb436a7a0cc58f39e",
+        "id": "pier"
+    }, {
+        "bType": "String",
+        "b": "9",
+        "aType": "Variable",
+        "a": "seen",
+        "operand": "==",
+        "type": "comparison",
+        "id": "end"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenWestern",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenWestern"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenWestern",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenWestern"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenMichael",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenMichael"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenSimnel1",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenSimnel1"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenSimnel1",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenSimnel1"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenSimnel2",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenSimnel2"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenSimnel2",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenSimnel2"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenSimnel3",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenSimnel3"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenBargate",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenBargate"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenUndercroft",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenUndercroft"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenHighStreet",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenHighStreet"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenPier1",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenPier1"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenPier1",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenPier1"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenPier2",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenPier2"
+    }],
+    "id": "576a82ce7d7a141c6e000063",
+    "pages": [{
+        "content": "<img data-media-id='1'/><br/><br/>From out of the barren landscape arose what would bring Southampton from darkness into the light of the new age. In 1888 The Southampton Electric Light and Power Company was erected where the retail extravaganza now stands. However the very power source for the city was also a source of agony with dismal powdery air shrouding the promise that development brings. Instead it became 'notorious for irritating the eyes of Sotonians' . Southampton's own Valley of Ashes. Still, the wars brought with it an increased demand for this eyesore which quadrupled in size within these years. Whilst the Sotonian's relationship with the 'dark brooding blot'  ebbed and flowed, the 1970s saw its reduction to scrap metal. A meagre vestige of the once structurally immanent piece of Southampton. With failed hopes for the construction of Southampton Football Club the Esplanade is now a retail complex awaiting further construction.",
+        "_id": "576a82cf7d7a141c6e00006f",
+        "hint": {
+            "direction": "Western Esplanade",
+            "locations": ["718b1b9d32c27851a6092ad9"]
+        },
+        "functions": ["seenWestern"],
+        "conditions": ["notSeenWestern", "western"],
+        "id": "576a82cf7d7a141c6e00006f",
+        "name": "Western Esplanade - Past",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='2'/><br/><br/>Southampton's own Bellagio-esque fountains scattered over a plaza overlooked by a four-tiered al-fresco dining and shopping experience. A smorgasbord of entertainment options housed in a £70 million development space. Warm, vivid colours: an invitation into this powerhouse of consumer activity. Imagine any international city, London, New York, Hong Kong and it could belong there. It probably already does. Is this the future Southampton deserves? ",
+        "_id": "576a82cf7d7a141c6e00006e",
+        "hint": {
+            "direction": "Western Esplanade",
+            "locations": ["718b1b9d32c27851a6092ad9"]
+        },
+        "functions": ["seenWestern"],
+        "conditions": ["notSeenWestern", "western"],
+        "id": "576a82cf7d7a141c6e00006e",
+        "name": "Western Esplanade - Future",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Enter the church and approach the font on your right</p><img data-media-id='3'/><br/><br/><audio data-media-id='11'></audio><br/><br/>Thou still grimacing monsters of sea,<br/><br/>Thou foster-child of silence and slow time,<br/><br/>Black Tournai block canst thus express,<br/><br/>A tragic tale more wholly than our rhyme:<br/><br/>What nautical legend haunts about thy shape<br/><br/>Of sharp-toothed sea creatures,<br/><br/>Up the River Itchen or Test,<br/><br/>What mothers have gazed upon you?<br/><br/>What new life blessed?<br/><br/>What war-time struggles? What anarchy unleashed?<br/><br/>How many births? And how many deaths?<br/><br/>Heard narratives are sweet, but those unheard<br/><br/>Are sweeter: therefore, ye wise font,<br/><br/>Tell us; not to the academic's ear, but, more endeared,<br/><br/>Speak to those who have and will have revered,<br/><br/>Sweet bonnie baby, thou canst not change<br/><br/>Thy blessing, nor ever can those monsters frown;<br/><br/>Kind vicar, never canst thou divest the power in thee,<br/><br/>Though you do not, they live on through the ages<br/><br/>The creatures will not swim though you have swum from us,<br/><br/>Forever, wilt thou have blessed, and they be saved<br/><br/>Who are these coming to be baptised?<br/><br/>The fishmonger's daughter, O St Michael of Normandy,<br/><br/>Lend yourself to the monks of St Denys<br/><br/>And then back to the Crown,<br/><br/>What quaint town square was this?<br/><br/>What pews were emptied in what French raids?<br/><br/>This little font, thy memory evermore <br/><br/>Will silent be; and not a soul to tell<br/><br/>Why thou rejoices and why thou bemoans.<br/><br/>Ah happy happy sea monsters who<br/><br/>cannot lose their teeth, that do not answer to the tide;<br/><br/>Thou art unwearied unlike the congregation, unchanged unlike the Church,<br/><br/>Happier than its shattered stained-glass windows <br/><br/>Reflecting shattered souls,<br/><br/>When old age shall this generation waste,<br/><br/>Thou shalt remain in midst of other woe<br/><br/>Than ours, a silence which,<br/><br/>We will never know.",
+        "_id": "576a82cf7d7a141c6e00006d",
+        "hint": {
+            "direction": "St Michael's Church",
+            "locations": ["b42565d676c6d63b32af045b"]
+        },
+        "functions": ["seenMichael", "seencount"],
+        "conditions": ["seenWestern", "notSeenMichael", "michael"],
+        "id": "576a82cf7d7a141c6e00006d",
+        "name": "St Michael's Church",
+        "pageTransition": "next"
+    }, {
+        "content": "Taking a casual stroll down Southampton's secret, Simnel Street, it's difficult to imagine the  poverty and unsavoury behaviour which plagued this street in the previous century. With romantic origins of fine flour from which the Simnel Cake is made and which was milled nearby during Medieval times, Simnel Street descended into a pit more reminiscent of a Ripper street slum, dark, dank and rife with disease, drunken violence and crime. In brief it was a place to be avoided. Would you be comfortable to return here after dark?",
+        "_id": "576a82cf7d7a141c6e00006c",
+        "hint": {
+            "direction": "Simnel Street",
+            "locations": ["edd7bb1dc5b212c6da58876a"]
+        },
+        "functions": ["seenSimnel1", "seencount"],
+        "conditions": ["seenWestern", "notSeenSimnel1", "simnel"],
+        "id": "576a82cf7d7a141c6e00006c",
+        "name": "Simnel Street 1/3",
+        "pageTransition": "next"
+    }, {
+        "content": "<audio data-media-id='12'></audio><br/><br/><img data-media-id='4'/><br/><br/>I discovered Ellen Wren's body. Her flesh was putrid. Her face cold, gaunt and the purest white that I had witnessed in this ashen cesspit, but it did not reflect anything pure. She was a perfect picture of death. The street was a perfect picture of death. She was taken in as a washerwoman when she came desperately looking for work. Unfortunately, it wasn't her only occupation. She was a lady of both the day and the night… We all knew she had a penchant for gin but concessions were made when the bottle would occasionally go missing from her madam's pantry. Little did we know that she would go this far. I only wanted the rent that I was owed, that was what I was looking for the day that I discovered Ellen Wren's body. God knows how long it had been festering… Talk is rife amongst the upper classes of this incident. If there can be anything good to come out of this obscenity it will be the council razing this pit of hell to the ground.",
+        "_id": "576a82cf7d7a141c6e00006b",
+        "hint": {
+            "direction": "Simnel Street",
+            "locations": ["edd7bb1dc5b212c6da58876a"]
+        },
+        "functions": ["seenSimnel2", "seencount"],
+        "conditions": ["seenWestern", "notSeenSimnel2", "seenSimnel1", "simnel"],
+        "id": "576a82cf7d7a141c6e00006b",
+        "name": "Simnel Street 2/3",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='5'/><br/><br/><b>A commodified illusion?</b><br/><br/>The modern day idyll of Simnel Street with an attempt to advertise an equally idyllic history to tourists. ",
+        "_id": "576a82cf7d7a141c6e00006a",
+        "hint": {
+            "direction": "Simnel Street",
+            "locations": ["edd7bb1dc5b212c6da58876a"]
+        },
+        "functions": ["seenSimnel3", "seencount"],
+        "conditions": ["seenWestern", "notSeenSimnel3", "seenSimnel2", "simnel"],
+        "id": "576a82cf7d7a141c6e00006a",
+        "name": "Simnel Street 3/3",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='6'/><br/><br/>City Red 11 hovers behind a learner<br/><br/>The ebb and flow of sighing engines<br/><br/>A gaggle of white taxis<br/><br/>Laughter on his phone - what joke has been told?<br/><br/>An old man is hat, scarf and glove-clad <br/><br/>Bluestar 4 Romsey <br/><br/>Faint sirens<br/><br/>The bell tolls <br/><br/>Leaves dance the path of tourists<br/><br/>Seagulls circle, one cries out<br/><br/>Silence frying in a vat of commotion.<br/><br/>Two penny piece wheels clatter over cobbles<br/><br/>Gas lamp flickers<br/><br/>Flags flutter<br/><br/>Ladies skirts shimmy <br/><br/>Fresh baguettes - is it Paris?<br/><br/>The bell tolls<br/><br/>Carriages wobble<br/><br/>A cacophony of bartering<br/><br/>The fruit-sellers daughter summons - whose attention does she desire?<br/><br/>Seagulls circle, one cries out<br/><br/>Commotion basking in the midday throng.",
+        "_id": "576a82cf7d7a141c6e000069",
+        "hint": {
+            "direction": "Holyrood Church",
+            "locations": ["d6eca4bad56c4283a95202c6"]
+        },
+        "functions": ["seenBargate", "seencount"],
+        "conditions": ["seenWestern", "notSeenBargate", "holyrood"],
+        "id": "576a82cf7d7a141c6e000069",
+        "name": "The Bargate and Holyrood Church",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='7'/><br/><br/><p>Originally a wine cellar and dated from 1300-1325 with central stone carved heads of the then family of princes and princesses, the Undercroft vault has now been renovated into a showroom. </p><p>During WWII, the Donnarumma Trio were popular entertainment when the vaults were used as air-raid shelters. The group, who usually played in a local night club, used to take their instruments with them when there was a raid and would play to hide the sounds of the horrors outside. In recent years, the vaults have maintained their use as a music venue - although their stone walls now echo to quite different tunes! Parallaxis, a Post-hardcore and Electronic band, recently played the afternoon-long festival, 'Music in the City.'</p><p>From its days of wine storage to a secret pocket of morale during the horrors of war, and now to its museumification devoid of history as an advertisement for private hire.</p>",
+        "_id": "576a82cf7d7a141c6e000068",
+        "hint": {
+            "direction": "The Undercroft near Simnel Street",
+            "locations": ["aabdc78b3d9d12ceb863642b"]
+        },
+        "functions": ["seenUndercroft", "seencount"],
+        "conditions": ["seenWestern", "notSeenUndercroft", "the_undercroft"],
+        "id": "576a82cf7d7a141c6e000068",
+        "name": "The Undercroft",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Walking tours that take in Southampton's stone vaults may be booked via Discover Southampton <a href='http://www.discoversouthampton.co.uk/visit/things-to-do/walks-and-tours'>here</a><br/></p><img data-media-id='8'/><br/><br/><b>Who amongst you remembers my tragic tale?</b><br/><br/><audio data-media-id='13'></audio><br/><br/>I used to peruse the shelves of May's sweet shop as a child. The peppermint creams, sour sugar of the flying saucers and chewy toffees would tantalise my tastebuds. I loved the idea of descending into its cellar to take cover from the persistent air-raids. It was as if I was returning to my childhood and that was the safest haven of all from the atrocities that accompany war. Yet the cellar did not store all of the varieties of chewy, soft, hard, oozing and fluffy delights that I had imagined and that had coloured my childhood. The cellar became a place that bled with our nightmares… The air-raids had become routine by this point. But never did the bombs sound that loud or feel so real that night. With no exits we were blind worms wriggling pathetically beneath ground; we were already playing a role in death's performance. A water main burst in the war-torn purgatory above us, whilst we were already in hell. The cellar slowly filled with water, and there was nothing we could do but let the water fill our lungs as the awareness of our mortality filled our hearts. What a microcosmic Titanic mockery. But of all the dead in these twinned tragedies who remembers us?<br/><br/>",
+        "_id": "576a82cf7d7a141c6e000067",
+        "hint": {
+            "direction": "94 The High Street",
+            "locations": ["2a5ca8a9955a326554c3ddc8"]
+        },
+        "functions": ["seenHighStreet", "seencount"],
+        "conditions": ["seenWestern", "notSeenHighStreet", "highstreet"],
+        "id": "576a82cf7d7a141c6e000067",
+        "name": "94 High Street",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='9'/><br/><br/>What better way to celebrate Southampton's seafaring history than with the watchful eyes of Starbucks' siren along the once Royal Pier. This Norse twin-tailed mermaid, a symbol of globalisation as cargo ships abundant with granules of coffee from Panama arrive daily. A modern day T.J. Eckleburg. A watchful vigil with her self-approving smile. Starbucks sees more life than St Michael's church, Holyrood and Simnel Street. The coffee congregation gather like clockwork to pay homage to the siren herself. She epitomises the nowhere-ness and everywhere-ness of this port town. A simulacra of the once celebrated global industry that perseveres here. Is Starbucks the main attraction of the Royal Pier once teeming with tourists and the first step on English terrain for celebrities passing through? Now its raison-d'etre is as elusive as its underground gold trade from Johannesburg before it surfaces for some other place at some other time. Everything that passes through is muffled by the earth which buries it. A subterranean history. Raised like Morlocks, pallid and reclusive. Born in the vaults it continues to mature, never to pass the connoisseurs lips, unspoken, unknown. Southampton is at the margin of our consciousness, yet with 29,000 ft. of quay space, 7 million packages of fruit from South Africa handled, and 46% of all UK's ocean-going passenger traffic, it was, in the 1900s, at the hub of our livelihoods: does it still deserve its title of the Gateway to the World? What is a future which refuses to recognise its past?",
+        "_id": "576a82cf7d7a141c6e000066",
+        "hint": {
+            "direction": "Next to the ferry terminal",
+            "locations": ["c5c53c9cb436a7a0cc58f39e"]
+        },
+        "functions": ["seenPier1", "seencount"],
+        "conditions": ["seenWestern", "notSeenPier1", "pier"],
+        "id": "576a82cf7d7a141c6e000066",
+        "name": "Royal Pier and Water Front 1/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='10'/><br/><br/><b>Haunted Seas</b><br/><br/>A gleaming glassy ocean,<br/><br/>Under a sky of grey;<br/><br/>A tide that dreams of motion,<br/><br/>Or moves as the dead may;<br/><br/>A bird that dips and wavers<br/><br/>Over lone waters round,<br/><br/>Then with a cry that quavers<br/><br/>Is gone - a spectral sound.<br/><br/>-Cale Young Rice",
+        "_id": "576a82ce7d7a141c6e000065",
+        "hint": {
+            "direction": "Next to the ferry terminal",
+            "locations": ["c5c53c9cb436a7a0cc58f39e"]
+        },
+        "functions": ["seenPier2", "seencount"],
+        "conditions": ["seenWestern", "notSeenPier2", "seenPier1"],
+        "id": "576a82ce7d7a141c6e000065",
+        "name": "Royal Pier and Water Front 2/2",
+        "pageTransition": "next"
+    }, {
+        "content": "<h3>Thank you for reading one of our stories ...</h3><p>We hope you enjoyed this StoryPlaces story. We would greatly appreciate your opinions on this new approach to story telling. if you have time, filling out the short survey linked below will help us to understand how to improve our application and design new location-aware story experiences. If you would like to do another of our stories please click the StoryPlaces logo in the top left corner and select another story.</p><p><b><a href='https://www.isurvey.soton.ac.uk/20629'>Click Here to take our reader experience survey</a></b></p>",
+        "_id": "576a82ce7d7a141c6e000064",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": [],
+        "conditions": ["end"],
+        "id": "576a82ce7d7a141c6e000064",
+        "name": "Finish",
+        "pageTransition": "end"
+    }],
+    "pagesMapViewSettings": {
+        "map": true,
+        "pageArrows": true,
+        "pageDistance": true
+    },
+    "locations": [{
+        "id": "718b1b9d32c27851a6092ad9",
+        "type": "circle",
+        "radius": 70,
+        "lon": -1.406561,
+        "lat": 50.901023
+    }, {
+        "id": "b42565d676c6d63b32af045b",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.405456,
+        "lat": 50.899606
+    }, {
+        "id": "edd7bb1dc5b212c6da58876a",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.405322,
+        "lat": 50.900076
+    }, {
+        "id": "d6eca4bad56c4283a95202c6",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.403756,
+        "lat": 50.899704
+    }, {
+        "id": "aabdc78b3d9d12ceb863642b",
+        "type": "circle",
+        "radius": 20,
+        "lon": -1.405799,
+        "lat": 50.900069
+    }, {
+        "id": "2a5ca8a9955a326554c3ddc8",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.403841,
+        "lat": 50.899078
+    }, {
+        "id": "c5c53c9cb436a7a0cc58f39e",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.404705,
+        "lat": 50.896327
+    }],
+    "audience": "general",
+    "schemaVersion": "https://storyplaces.soton.ac.uk/schema/02"
+}

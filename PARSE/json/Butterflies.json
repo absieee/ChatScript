@@ -1,0 +1,451 @@
+{
+    "__v": 0,
+    "_id": "57eaa60389ed4ed46600018b",
+    "author": "A. Cochrane",
+    "description": "<p>How do you bring a seven year old girl back to life?</p>\r\n<p>Astrid, kidnapped as a baby, is presumed dead. When she is finally found, seven years later, her uncle decides the only way to reclaim her is to show her the beauty of the natural world. But how strong is the girl's attachment to her captor?</p><br/>Editors Charlie Hargood and Verity Hunt<br/>",
+    "name": "Butterflies",
+    "publishState": "published",
+    "tags": ["Bournemouth"],
+    "cachedMediaIds": [],
+    "functions": [{
+        "type": "set",
+        "conditions": [],
+        "variable": "seen1",
+        "value": "true",
+        "id": "seen1"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen2",
+        "value": "true",
+        "id": "seen2"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen3",
+        "value": "true",
+        "id": "seen3"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen4",
+        "value": "true",
+        "id": "seen4"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen5",
+        "value": "true",
+        "id": "seen5"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen6",
+        "value": "true",
+        "id": "seen6"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen7",
+        "value": "true",
+        "id": "seen7"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen8",
+        "value": "true",
+        "id": "seen8"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen9",
+        "value": "true",
+        "id": "seen9"
+    }, {
+        "type": "set",
+        "conditions": [],
+        "variable": "seen10",
+        "value": "true",
+        "id": "seen10"
+    }],
+    "conditions": [{
+        "bool": "true",
+        "type": "location",
+        "location": "1ee2c1107961fa511c4d92d6",
+        "id": "lg1"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "b0c50e49f1d7412dbcaa1e91",
+        "id": "lg2"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "2179ca623c1d211378a9c758",
+        "id": "lg3"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "16522a3b53b94e9786f23c8e",
+        "id": "square"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "50745e4bab4d6c8e2e7bf141",
+        "id": "cg"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "56a8a214b868e47b9b42e59f",
+        "id": "cenotaph"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "962373b4eafa9eb9e02e989f",
+        "id": "overpass"
+    }, {
+        "operand": "!=",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen1",
+        "type": "comparison",
+        "id": "notSeen1"
+    }, {
+        "operand": "!=",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen2",
+        "type": "comparison",
+        "id": "notSeen2"
+    }, {
+        "operand": "!=",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen3",
+        "type": "comparison",
+        "id": "notSeen3"
+    }, {
+        "operand": "!=",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen4",
+        "type": "comparison",
+        "id": "notSeen4"
+    }, {
+        "operand": "!=",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen5",
+        "type": "comparison",
+        "id": "notSeen5"
+    }, {
+        "operand": "==",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen1",
+        "type": "comparison",
+        "id": "seen1"
+    }, {
+        "operand": "==",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen2",
+        "type": "comparison",
+        "id": "seen2"
+    }, {
+        "operand": "==",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen3",
+        "type": "comparison",
+        "id": "seen3"
+    }, {
+        "operand": "==",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen4",
+        "type": "comparison",
+        "id": "seen4"
+    }, {
+        "operand": "==",
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seen5",
+        "type": "comparison",
+        "id": "seen5"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen6",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen6"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen6",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen6"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen7",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen7"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen7",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen7"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen8",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen8"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen8",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen8"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen9",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen9"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen9",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen9"
+    }, {
+        "type": "comparison",
+        "operand": "==",
+        "a": "seen10",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "seen10"
+    }, {
+        "type": "comparison",
+        "operand": "!=",
+        "a": "seen10",
+        "aType": "Variable",
+        "b": "true",
+        "bType": "String",
+        "id": "notSeen10"
+    }],
+    "id": "57eaa60389ed4ed46600018b",
+    "pages": [{
+        "content": "<p><em>Baby tried to speak but Mama hushed her as she always did. Mama rocked her and sang softly until the girl fell asleep, her limbs dangling awkwardly from where she lay in Mama's lap. Then Mama put her in the new bed, since she'd grown too big for the cot, and tiptoed across the floorboards to the attic hatch. She descended halfway down the ladder, closed the hatch and bolted it shut.</em></p>\r\n<p>We saw our first kaleidoscope in a teardrop-shaped flower display in the lower gardens. We had just given popcorn to the pigeons.<br />Astrid had knelt down on the edge of the grass to watch them hack the kernels with their beaks into smaller chunks. The butterflies, spooked by the clatter of wings, tumbled implausibly into flight like sweet wrappers at a sneeze. Hundreds of them, backed by the declarative finger of the Sacred Heart church spire.<br />It was the first time I'd ever seen excitement in the girl. She pointed at the different colours but said nothing, jabbing her finger at the air to direct my attention, this way then that.<br />In front of the computer that evening, Astrid in my lap, she pointed in the same way, saying nothing, at the pictures on the screen.<br />- We saw that one, didn't we, I said. - The Gatekeeper. And this one. So pretty. The Common Blue. I think that's my favourite.<br />After a while I let her point them out and said nothing. Preferring for her to identify the beauty on her own, in her own way, after what she'd been through.</p>\r\n<p>&nbsp;</p>",
+        "_id": "57f6874cc7dde2221000070f",
+        "hint": {
+            "direction": "To the tear shaped flower beds in the lower gardens",
+            "locations": ["1ee2c1107961fa511c4d92d6"]
+        },
+        "functions": ["seen1"],
+        "conditions": ["notSeen1", "lg1"],
+        "id": "57f6874cc7dde2221000070f",
+        "name": "Page 1",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>I printed out a butterfly chart. It had pictures of common butterflies of the UK, and three or four rarer species at the bottom, with a tick box next to each one so that we could mark when we had spotted them.</p>\r\n<p>After reading her a story in bed I showed her the chart and ticked off a few of the ones we saw that first day. She was tired, and didn't seem interested, but I ticked off the Gatekeeper (its precise sunburst of orange and brown), the Common Blue, the ghostly Cabbage White, the bright yellow Brimstone.</p>\r\n<p><em>There was heat, and then a smell. A smell like cooking. Baby sat on the bed against the far wall, where it was coolest. The attic had become hazy, like the sleepy fog she sometimes had in her eyes when she woke up. She rubbed and rubbed her eyes now, but it wouldn't go away.</em></p>",
+        "_id": "57f6874cc7dde2221000070e",
+        "hint": {
+            "direction": "Further into the garden",
+            "locations": ["b0c50e49f1d7412dbcaa1e91"]
+        },
+        "functions": ["seen2"],
+        "conditions": ["notSeen2", "seen1", "lg2"],
+        "id": "57f6874cc7dde2221000070e",
+        "name": "Page 2",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>I had been warned about her skin, pale as tracing paper, so I made her wear the sunhat. It tied under the chin and looked silly. I slathered her with sun cream and then covered her up in long sleeves anyway. It was overcast, but the sunlight that she hadn't seen since she was a six-month-old baby threatened to tear through the clouds.<br />As we came through the lower gardens I tried to get her to play crazy golf, but she wouldn't go near the man in the hut to get our clubs. Instead we lingered over the flower displays again and saw the occasional Cabbage White, some flashing little black spots on their forewings. But the bees bossed the pollen today. There was no sign of the sheer number of butterflies we'd seen the other day.</p>\r\n<p><em>The lock on the hatch cracked open and the trap door dropped. Smoke seeped through the floorboards at the other end of the room, where the floor met the wall. Baby, cowering on the bed with her long hair twisted in the sheets, whimpered. She had her favourite toy, an old rubber teething ring, in her mouth.</em><br /><em>Mama's head appeared in the gap and she said, - Baby, quick. Oh quickly, come here.</em><br /><em>Baby jumped down from the bed and ran to her. She helped the child down the ladder and for the first time the girl was outside her attic room. The carpet tickled her bare feet. The corridor was bright.</em><br /><em>The nappy, too small for a girl her age, sagged between her legs.</em></p>",
+        "_id": "57f6874cc7dde2221000070d",
+        "hint": {
+            "direction": "Near the minature golf in the lower gardens",
+            "locations": ["2179ca623c1d211378a9c758"]
+        },
+        "functions": ["seen3"],
+        "conditions": ["notSeen3", "seen2", "lg3"],
+        "id": "57f6874cc7dde2221000070d",
+        "name": "Page 3",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Spending a day with her can be almost like spending a day alone, except you feel stupid trying to entertain her, trying to pique her interest with something or other. I tried to buy her an ice cream in the centre of town but Astrid has to be force-fed her meals and will not accept food in between. I carried her through the bustle (she is startled by large groups of people, and by lots of noise) until we took the sloped path back down into the gardens.<br />I kept reminding her to look out for more butterflies. I called them flutterbies because it made her smile at me and shake her head, like she thought I was being thoroughly the silliest person she had ever met. Like she was telling me that seven years old is too old for that kind of behaviour.</p>",
+        "_id": "57f6874cc7dde2221000070c",
+        "hint": {
+            "direction": "The Square between the central and lower gardens",
+            "locations": ["16522a3b53b94e9786f23c8e"]
+        },
+        "functions": ["seen4"],
+        "conditions": ["notSeen4", "seen3", "square"],
+        "id": "57f6874cc7dde2221000070c",
+        "name": "Page 4",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>We walked under a tunnel made from twists of thick vine trees that met overhead, and raced sticks under the bridge. Mine won, cutting its way through the water like an otter, but I said that I wasn't sure whose stick it was after all, because they both looked similar, and so either of us could have been the winner. Perhaps it was mine stuck in the reeds over by the bank on the left, and not hers.</p>\r\n<p><em>Mama scooped Baby up from behind as they came out the front door. There were trucks whose flashing lights seemed to throw cold air into Baby's face and up her nightdress. Smoke and fire curled out of the windows of the house next door. She held tight to Mama's neck.</em></p>",
+        "_id": "57f6874cc7dde2221000070b",
+        "hint": {
+            "direction": "The first bridge in the central gardens",
+            "locations": ["50745e4bab4d6c8e2e7bf141"]
+        },
+        "functions": ["seen5"],
+        "conditions": ["notSeen5", "seen4", "cg"],
+        "id": "57f6874cc7dde2221000070b",
+        "name": "Page 5",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>At the cenotaph, a mother lifted her son onto one of the lion statues and took his photo while he sang a song from The Lion King at the top of his voice. I tried lifting Astrid onto one but she kicked and screamed in my arms so suddenly I nearly dropped her on the steps. She sat down on the floor away from me and started crying.&nbsp;</p>\r\n<p><em>When the firemen and paramedics came rushing over Mama was shrieking at them, pushing through. Failing to understand, Baby started crying, and for the first time could feel her heaviness in Mama's arms, could feel that she was not a baby any more. </em></p>",
+        "_id": "57f6874cc7dde2221000070a",
+        "hint": {
+            "direction": "At the cenotaph",
+            "locations": ["56a8a214b868e47b9b42e59f"]
+        },
+        "functions": ["seen6"],
+        "conditions": ["notSeen6", "seen5", "cenotaph"],
+        "id": "57f6874cc7dde2221000070a",
+        "name": "Page 6",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>I thought it was a dead leaf at first, its edges trembling in the breeze. Then it lifted itself from the grass, its jagged brown wings twitching like a moth-eaten cape, and drifted right past us.</p>\r\n<p>Astrid stopped crying for a moment, then started pulling at my rucksack and pointing at the butterfly as it rose and darted over the cenotaph. I took out the poster and let her find which picture it looked most like. She put a tick beside the Comma. In the picture we could see more clearly the broken, ragged edges of its wings, the discoloured brown that disguised it among foliage.&nbsp;</p>\r\n<p><em>When they let the man in Baby knew that he was going to take her away. His coat went down to his ankles and there was snow on one of his shoulders, and in one side of his hair. </em></p>\r\n<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Astrid. </em></p>\r\n<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What was he calling her? Was he even speaking to her, or to somebody else?</em></p>\r\n<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Out of one pocket he pulled a photograph and then started trembling. She could see his red hands shaking. He was looking down at the photograph and then at her, down and then at her. </em></p>\r\n<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - I can't tell, he said to the woman, the social worker, beside him. </em></p>\r\n<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - It's her, she said.&nbsp; </em></p>\r\n<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Where's Mama, said the girl. </em></p>",
+        "_id": "57f6874cc7dde22210000709",
+        "hint": {
+            "direction": "At the cenotaph",
+            "locations": ["56a8a214b868e47b9b42e59f"]
+        },
+        "functions": ["seen7"],
+        "conditions": ["notSeen7", "seen6", "cenotaph"],
+        "id": "57f6874cc7dde22210000709",
+        "name": "Page 7",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>That evening, at home, I showed her all the pictures I had of her parents. Tim, my brother, and Maggie. The christening, days before Astrid went missing. There seemed hundreds of these photos. I kept them all, knowing how important they were. To me, more than anything.&nbsp;</p>\r\n<p>I told Astrid her Dad had been a musician, a concert pianist, and her mother a botanist, a lover of the natural world. I told her that they had loved her very much.</p>\r\n<p>I didn't tell her that mere days after they lost her, the police found a body. They told Tim and Maggie that they were almost certain it was Astrid. I didn't tell her that Maggie cut her wrists in the bath because she couldn't face identifying the body of her daughter. That Tim, on discovering his wife dead, took the same knife and died on the bathroom floor next to her. That the next day results proved it to be not Astrid but a little girl Astrid's age, same colour hair, same leporine cheeks.&nbsp;</p>\r\n<p>I told Astrid they floated to heaven together, like butterflies, because they had also loved each other very much, and couldn't live without their beautiful daughter.</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - But I'm back now, she said, her first words in almost a week.</p>\r\n<p>I lost sleep all that night, thinking of my response to her plea. - But they can't come back, like the way you did. It's too late for them.</p>",
+        "_id": "57f6874cc7dde22210000708",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": ["seen8"],
+        "conditions": ["notSeen8", "seen7"],
+        "id": "57f6874cc7dde22210000708",
+        "name": "Page 8",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>Once we got through the overpass - that immense sheet of concrete curving overhead, propped in the air on concrete stilts - the upper gardens were peaceful, withdrawn from the rest of the town in a way nowhere else was. A narrow stream ran through the centre of the green like a silk thread. Bending over the water were a succession of weeping willows - long-haired, bored princesses whiling away the afternoon looking for frogspawn, about to roll up the sleeves of their golden dresses and get their hands dirty.</p>\r\n<p>As we trotted through the willows (a kind of game, sweeping the dangling branches aside as we chased one another) Astrid nearly trod on a butterfly we didn't recognise. It swung drunkenly into the air at the last moment, gained a certain amount of comportment, and steadily found a way through the veils of leaves like a bride.</p>",
+        "_id": "57f6874cc7dde22210000707",
+        "hint": {
+            "direction": "Under the overpass in the central gardens",
+            "locations": ["962373b4eafa9eb9e02e989f"]
+        },
+        "functions": ["seen9"],
+        "conditions": ["notSeen9", "seen8", "overpass"],
+        "id": "57f6874cc7dde22210000707",
+        "name": "Page 9",
+        "pageTransition": "next"
+    }, {
+        "content": "<p>On the chart there was nothing of the stained-glass tiger-orange wings, the flash of slick silver on the underside. The way it had flown less frantically than the others we'd seen.</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - What could it be, I said. - We'll have to put it through the search engine tonight. Find out what's it's name.</p>\r\n<p>But Astrid shook her head. - Can't <em>we</em> give it a name, instead?</p>\r\n<p>We would make it ours. I liked the idea. I made some suggestions: <em>Pearl-winged Princess. The Orange Candle. The Tigress.</em></p>\r\n<p>Astrid shook her head concernedly at my ideas.&nbsp;</p>\r\n<p>She said, - Can we call it <em>Mama</em>.</p>\r\n<p>Sick to my stomach, I looked it up on the computer after Astrid had gone to bed that night. <em>Pearl-bordered Fritillary</em>, swift, low-flying, very rarely found in the south. Wings like flames.</p>",
+        "_id": "57f6874cc7dde22210000706",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": ["seen10"],
+        "conditions": ["notSeen10", "seen9"],
+        "id": "57f6874cc7dde22210000706",
+        "name": "Page 10",
+        "pageTransition": "next"
+    }, {
+        "content": "<h3>Thank you for reading one of our stories ...</h3>\r\n<p>We hope you enjoyed this StoryPlaces story. We would greatly appreciate your opinions on this new approach to story telling. if you have time, filling out the short survey linked below will help us to understand how to improve our application and design new location-aware story experiences. If you would like to do another of our stories please click the StoryPlaces logo in the top left corner and select another story.</p>\r\n<p><strong><a href=\"https://www.isurvey.soton.ac.uk/20629\">Click Here to take our reader experience survey</a></strong></p>\r\n<p><br />The Bournemouth Natural Science Society is not far from the locations featured in this story!</p>\r\n<p>For more information on local natural science events and to visit the collection your self please go to <p><strong><a href=\"http://www.bnss.org.uk\">http://www.bnss.org.uk/</a></strong></p></p>",
+        "_id": "57f6874cc7dde22210000705",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": [],
+        "conditions": ["seen10"],
+        "id": "57f6874cc7dde22210000705",
+        "name": "Finish Story",
+        "pageTransition": "end"
+    }],
+    "pagesMapViewSettings": {
+        "map": true,
+        "pageArrows": true,
+        "pageDistance": true
+    },
+    "locations": [{
+        "id": "1ee2c1107961fa511c4d92d6",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8786782,
+        "lat": 50.719225
+    }, {
+        "id": "b0c50e49f1d7412dbcaa1e91",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8779701,
+        "lat": 50.718988
+    }, {
+        "id": "2179ca623c1d211378a9c758",
+        "type": "circle",
+        "radius": 30,
+        "lat": 50.718702,
+        "lon": -1.8771198
+    }, {
+        "id": "16522a3b53b94e9786f23c8e",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8799683,
+        "lat": 50.720197
+    }, {
+        "id": "50745e4bab4d6c8e2e7bf141",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8809702,
+        "lat": 50.720828
+    }, {
+        "id": "56a8a214b868e47b9b42e59f",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8819961,
+        "lat": 50.721392
+    }, {
+        "id": "962373b4eafa9eb9e02e989f",
+        "type": "circle",
+        "radius": 30,
+        "lon": -1.8866846,
+        "lat": 50.723206
+    }],
+    "audience": "advisory",
+    "schemaVersion": "https://storyplaces.soton.ac.uk/schema/02"
+}

@@ -1,0 +1,287 @@
+{
+    "__v": 0,
+    "_id": "576abcbb7d7a141c6e0000ed",
+    "author": "Charlotte Brind",
+    "description": "<p>It is 1902 in Southampton and young Margaret lives near the docks. Her childhood is suddenly jeopardized after her father brutally murders her mother in a drunken rage. Margaret must take command of her future and find a route to escape her poverty stricken childhood. Experience Margaret's Southampton life, will her fortune change?</p><p>Story &copy; 2016 Charlotte Brind, All Rights Reserved.<br/><br/>Editors Charlie Hargood and Verity Hunt<br/><br/>Images of Canute Chambers courtesy of Southampton City Council Arts and Heritage<br/><br/>Voice Actor: Adam Taussik<br/><br/>Sound Editing by Stephan Caspar</p>",
+    "name": "The Titanic Criminal In Southampton",
+    "tags": ["Southampton"],
+    "publishState": "published",
+    "cachedMediaIds": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13"],
+    "functions": [{
+        "conditions": [],
+        "type": "increment",
+        "variable": "seen",
+        "value": "1",
+        "id": "seencount"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenIntro",
+        "value": "true",
+        "id": "seenIntro"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "end",
+        "value": "true",
+        "id": "end"
+    }],
+    "conditions": [{
+        "bool": "true",
+        "type": "location",
+        "location": "683b876b6ed7106872c63a86",
+        "id": "chapelroad"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "b962403511028ce34dcdfdf4",
+        "id": "thegrapes"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "8c0bd522be5c4a1aa29d7896",
+        "id": "queenspark"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "5b23ad8913d50933c279bb2e",
+        "id": "admiraltyhouse"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "f61c99882d7b78a246b7b729",
+        "id": "canutechambers"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenIntro",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenIntro"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "end",
+        "operand": "==",
+        "type": "comparison",
+        "id": "end"
+    }, {
+        "bType": "String",
+        "b": "1",
+        "aType": "Variable",
+        "a": "seen",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seen1"
+    }, {
+        "bType": "String",
+        "b": "2",
+        "aType": "Variable",
+        "a": "seen",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seen2"
+    }, {
+        "bType": "String",
+        "b": "3",
+        "aType": "Variable",
+        "a": "seen",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seen3"
+    }, {
+        "bType": "String",
+        "b": "4",
+        "aType": "Variable",
+        "a": "seen",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seen4"
+    }, {
+        "bType": "String",
+        "b": "5",
+        "aType": "Variable",
+        "a": "seen",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seen5"
+    }, {
+        "bType": "String",
+        "b": "6",
+        "aType": "Variable",
+        "a": "seen",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seen6"
+    }, {
+        "bType": "String",
+        "b": "7",
+        "aType": "Variable",
+        "a": "seen",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seen7"
+    }],
+    "id": "576abcbb7d7a141c6e0000ed",
+    "pages": [{
+        "content": "<audio data-media-id='14'></audio><br/><br/><img data-media-id='1'/><br/><br/>It is 1902 in Southampton, you are on Chapel Road. The story you are about to begin is based on the real life of criminal William Mintram.<br/><br/>Margaret sat on the doorstep of her family home. It was a bitterly cold, October morning and the puddles had a thin layer of ice. She drew breath as a boy slipped on the cobbled pavement, dropping his mother's basket of market produce. As the season changed from autumn to winter it was difficult to stay warm, but Margaret enjoyed sitting on the cold doorstep of her house so she could be alone with just her thoughts. She would sit and daydream, imagining what it would be like to be rich. She adored nothing more than lingering outside Terminus Railway Station on the way home from school, hoping to catch a glimpse of wealthy ladies arriving from London in their glorious corsets, helped by attentive maids.<br/><br/>Her family home was overcrowded, with three siblings, mother and father all living in the minute, terrace house. Her elder sister Rosina lived next door at number 13, with her husband Walter and their expanding family. The daughter of an alcoholic, Margaret's upbringing at 15 Chapel Road was tough. The road was home to ship workers and their families because of its close proximity to the docks. The cheap rentals provided a basic roof over the families' head, yet, her father William Mintram did not wish to provide anything more than basic food and shelter. The physically demanding work on ships led him to the pub in the evenings, and Margaret's father frequently drank his wages away, leaving the children to go hungry. <br/><br/>As Margaret sat alone on the doorstep tears began to stream down her cheeks. She thought of her mother Eliza, with her jet black hair, kind eye and gentle voice. Her mother was a tolerant woman, who worked as a seamstress when she could persuade Rosina to care for her youngest, Albert. The infrequent work allowed Eliza to supplement her husband's small income and the money was for the children; they were Eliza's priority. Her wages kept the family above the poverty line and without the extra money the children's lives would have been bleak. ",
+        "_id": "576abcbb7d7a141c6e0000f7",
+        "hint": {
+            "direction": "15 Chapel Road",
+            "locations": ["683b876b6ed7106872c63a86"]
+        },
+        "functions": ["seencount", "seenIntro"],
+        "conditions": ["notSeenIntro", "chapelroad"],
+        "id": "576abcbb7d7a141c6e0000f7",
+        "name": "Chapel Road 1902",
+        "pageTransition": "next"
+    }, {
+        "content": "The pub is located close to the docks and has the same cast iron signage as it did in the early 20th century. Popular with the dock workers, Margaret's father would stop by when work finished at 6pm, he always stated that he would only have one or two drinks but he never stopped at that. William would drink until he could hardly stand up, he would link arms with friends and stagger home singing 'he's a jolly good fellow', before collapsing into bed and snoring like an animal. The pub would drain every penny from William leaving nothing for his family, but after a couple of drinks William was too drunk to care about anyone else. <br/><br/><img data-media-id='2'/><br/><p style='color:red'>The image shows the cast iron signage in 2015, this signage has not changed since the Titanic era.</p><br/> One October evening William's drunken behaviour reached its dreadful peak and in an agitated state he ruthlessly 'stabbed his wife in the back, death resulting shortly afterwards' after he returned home from The Grapes. He stabbed Eliza because she 'kept nagging' as William had pawned his son's only boots so he could purchase extra alcohol in this pub. Margaret had not witnessed her mother's murder, but she had been in the Chapel Road house at the time. She was used to screams and shouts when her father returned drunk from the pub, and thus she unsuspectingly slept through her dear mother's murder.<br/><br/>Margaret struggled to come to terms with the murder and taunts at school became merciless after this newspaper article was released:",
+        "_id": "576abcbb7d7a141c6e0000f6",
+        "hint": {
+            "direction": "The Grapes Pub Oxford Street",
+            "locations": ["b962403511028ce34dcdfdf4"]
+        },
+        "functions": ["seencount"],
+        "conditions": ["seen1", "thegrapes"],
+        "id": "576abcbb7d7a141c6e0000f6",
+        "name": "The Grapes Pub 1902",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='3'/><br/><p style='color:red'>The original newspaper article, detailing the trial and sentencing of William for Eliza's murder</p><br/> 'Orphan, orphan!' the children cruelly taunted in the playground, 'You should be an orphan'. The children all knew her father had murdered her mother, and the school children wanted Margaret to know that her father really deserved the death penalty, which would leave her and her siblings orphans. Yet, the magistrates ruled in Mintram's favour, and gave '12 years' penal servitude' in Winchester prison to prevent the orphaning of his five children. For Margaret, it was of little comfort, the bullies taunted her for having a drunken father, and continually repeated that her father should have faced the hanging chambers. Margaret felt a searing pain across her stomach every time a noose was mentioned and began to retch at the thought that the other children believed her father deserved to be dead.<br/><br/>He is my father, my father. It was an accident, he was drunk.<br/><br/>Even to this day, Mintram's living relative Joyce Mills stands by his innocence. <br/><br/><a href='http://www.bbc.co.uk/news/uk-england-17678282'>A Video of a Joyce Mills Interview can be found on the BBC here</a>   <br/><br/>The bullies relentlessly continued the taunts as they enjoyed witnessing Margaret's distress, as her father's murder trial was popular gossip amongst the families of Chapel Road. Groups of children would corner Margaret on her way home from school, they would pull her hair, spit on her clothes and shout that she was 'rough' and 'dirty'. The cruel bullying never allowed Margaret to escape her dreadful reality.",
+        "_id": "576abcbb7d7a141c6e0000f5",
+        "hint": {
+            "direction": "The Grapes Pub Oxford Street",
+            "locations": ["b962403511028ce34dcdfdf4"]
+        },
+        "functions": ["seencount"],
+        "conditions": ["seen2", "thegrapes"],
+        "id": "576abcbb7d7a141c6e0000f5",
+        "name": "The Grapes Pub - The Article",
+        "pageTransition": "next"
+    }, {
+        "content": "It is now 10th April 1912<br/><br/>Margaret took a seat on a bench which looked towards Admirality House. 1912 would mark ten years since her mother's murder. Her father was released after only serving three years of his twelve year sentence and since his release in 1905, he had been a man with a kinder heart. He reduced his alcohol consumption and made a greater attempt to provide for his children, because they were very nearly orphaned. <br/><br/>Margaret, now sixteen had formed a stronger bond with her dear father.<br/><br/>In April 1912, William took a job in the engine room of the Titanic on her maiden voyage. With his criminal record, casual labour on ships and in the docks were the only jobs available to him.<br/><br/>Margaret and her four siblings had gathered at the dock side to wave the ship off, and of course their father on the voyage. The siblings were mesmerised by the sheer scale of the ship, something they had never had the pleasure of seeing before. They whistled and cheered as black smoke bellowed from the ships' chimneys and Albert jumped up and down to get a better view, brushing shoulders with other excited relatives. Margaret felt a sense of pride as the ship began to leave the dock, her father had explained that the ship could only sail if he was in the engine room feeding the ship coal. <br/><br/><img data-media-id='4'/><br/><p style='color:red'>The Titanic photographed at Southampton docks.</p><br/>Her father had always been drawn to the sea, an avid swimmer from a young age, he was never afraid of the great ocean. However, Margaret always felt uncomfortable about her father leaving on a voyage. If anything was to happen to him she would be an orphan, and even now she was sixteen, the taunts she received ten years ago in the playground still haunted her. Margaret chose to pen a letter to her dear father while sitting in Queen's Park after seeing him off. He would receive it on his arrival in New York, and she wanted him to know that she was proud he had kept the family together, even in the wake of her mother's accidental murder. <br/><br/>For April, the weather was warmer than average but the breeze from the sea continually blew her hair into her eyes, making letter writing take longer than she had anticipated. Margaret was keen to write the note quickly to be sure it was posted in good time, so her father received it before his return voyage to Southampton. She knew the letter would remind him of his family, and sway any temptation he had to spend all his wages in a New York pub.<br/><br/><img data-media-id='5'/><br/><p style='color:red'>Admirality House photographed from a bench in Queen's Park, October 2015. Now, imagine Margaret penning a letter to her father in this same spot in April 1912.</p>",
+        "_id": "576abcbb7d7a141c6e0000f4",
+        "hint": {
+            "direction": "Queen's Park",
+            "locations": ["8c0bd522be5c4a1aa29d7896"]
+        },
+        "functions": ["seencount"],
+        "conditions": ["seen3", "queenspark"],
+        "id": "576abcbb7d7a141c6e0000f4",
+        "name": "Queen's Park April 1912",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='6'/><br/><p style='color:red'>Admirality House photographed in approximately 1905. At the time, it was known as simply The Post Office. As you can see its exterior has hardly changed over time.</p><br/>Margaret posted her letter to her father William Mintram. Admiralty house was the post office and telegraph sorting centre for the docks. Every single letter destined to leave Southampton shores would pass through the building. Like Margaret's letter, many letters destined for Titanic passengers and crew to receive after their arrival in New York passed through the building. The letters reached their destinations in New York, yet many were never answered by the recipients. <br/><br/>Margaret's father, as a crew member, was the lowest priority when evacuating the ship and the crew had a death rate 'of 76 percent' . Margaret posted the letter on the day her father left Southampton docks. She was ignorant of the danger her father was in, working on a ship which had grossly underestimated the need for lifeboats in the event of the unsinkable ship sinking. ",
+        "_id": "576abcbb7d7a141c6e0000f3",
+        "hint": {
+            "direction": "Admiralty House",
+            "locations": ["5b23ad8913d50933c279bb2e"]
+        },
+        "functions": ["seencount"],
+        "conditions": ["seen4", "admiraltyhouse"],
+        "id": "576abcbb7d7a141c6e0000f3",
+        "name": "Admiralty House 10th April 1912",
+        "pageTransition": "next"
+    }, {
+        "content": "'Seven days of utter despair. Waiting, waiting, waiting. Hoping for news of my dear father William and praying that the sinking of the Titanic on 15th April is a mistake. Perhaps the White Star line employees interpreted the radio messages incorrectly? Surely the unsinkable ship has not sunk?' screamed Margaret.<br/><br/>Like all families of passengers and crew, Margaret and Rosalin waited and prayed for positive news that their father, and Rosalin's husband Walter had survived. Receiving news was a lengthy process, yet, the sisters would not leave Canute chambers. Local charities provided free refreshments for the concerned families who camped out, for fear of returning home and missing important news on their loved ones. The Canute office was the only connection they had left with the ill-fated Titanic.<br/><br/>The newspapers reported 'the strain' on the women waiting for news; with the anguish causing many to start 'breaking down'  as days past without news from loved ones.",
+        "_id": "576abcbb7d7a141c6e0000f2",
+        "hint": {
+            "direction": "Canute Chambers",
+            "locations": ["f61c99882d7b78a246b7b729"]
+        },
+        "functions": ["seencount"],
+        "conditions": ["seen5", "canutechambers"],
+        "id": "576abcbb7d7a141c6e0000f2",
+        "name": "Canute Chambers 22nd April 1912",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='7'/><br/><p style='color:red'>Newspapers reported the news of the Titanic. This article focuses on families grieving in Southampton. The ship left Southampton on 12th April, struck an iceberg on 14th, and finally sunk on 15th April. This newspaper was published on 19th April 1912, 4 days after the news had began to reach devastated families.</p><br/><img data-media-id='8'/><br/><p style='color:red'>Desperate families read the lists of survivors, hoping their relatives are named. If their relative was not listed, their only hope was that the name might appear when there was an 'infrequent correction', as some survivors' names were misheard over the radio. White Star Line employees worked shifts of '36 hours straight'  to get all the information they could to waiting relatives.</p><br/>",
+        "_id": "576abcbb7d7a141c6e0000f1",
+        "hint": {
+            "direction": "Canute Chambers",
+            "locations": ["f61c99882d7b78a246b7b729"]
+        },
+        "functions": ["seencount"],
+        "conditions": ["seen6", "canutechambers"],
+        "id": "576abcbb7d7a141c6e0000f1",
+        "name": "Canute Chambers April 1912",
+        "pageTransition": "next"
+    }, {
+        "content": "Margaret now a young woman aged twenty-six stood in the park and surveyed the scale of South Western House.<br/><br/><img data-media-id='9'/><br/><p style='color:red'>A view of South Western House from Queen's Park. The photo was taken in October 2015.</p><br/><img data-media-id='10'/><br/><p style='color:red'>A photograph of South Western House, taken around 1920.</p><br/>She thought fondly of her childhood in Chapel Street, where she devoted many hours to imagining what it would be like to be a wealthy lady staying at this hotel. <br/><br/>The Titanic Relief Fund which was generously donated to, had provided Margaret's family with half of their father's wages a month, yet, the fund also allowed Margaret, as the families' eldest dependent daughter to undertake a training contract. Margaret decided to pursue a career as a maid and succeeded the families' expectations, taking a job in the prestigious South Western House.<br/><br/><img data-media-id='11'/><br/><p style='color:red'>The newspaper article reports generous donations to the relief fund immediately after the disaster. Money was also donated for many years after to support families. The $150,000 reported in this article was raised in seven days and would be equivalent to £3.1million in 2015. This shows the impact the Titanic had on the world, and the kind support people offered the families.</p><br/> In her ten year career, Margaret had been able to succeed because of the aid she received after her father's death. Margaret always spent her breaks in Queen's Park during the month of April. She liked to smell the fresh sea air, and enjoy the light breeze and warmer weather. It always took her back ten years, and reminded her of her father and the last time she saw him board the Titanic. He wore such scruffy, stained trousers and a dirty white vest. She could have ended up turning herself and siblings into the workhouse upon her father's death, but Margaret had made her life a success.<br/><br/>Who would have thought the daughter of an engine worker who shovelled coal in the unseen, grimy pits of the Titanic, would have the opportunity to train as a maid caring for first class clients, who would never associate themselves with the likes of a criminal such as William Mintram.<img data-media-id='12'/><br/><p style='color:red'>This photograph shows the real William Mintram, and this story is based on his life.</p>",
+        "_id": "576abcbb7d7a141c6e0000f0",
+        "hint": {
+            "direction": "Queen's Park",
+            "locations": ["8c0bd522be5c4a1aa29d7896"]
+        },
+        "functions": ["seencount", "end"],
+        "conditions": ["seen7", "queenspark"],
+        "id": "576abcbb7d7a141c6e0000f0",
+        "name": "Queen's Park 12th April 1922",
+        "pageTransition": "next"
+    }, {
+        "content": "<img data-media-id='13'/>",
+        "_id": "576abcbb7d7a141c6e0000ef",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": [],
+        "conditions": [],
+        "id": "576abcbb7d7a141c6e0000ef",
+        "name": "Map",
+        "pageTransition": "next"
+    }, {
+        "content": "<h3>Thank you for reading one of our stories ...</h3><p>We hope you enjoyed this StoryPlaces story. We would greatly appreciate your opinions on this new approach to story telling. if you have time, filling out the short survey linked below will help us to understand how to improve our application and design new location-aware story experiences. If you would like to do another of our stories please click the StoryPlaces logo in the top left corner and select another story.</p><p><b><a href='https://www.isurvey.soton.ac.uk/20629'>Click Here to take our reader experience survey</a></b></p>",
+        "_id": "576abcbb7d7a141c6e0000ee",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": [],
+        "conditions": ["end"],
+        "id": "576abcbb7d7a141c6e0000ee",
+        "name": "Finish",
+        "pageTransition": "end"
+    }],
+    "pagesMapViewSettings": {
+        "map": true,
+        "pageArrows": true,
+        "pageDistance": true
+    },
+    "locations": [{
+        "id": "683b876b6ed7106872c63a86",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.392496,
+        "lat": 50.902099
+    }, {
+        "id": "b962403511028ce34dcdfdf4",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.397742,
+        "lat": 50.898016
+    }, {
+        "id": "8c0bd522be5c4a1aa29d7896",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.399722,
+        "lat": 50.897295
+    }, {
+        "id": "5b23ad8913d50933c279bb2e",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.399137,
+        "lat": 50.896659
+    }, {
+        "id": "f61c99882d7b78a246b7b729",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.39403,
+        "lat": 50.896926
+    }],
+    "audience": "general",
+    "schemaVersion": "https://storyplaces.soton.ac.uk/schema/02"
+}

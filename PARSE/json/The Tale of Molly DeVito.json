@@ -1,0 +1,375 @@
+{
+    "__v": 0,
+    "_id": "576a83067d7a141c6e000074",
+    "author": "Emily Derrick",
+    "description": "<p>When Molly DeVito arrives in Southampton docks from America in the late 1800’s, carrying a not-so-subtle secret, she is looking for a home. With youth and beauty on her side she is hopeful. What she doesn’t realise is that she is no longer in control of her own life, someone, or something, else is pulling the strings. Molly’s journey attracts the attention of the city itself and then the question becomes simple; what is Molly’s final destination? The Tale of Molly DeVito introduces Southampton as a character not to be reckoned with, and explores the possibility of a whole new relationship to the city you thought you knew . . .</p><p>Story &copy; 2016 Emily Derrick, All Rights Reserved.<br/><br/>Editors Charlie Hargood and Verity Hunt<br/><br/>Picture 'Disappointed Love' &copy; Victoria and Albert Museum, London<br/><br/>Voice Actor: Mike Rogers<br/><br/>Sound Editing by Stephan Caspar</p>",
+    "name": "The Tale of Molly DeVito",
+    "tags": ["Southampton"],
+    "publishState": "published",
+    "cachedMediaIds": ["1", "2", "3"],
+    "functions": [{
+        "conditions": [],
+        "type": "increment",
+        "variable": "count",
+        "value": "1",
+        "id": "count"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenA",
+        "value": "true",
+        "id": "seenA"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenB",
+        "value": "true",
+        "id": "seenB"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenC",
+        "value": "true",
+        "id": "seenC"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenD",
+        "value": "true",
+        "id": "seenD"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenE",
+        "value": "true",
+        "id": "seenE"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenF",
+        "value": "true",
+        "id": "seenF"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenG",
+        "value": "true",
+        "id": "seenG"
+    }, {
+        "conditions": [],
+        "type": "set",
+        "variable": "seenH",
+        "value": "true",
+        "id": "seenH"
+    }],
+    "conditions": [{
+        "bool": "true",
+        "type": "location",
+        "location": "6ed588113e8f1a5c6b1d6711",
+        "id": "docks"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "28465bbce992ec9215350ef2",
+        "id": "waterfront"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "749e5eca03b9a7ba658e24cc",
+        "id": "admirality"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "ff1dce4551c7a98c2a19e876",
+        "id": "queens"
+    }, {
+        "bool": "true",
+        "type": "location",
+        "location": "aba831b8a79711e7c1758f56",
+        "id": "pier"
+    }, {
+        "bType": "String",
+        "b": "8",
+        "aType": "Variable",
+        "a": "count",
+        "operand": "==",
+        "type": "comparison",
+        "id": "end"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenA",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenA"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenB",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenB"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenC",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenC"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenD",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenD"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenE",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenE"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenF",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenF"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenG",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenG"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenH",
+        "operand": "!=",
+        "type": "comparison",
+        "id": "notSeenH"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenA",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenA"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenB",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenB"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenC",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenC"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenD",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenD"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenE",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenE"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenF",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenF"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenG",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenG"
+    }, {
+        "bType": "String",
+        "b": "true",
+        "aType": "Variable",
+        "a": "seenH",
+        "operand": "==",
+        "type": "comparison",
+        "id": "seenH"
+    }],
+    "id": "576a83067d7a141c6e000074",
+    "pages": [{
+        "content": "<audio data-media-id='4'></audio><br/><br/>Hello friends, and welcome! Welcome to the story of Molly DeVito. Although she gives her name as the title of this account, she is merely a piece of my game. Please, do not be fooled into thinking she is important, do not give her more attention than is absolutely necessary. She will grow, adapt and die like all humans must; a single leaf on a single branch of an unimaginable tree. <br/><br/>But where are my manners? I haven’t told you who I am. Well, I am your host and I am all around you. I am Southampton. Again, please don’t be fooled into gazing around at the cars and buildings, and the traffic lights and youths of today sauntering around with cigarettes in hand. Do not try to understand me by listening to the screech of seagulls, the unbearable headache of roadworks or the smell of fish and chips. For I am more complex than you can fathom. You, in your tiny space as a tiny part of your tiny existence will never know ME. But don’t let that distract you, I will continue around you, serving your needs and polishing your self-awareness. It may seem impossible to you that I am stronger than you are, that I can overwhelm you, control you. . . oh really? You think I’m joking, in that case perhaps it is good that you hear about Miss Molly DeVito. She was here in my prime, the late 1800’s. I don’t remember the year exactly, it isn’t important. What is important is that maybe then you’ll understand. Even if you don’t, even if you never will, I will enjoy telling you this, and I hope you enjoy listening. Maybe its best if I show you, how I, a greater living being than you swallowed her whole without a second thought. Really it’s quite pitiful.  ",
+        "_id": "576a83067d7a141c6e00007d",
+        "hint": {
+            "direction": "Entrance to the docks near queens park",
+            "locations": ["6ed588113e8f1a5c6b1d6711"]
+        },
+        "functions": ["seenA"],
+        "conditions": ["notSeenA", "docks"],
+        "id": "576a83067d7a141c6e00007d",
+        "name": "Page A",
+        "pageTransition": "next"
+    }, {
+        "content": "<audio data-media-id='5'></audio><br/><br/><img data-media-id='1'/><br/><br/>This my friends, as you may have guessed, is Miss Molly DeVito. I’m showing her to you like this in the hope that she is appealing to you, that you like her. Notice her kind eyes, her rounded and flushed cheeks with the unmistakable glow of youth and nourishment. She is content. Her clothes are fashionable and yet she exudes a kind of reckless youthfulness that appeals to modern humans. Do you like her? You should. I did. She was one of my favourites, not that my opinion changed her fate. Whether or not you see it in her face or her manner, or maybe you are unaware and so I must tell you; Miss DeVito is an American and this photo was sent to her fiancé as a gift. I wanted you to see her like this, in her prime, just as you are, because of course, she did not look like this when she came to me. But, as I said, she was one of my favourites, I’m not sure why, but out of whatever kindness and respect I could selfishly manage, I left her in a better state than how I found her. ",
+        "_id": "576a83067d7a141c6e00007c",
+        "hint": {
+            "direction": "Waterfront - near the ferry terminal",
+            "locations": ["28465bbce992ec9215350ef2"]
+        },
+        "functions": ["seenB"],
+        "conditions": ["notSeenB", "seenA", "waterfront"],
+        "id": "576a83067d7a141c6e00007c",
+        "name": "Page B",
+        "pageTransition": "next"
+    }, {
+        "content": "She arrived, as many do, on a ship, cruising into my embrace. As it happens Molly was running toward me, not cruising. I suppose I should be insulted that she did not specifically want ME. It was more that she was running away. From what is not important to me, or to you. But you should know that although she came to me unmarried and alone, she arrived with the swollen stomach and ashy skin of a pregnant woman who does not cope well with the swell of her belly or of the sea. <br/><br/>Just stand for a moment, and try to imagine her arrival, feel the sea air on your face mixed indistinctly with the smells of people, of city life. Can you taste the hope mixed with the salt in the air? Try to ignore the cars and the humans pulling you back to the Now. Indulge me and tell me what you think of me. Me as a body, as a whole. Sprawling, crawling, flowing over nature with my cesspits and bars, my prostitutes and grubby brick houses, my carved facades on the grand seafront. Consider me from out there. In the ocean, look at me and judge me with hope in your eyes and a rose coloured lens. A black mass of life. This is what Molly saw. She saw beauty in me. Maybe that’s why I liked her. She flattered me. She fell off that ship into my arms like a lover, hoping to slot into my beat undetected. But I noticed her. And so will you. She walked slowly through docks overwhelmed. The sound of metal and the taste of working men managed to creep past the cranes and ships on a pathetic breeze, pushing the crowds past the wooden construction huts and jutting dockyards towards my personal favourite building. Go there now. Just where the dock yards spits its prisoners back into my centre. The Admiralty house. ",
+        "_id": "576a83067d7a141c6e00007b",
+        "hint": {
+            "direction": "Waterfront - near the ferry terminal",
+            "locations": ["28465bbce992ec9215350ef2"]
+        },
+        "functions": ["seenC"],
+        "conditions": ["notSeenC", "seenB", "waterfront"],
+        "id": "576a83067d7a141c6e00007b",
+        "name": "Page C",
+        "pageTransition": "next"
+    }, {
+        "content": "<audio data-media-id='6'></audio><br/><br/>Now, just look at it. Examine. Explore. Touch the bricks. Taste its arrogance. I know the story behind every brick. I know the sadness behind every crack of the concrete mix. The pains behind the measurement of each arch and pillar. It suits me well I think. People arrive and see the impressive squareness of the building. The solid red brick of the English. It restores hope in the system. Can you feel it? Can see how it passes most people by, untouched by their judgement. Unfortunately for Molly DeVito, this building did not exist when she arrived. Had she had seen the unmistakable signs of supremacy radiating from the house; maybe she wouldn’t have lost hope. As it happens all she saw was a squat, dirty little building that she barely even noticed. It was less of a welcome than I roll out nowadays, more of an unceremonious nod of the head. Try to imagine it, if you can. A Southampton without the impressive redbrick buildings, now signs of power and wealth here yet, just a gangly, awkward muddle of spaces growing out of time with each other, just like a teenager becoming an adult. <br/><br/>I consider it my prime because I was growing so much. Becoming more than I was. But to you, I would be ugly, grotesque. A large town twisted out of shape. Bent by construction, confined by the sea, whipped by the sounds of hot metal in furnaces, smothered in smoke and smog and fog and bird poo and horse droppings, trampled into the mud by men heaving on ropes. Oh yes! I was ugly. But to Molly I was a beautiful chance. I failed to warn her about who she would meet through me. But, what was said and when and by whom does not concern us. Forgive me, but I am showing you myself. Not Molly. ",
+        "_id": "576a83067d7a141c6e00007a",
+        "hint": {
+            "direction": "Admiralty House near Queens Park",
+            "locations": ["749e5eca03b9a7ba658e24cc"]
+        },
+        "functions": ["seenD"],
+        "conditions": ["notSeenD", "seenC", "admirality"],
+        "id": "576a83067d7a141c6e00007a",
+        "name": "Page D",
+        "pageTransition": "next"
+    }, {
+        "content": "<audio data-media-id='7'></audio><br/><br/><img data-media-id='2'/><br/><br/>Molly is crying. You can’t hear her over the sound of my voice of course. And even if I weren’t speaking the car horns and engines would stop you anyway. I can hear her. But she has her back to you. She’s over by that tree now. A leaf has fallen in her hair and she is unaware. Absorbed by a grief so intense the sad little saplings and trodden grass seem to reflect and absorb her silent cries. It’s barren. Even in Molly’s time, without the grey bricks of life absorbing the colour of the park, it is bare and lonely. It never was my most beautiful feature. It is however, a good place to cry. A good place for despair. Gordon’s memorial is there, lording over her fears. Its palm trees seem to be mocking her pain. I hated them for it. The lack of sympathy, the cold circle of iron railings instructing her movements. I was glad when the pompous palms were replaced with flowers. Flowers can be ignored. If they mock you or laugh at you it is possible to squash them. However, It does not matter much. Several days have passed since you last saw Molly, what has been done, has been done. This is a story about me. About space. Not about her.<br/><br/>Molly is alone. On her own. Her semi-permanent companion is gone and her hands grasp the sagging skin of her retching belly in a hope to fill the void. There are, of course other people in the park; a sailor and his sweetheart stealing time, a grey nanny with a grey face pushing grey pram with a grey baby inside with grey screams. Why not sit on the bench and watch them pass. We have a while to wait her before Molly feels able to leave. To stagger down the crisscrossing paths and off onto the grass; A misalliance of the manicured lawns of the rich and the scruffy tufts of the public. The sun sets the same way it does now and the leaves fall. The shadows lengthen and push onwards towards death and decay. ",
+        "_id": "576a83067d7a141c6e000079",
+        "hint": {
+            "direction": "Queens Park",
+            "locations": ["ff1dce4551c7a98c2a19e876"]
+        },
+        "functions": ["seenE"],
+        "conditions": ["notSeenE", "seenD", "queens"],
+        "id": "576a83067d7a141c6e000079",
+        "name": "Page E",
+        "pageTransition": "next"
+    }, {
+        "content": "<audio data-media-id='8'></audio><br/><br/>Follow her. You are with her now. In her space. In her time. Try to stop her if you like. But I can tell you that she will die soon. Call out against the wind. You are closer to the shoreline than you think. Reach for her. The light is fading. The sea sucks the energy from the sun and returns it to earth with the wrath of Poseidon. See the walls being rebuilt, replaced. Both then and now. The old no longer suitable. The roads that were crawling with workmen ants eager to serve their queen are now exposed and unsociable. The light from private clubs and bars with all the trappings of wealth make Molly shimmer and flicker onwards. Quick now, she’s moving faster. Catch her. Brush past the marks of modernity. Look only for signs of Molly and her brief life with me. The crumbling ruins around you are not as preserved as they should be. The iron railings of the dockyard force you from Molly. She can enter. She can go where you cannot. She can walk unharmed between the containers and vans and unloading lorries. If you hurry onwards. You will be able to catch her again before she leaves you and me behind.",
+        "_id": "576a83067d7a141c6e000078",
+        "hint": {
+            "direction": "Waterfront - near the ferry terminal",
+            "locations": ["28465bbce992ec9215350ef2"]
+        },
+        "functions": ["seenF"],
+        "conditions": ["notSeenF", "seenE", "waterfront"],
+        "id": "576a83067d7a141c6e000078",
+        "name": "Page F",
+        "pageTransition": "next"
+    }, {
+        "content": "<audio data-media-id='9'></audio><br/><br/>Aaaahhhhhhhhhh. There she is. OH, watch the spray! it’ll soak you fast. Look at her dress. Look at how it clings to her frame. Such a pity. The lights from the pier illuminate what will happen, but the rich inside can’t stop it any more than you or me. The low wall contains her. A boundary between her and the wrath of the sea. The sea, a boundary between her and the wrath of the world. The expanse of the bay seems so small now you consider it. The pier seems a natural addition to the scene, so new and impressive. I’m getting there. I’m reaching my grandeur. Testing the reaction to my new limbs of growth. I’ll admit the scruffy grass at your feet is not quite to the same effect. And my pier not as grand as it will become and not as derelict as it has become. You see decay. You see waste. You see nature ruined by bricks and mortar. Well, you are not to blame for your displeasure. I am an accident waiting to happen to you. I make the choices; you are toy lost in the vastness of my maze of time, space, life, death, people, animals, trade and transport. I am born from the sea and the river that feed me. The sea that is so inaccessible to you is my mother. I sucked my life from her breast and so I became. Molly is realising this now. She is accepting that this is a good place to die. As good a place as any to move into peace. Watch her. Watch her turn her back on my life force and collide with careful consideration into the horse and cart. The man inside will barely remember tonight.",
+        "_id": "576a83067d7a141c6e000077",
+        "hint": {
+            "direction": "Entrance to the Royal Pier",
+            "locations": ["aba831b8a79711e7c1758f56"]
+        },
+        "functions": ["seenG"],
+        "conditions": ["notSeenG", "seenF", "pier"],
+        "id": "576a83067d7a141c6e000077",
+        "name": "Page G",
+        "pageTransition": "next"
+    }, {
+        "content": "<audio data-media-id='10'></audio><br/><br/>So there you go. What did you think? You didn’t like my small anecdote? I’m not surprised. You don’t have to like it. I suppose I should explain my game to you now. The reason I am telling you this story. I am trying to make you understand that I am a city like no other. I am on edge. I am passing and fleeting. I change as you change. I will be what you want me to be. I am designed to be temporary. At least temporary for you. Most that meet me plan to only meet me briefly. On their ways to greater, sleeker cities. Cities designed by style and not grown out of necessity. Well, this is my game now; if you aren’t careful. If you don’t have your wits about you, if you lose hope like Molly did; I will find a way to keep you. One way or another. <br/><br/><img data-media-id='3'/>",
+        "_id": "576a83067d7a141c6e000076",
+        "hint": {
+            "direction": "Entrance to the Royal Pier",
+            "locations": ["aba831b8a79711e7c1758f56"]
+        },
+        "functions": ["seenH"],
+        "conditions": ["notSeenH", "seenG", "pier"],
+        "id": "576a83067d7a141c6e000076",
+        "name": "Page H",
+        "pageTransition": "next"
+    }, {
+        "content": "<h3>Thank you for reading one of our stories ...</h3><p>We hope you enjoyed this StoryPlaces story. We would greatly appreciate your opinions on this new approach to story telling. if you have time, filling out the short survey linked below will help us to understand how to improve our application and design new location-aware story experiences. If you would like to do another of our stories please click the StoryPlaces logo in the top left corner and select another story.</p><p><b><a href='https://www.isurvey.soton.ac.uk/20629'>Click Here to take our reader experience survey</a></b></p>",
+        "_id": "576a83067d7a141c6e000075",
+        "hint": {
+            "direction": "",
+            "locations": []
+        },
+        "functions": [],
+        "conditions": ["seenH"],
+        "id": "576a83067d7a141c6e000075",
+        "name": "Finish",
+        "pageTransition": "end"
+    }],
+    "pagesMapViewSettings": {
+        "map": true,
+        "pageArrows": true,
+        "pageDistance": true
+    },
+    "locations": [{
+        "id": "6ed588113e8f1a5c6b1d6711",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.401342,
+        "lat": 50.896486
+    }, {
+        "id": "28465bbce992ec9215350ef2",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.404533,
+        "lat": 50.89627
+    }, {
+        "id": "749e5eca03b9a7ba658e24cc",
+        "type": "circle",
+        "radius": 40,
+        "lon": -1.399153,
+        "lat": 50.896737
+    }, {
+        "id": "ff1dce4551c7a98c2a19e876",
+        "type": "circle",
+        "radius": 50,
+        "lon": -1.399931,
+        "lat": 50.897359
+    }, {
+        "id": "aba831b8a79711e7c1758f56",
+        "type": "circle",
+        "radius": 50,
+        "lon": -1.406797,
+        "lat": 50.897166
+    }],
+    "audience": "general",
+    "schemaVersion": "https://storyplaces.soton.ac.uk/schema/02"
+}
