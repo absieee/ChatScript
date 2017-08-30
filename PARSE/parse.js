@@ -1,5 +1,6 @@
 // import required modules
 var fs = require("fs");
+var striptags = require("striptags");
 
 if (process.argv.length <= 2) {
     console.log("Usage: " + __filename + " JSON_FILE_HERE");
@@ -45,13 +46,14 @@ console.log("# nodes/pages: ", numNodes);
 
 var storyContent = [];
 for (var i = 0; i < numNodes; i++) {
-    storyContent.push(storyPages[i].content);
+    storyContent.push(striptags(storyPages[i].content, [], ));
     console.log("\n**START NODE EXTRACTION**\n")
     console.log("Node #:", i+1);
     console.log("Node name:", storyPages[i].name);
     console.log("Pre-requisites:", storyPages[i].conditions);
-    console.log("Content:\n", storyContent[i]);
     console.log("Behaviour:", storyPages[i].functions);
+    console.log("Content:", storyContent[i]);
     console.log("\n**END NODE EXTRACTION**\n")  
 }
+
 // console.log(storyContent);

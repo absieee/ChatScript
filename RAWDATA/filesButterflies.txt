@@ -1,4 +1,4 @@
 # underlying conversation system
-RAWDATA/STORIES/walk.top
+RAWDATA/STORIES/butterflies.top
 RAWDATA/HISTORIA/simplecontrol.top
 RAWDATA/HISTORIA/keywordless.top

@@ -1,5 +1,9 @@
-# ChatScript
-Natural Language tool/dialog manager
+# Historia - The Storytelling Chatbot
+Historia is a storytelling chatbot built for the purpose of determining whether it is possible to replace the dialogue planning element of a typical conversational interface with that of a structural hypertext model similar to that used in StoryPlaces - a web location-aware storytelling platform which allows readers to experience stories where the movement of the reader in the physical space determines what happens in the conceptual space of the narrative. 
+
+The four-time Loebner Prize winning chatbot engine, ChatScript, was used to implement and build Historia.
+
+TODO: update readme for historia
 
 ChatScript is the next generation chatbot engine that has won the Loebner's 4 times and is the basis for natural language company for a variety of tech startups.
 
@@ -161,18 +165,6 @@ or whatever other preinstalled bot exists. If you have revised basic data, you c
 
     :build 0
 
-## How to compile the engine.
-On windows if you have Visual Studio installed, launch `VS2010/chatscript.sln` or `VS2015/chatscript.sln` and do a build. 
-The result will go in the `BINARIES` directory.
-
-On Linux, go stand in the SRC directory and type `make server` (assuming you have make and g++ installed). This creates BINARIES/ChatScript, which can run as a server or locally. There are other make choices for installing PostGres or Mongo.
-
-
-# Full Documentation
-
-[ChatScript Wiki (user guides, tutorials, papers)](/WIKI/README.md)
-
-
 # Contributing
 
 1. Fork it
@@ -181,13 +173,7 @@ On Linux, go stand in the SRC directory and type `make server` (assuming you hav
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
 
-
-# Last releases
-
-[changes.md](/changes.md)
-
-
-# Author 
+# Author of ChatScript
 
 * Bruce Wilcox
   * home website: [BrilligUnderstanding.com](http://www.brilligunderstanding.com)
